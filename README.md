@@ -14,4 +14,4 @@ Original PDF I believe is anonymous, but I picked it up from [twitter](https://t
 
 In terms of the data itself, I think it needs more tlc to be useful. Someday I will [fold it into my other knowledge graph](https://noahkarsky.github.io/project-amanita/), and hopefully will find the right tool to make the data more accessible. 
 
-# [Anonymous Phenomena Timeline - Knowledge Graph](https://noahkarsky.github.io/anonymous_phenomena_timeline/)
+# [Anonymous Phenomena Timeline - Knowledge Graph](https://noahkarsky.github.io/anonymous_phenomena_timeline/anon_pdf_timeline_graph.html)
