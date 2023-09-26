@@ -22,11 +22,9 @@ def import_and_format_data(json_file):
     nodes = pd.DataFrame(data['nodes'])
     edges = pd.DataFrame(data['edges'])
 
-
-
     #correct the value 'groip' to 'group' found in the type column
     nodes['type'] = nodes['type'].str.replace('groip', 'group')
-  
+
     #add color to nodes df
     nodes['color'] = nodes['type'].map(node_color_map)
     nodes['Node']  = nodes.apply(lambda x: Node(id=x['id'], label=x['node_edited'], size=10,shape='dot' ,color =x['color']), axis=1)
