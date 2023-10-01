@@ -25,7 +25,7 @@ def create_mapping_dict(mapping_dict_path:str):
     mapping_dict = mapping_dict.drop(columns='column')
     return mapping_dict
 
-mapping_dict = create_mapping_dict(r'data\mapping_dict.json')
+mapping_dict = create_mapping_dict('data/mapping_dict.json')
 config = load_config()
 node_color_map = config["node_color_map"]
 
@@ -82,7 +82,7 @@ def format_edges(data: dict) -> pd.DataFrame:
 
 
 def import_and_format_data(
-    json_file: str = r"D:\repos\anonymous_phenomena_timeline\data\graph_data.json",
+    json_file: str = 'data/graph_data.json',
 ) -> tuple:
     
     data = import_data(json_file)
