@@ -1,0 +1,5 @@
+streamlit_agraph
+pandas
+streamlit
+pyyaml
+networkx
