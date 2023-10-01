@@ -22,7 +22,7 @@ def find_related_nodes_efficient(node_id, edges_df, degree=2):
 
 # Function to perform the graph rendering
 def render_graph(selected_node, nodes, edges):
-    if selected_node == "ALL(takes a second to load)":
+    if selected_node == "ALL(takes several second to load)":
         filtered_nodes = nodes
         filtered_edges = edges
         physics = True
@@ -72,7 +72,7 @@ col1, col2 = st.columns([9, 1])
 # Add a dropdown menu for node selection in the first column
 with col1:
     # Adding 'ALL' to the list of node IDs
-    node_options = ["ALL(takes a second to load)"] + nodes["id"].tolist()
+    node_options = ["ALL(takes several second to load)"] + nodes["id"].tolist()
     selected_node = st.selectbox("Select a node", node_options)
 
 # Add a legend in the second column
