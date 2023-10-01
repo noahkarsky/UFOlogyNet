@@ -25,7 +25,7 @@ def create_mapping_dict(mapping_dict_path:str):
     mapping_dict = mapping_dict.drop(columns='column')
     return mapping_dict
 
-mapping_dict = create_mapping_dict(r'D:\repos\anonymous_phenomena_timeline\data\mapping_dict.json')
+mapping_dict = create_mapping_dict(r'data\mapping_dict.json')
 config = load_config()
 node_color_map = config["node_color_map"]
 
