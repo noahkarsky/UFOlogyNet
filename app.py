@@ -9,7 +9,7 @@ with open('config.yaml', 'r') as file:
 
 node_color_map = config['node_color_map']
 #data import and formatting
-nodes,edges = import_and_format_data('../data/graph_data.json')
+nodes,edges = import_and_format_data('/data/graph_data.json')
 
 #### FUNCTIONS ####
 def find_related_nodes_efficient(node_id, edges_df, degree=2):

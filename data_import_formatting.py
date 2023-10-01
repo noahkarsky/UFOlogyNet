@@ -17,7 +17,7 @@ def import_json_data(json_file):
 def import_and_format_data(json_file):
 
     #data import and formatting
-    data = import_json_data('../data/graph_data.json')
+    data = import_json_data('data/graph_data.json')
     #make this into somethign graphistry can read
     nodes = pd.DataFrame(data['nodes'])
     edges = pd.DataFrame(data['edges'])
