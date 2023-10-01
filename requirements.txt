@@ -3,3 +3,6 @@ pandas
 streamlit
 pyyaml
 networkx
+wordcloud
+plotly
+
