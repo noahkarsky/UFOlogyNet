@@ -14,4 +14,4 @@ Original PDF I believe is anonymous as far as I know. You can find a hosted PDF 
 I had originally used a python graph library to handle the visualization, but I like being able to control various aspects so I instead went with a streamlit implementation. 
 Someday I will [fold it into my other knowledge graph](https://noahkarsky.github.io/project-amanita/) and create a unified visualization.
 
-# [Anonymous UAP Timeline - Knowledge Graph](https://uap-timeline-knowledge-graph.streamlit.app/)
+# [Anonymous UAP Timeline - Knowledge Graph](https://noahkarsky-anonymous-phenomena-timeline-app-s0ulm7.streamlit.app/)

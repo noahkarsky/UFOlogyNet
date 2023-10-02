@@ -112,10 +112,10 @@ if selected_node != "ALL(takes several second to load)":
         .sort_values(by='date', ascending=False)
     st.dataframe(filtered_source_data)
 else:
-    st.markdown('Select a node to see the source data reference')
+    st.markdown('### Select a node to see the source data reference')
 
 
-
+st.markdown("------")
 
 left_co, last_co = st.columns(2)
 with left_co:
