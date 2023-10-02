@@ -1,13 +1,23 @@
 import streamlit as st
 from streamlit_agraph import agraph, Config
-from data_import_formatting import import_and_format_data, make_wordcloud, make_word_count_bar_chart
+from data_import_formatting import (
+    import_and_format_data,
+    make_wordcloud,
+    make_word_count_bar_chart,
+    read_in_source_data,
+    create_mapping_dict,
+    get_original
+)
 import yaml
 import networkx as nx
 
 from collections import Counter
+
 with open("config.yaml", "r") as file:
     config = yaml.safe_load(file)
 
+mapping_dict = create_mapping_dict('data/mapping_dict.json')
+source_data = read_in_source_data()
 node_color_map = config["node_color_map"]
 # data import and formatting
 nodes, edges = import_and_format_data()
@@ -66,7 +76,6 @@ It helps to view the app in full screen, if not sometimes the nodes can be found
 )
 
 
-
 # Create two columns
 col1, col2 = st.columns([9, 1])
 # Add a dropdown menu for node selection in the first column
@@ -88,16 +97,36 @@ with col2:
 with col1:
     render_graph(selected_node, nodes, edges)
 
+###adding in the source df
 
 
-left_co,last_co = st.columns(2)
+def get_rows_with_name(df, name):
+    #replace name using mapping dict
+    name = get_original(mapping_dict, name)
+    df_with_name = df[(df["source"] == name) | (df["target"] == name)]
+    return df_with_name
+#when someone selects a node, show the source df 
+
+if selected_node != "ALL(takes several second to load)":
+    filtered_source_data = get_rows_with_name(source_data, selected_node)\
+        .sort_values(by='date', ascending=False)
+    st.dataframe(filtered_source_data)
+else:
+    st.markdown('Select a node to see the source data reference')
+
+
+
+
+left_co, last_co = st.columns(2)
 with left_co:
-    st.plotly_chart(make_word_count_bar_chart(edges),use_container_width=True)
-    
+    st.plotly_chart(make_word_count_bar_chart(edges), use_container_width=True)
+
 
 with last_co:
-    st.image(make_wordcloud(edges).to_array(),width=1200)
-    st.markdown("Wordcloud of the nodes in the timeline.",)
+    st.image(make_wordcloud(edges).to_array(), width=1200)
+    st.markdown(
+        "Wordcloud of the nodes in the timeline.",
+    )
 
 st.markdown(
     """

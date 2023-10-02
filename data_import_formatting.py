@@ -109,7 +109,7 @@ def aggregate_words(edges: pd.DataFrame) -> list:
 def make_word_count_bar_chart(edges: pd.DataFrame):
     words = aggregate_words(edges)
     word_counts = Counter(words)
-    word_counts = dict(word_counts.most_common(20))
+    word_counts = dict(word_counts.most_common(33))
     word_counts = pd.DataFrame.from_dict(word_counts, orient="index").reset_index()
     word_counts.columns = ["word", "count"]
     fig = px.bar(word_counts, x="word", y="count")
@@ -124,7 +124,6 @@ def make_word_count_bar_chart(edges: pd.DataFrame):
 def color_func(word, font_size, position, orientation, random_state=None, **kwargs):
     return "hsl(220, 100%%, %d%%)" % np.random.randint(50, 70)
 
-
 def make_wordcloud(edges: pd.DataFrame) -> WordCloud:
     words = aggregate_words(edges)
     frequency_dict = dict(Counter(words))
@@ -133,7 +132,19 @@ def make_wordcloud(edges: pd.DataFrame) -> WordCloud:
         width=800,
         height=400,
         max_font_size=40,
-        color_func=color_func,
+        color_func=color_func,  # Use the custom color_func
     )
     wordcloud.generate_from_frequencies(frequency_dict, max_font_size=33)
     return wordcloud
+
+def read_in_source_data():
+    file_path = 'data/entities.csv'
+    df = pd.read_csv(file_path)
+    #first turn all triplets into a list, currently they  are a string of a list
+    df['triplets'] = df['triplets'].apply(lambda x: eval(x))
+    #drop source and source_link columns
+    df = df.drop(['source', 'source_link'], axis=1)
+    df = df.explode('triplets')
+    #now split the triplets into columns
+    df[['source', 'relationship_type', 'target']] = pd.DataFrame(df['triplets'].tolist(), index=df.index)
+    return df
