@@ -7,7 +7,7 @@ import yaml
 import streamlit.components.v1 as components
 
 with open("config.yaml", "r") as file:
-    config = yaml.safe_load(file) 
+    config = yaml.safe_load(file)
 gravis_plot_config = config["gravis_plot_config"]
 
 
@@ -23,27 +23,29 @@ It helps to view the app in full screen, if not sometimes the nodes can be found
     
     """
 )
-#create a dropdown where people slect eith "Phenomena Timeline Data" or "Project Amanita Data
+# create a dropdown where people slect eith "Phenomena Timeline Data" or "Project Amanita Data
 
-dataset_selection = st.selectbox('Select a dataset', ['Phenomena Timeline Data', 'Project Amanita Data'])
+dataset_selection = st.selectbox(
+    "Select a dataset", ["Phenomena Timeline Data", "Project Amanita Data"]
+)
 
 
 df_nodes, df_edges = read_in_data(dataset_selection)
 
 
 # Get a list of all nodes
-all_nodes = df_nodes['name'].unique().tolist()
+all_nodes = df_nodes["name"].unique().tolist()
 all_nodes.insert(0, "ALL")  # Add "ALL" option to the list
 
 
-
-
 # Create a dropdown menu for node selection
-selected_node = st.selectbox('Select a node', all_nodes)
+selected_node = st.selectbox("Select a node", all_nodes)
 
-df_nodes_filtered, df_edges_filtered = filter_dataframes(selected_node, df_nodes, df_edges)
+df_nodes_filtered, df_edges_filtered = filter_dataframes(
+    selected_node, df_nodes, df_edges
+)
 G = make_graph(df_nodes_filtered, df_edges_filtered)
-graph_vis = make_plot(G,gravis_plot_config)
+graph_vis = make_plot(G, gravis_plot_config)
 
 
-components.html(graph_vis.to_html(), height=900) # << adjust if needed
+components.html(graph_vis.to_html(), height=900)  # << adjust if needed
