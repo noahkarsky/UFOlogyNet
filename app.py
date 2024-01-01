@@ -48,4 +48,4 @@ G = make_graph(df_nodes_filtered, df_edges_filtered)
 graph_vis = make_plot(G, gravis_plot_config)
 
 
-components.html(graph_vis.to_html(), height=900)  # << adjust if needed
+components.html(graph_vis.to_html(), height=1200)  # << adjust if needed

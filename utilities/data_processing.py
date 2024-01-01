@@ -42,7 +42,6 @@ def filter_dataframes(node_name, df_nodes, df_edges):
 
     # first check if the node name is "all", if so return the original dataframes
     if node_name == "ALL":
-        print("returning original dataframes")
         return df_nodes, df_edges
 
     df_nodes_filtered = df_nodes[df_nodes["name"] == node_name]

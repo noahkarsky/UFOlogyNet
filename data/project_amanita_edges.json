@@ -1,1495 +1,1495 @@
 [
     {
-        "source": "Task Force Delta",
-        "target": "US Army",
+        "source": "task_force_delta",
+        "target": "us_army",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Task Force Delta",
-        "target": "Frank Burns",
+        "source": "task_force_delta",
+        "target": "frank_burns",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Frank Burns",
-        "target": "US Army",
+        "source": "frank_burns",
+        "target": "us_army",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Frank Burns",
-        "target": "Inspector General of the Army",
+        "source": "frank_burns",
+        "target": "inspector_general_of_the_army",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Michael Aquino",
-        "target": "psychological warfare",
+        "source": "michael_aquino",
+        "target": "psychological_warfare",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Michael Aquino",
-        "target": "Michael Murphy",
+        "source": "michael_aquino",
+        "target": "michael_murphy",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Michael Aquino",
-        "target": "From PSYOP to MindWar: The Psychology of Victory",
+        "source": "michael_aquino",
+        "target": "from_psyop_to_mindwar:_the_psychology_of_victory",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Michael Aquino",
-        "target": "US Army",
+        "source": "michael_aquino",
+        "target": "us_army",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Arizona baiting experiment",
-        "target": "Arizona",
+        "source": "arizona_baiting_experiment",
+        "target": "arizona",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Arizona baiting experiment",
-        "target": "Experiencer Study",
+        "source": "arizona_baiting_experiment",
+        "target": "experiencer_study",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Bradshaw Ranch",
-        "target": "Arizona",
+        "source": "bradshaw_ranch",
+        "target": "arizona",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Experiencer Study",
-        "target": "Remote Viewing",
+        "source": "experiencer_study",
+        "target": "remote_viewing",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "BDM Braddock, Dunn, McDonald",
+        "source": "albert_stubblebine",
+        "target": "bdm_braddock,_dunn,_mcdonald",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "US Army",
+        "source": "albert_stubblebine",
+        "target": "us_army",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "INSCOM",
+        "source": "albert_stubblebine",
+        "target": "inscom",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "CE5",
+        "source": "albert_stubblebine",
+        "target": "ce5",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "Dr. Kit Green",
+        "source": "albert_stubblebine",
+        "target": "dr._kit_green",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "T.R.E.A.T IV Conference",
+        "source": "albert_stubblebine",
+        "target": "t.r.e.a.t_iv_conference",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "PSI-Tech",
+        "source": "albert_stubblebine",
+        "target": "psi-tech",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "CE5",
+        "source": "albert_stubblebine",
+        "target": "ce5",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "Stargate Project",
+        "source": "albert_stubblebine",
+        "target": "stargate_project",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "psychological warfare",
+        "source": "albert_stubblebine",
+        "target": "psychological_warfare",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "albert_stubblebine",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "nutsandbolts research",
+        "source": "albert_stubblebine",
+        "target": "nutsandbolts_research",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Albert Stubblebine",
-        "target": "Remote Viewing",
+        "source": "albert_stubblebine",
+        "target": "remote_viewing",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "US Navy",
-        "target": "Directed Energy Weapon",
+        "source": "us_navy",
+        "target": "directed_energy_weapon",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Sumner Shapiro",
-        "target": "BDM Braddock, Dunn, McDonald",
+        "source": "sumner_shapiro",
+        "target": "bdm_braddock,_dunn,_mcdonald",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Sumner Shapiro",
-        "target": "Recovered Craft",
+        "source": "sumner_shapiro",
+        "target": "recovered_craft",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Sumner Shapiro",
-        "target": "antimatter reactor",
+        "source": "sumner_shapiro",
+        "target": "antimatter_reactor",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Sumner Shapiro",
-        "target": "Director of Naval Intelligence",
+        "source": "sumner_shapiro",
+        "target": "director_of_naval_intelligence",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Varginha UFO Crash",
+        "source": "varginha_ufo_crash",
         "target": "1996",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Varginha UFO Crash",
-        "target": "Varginha",
+        "source": "varginha_ufo_crash",
+        "target": "varginha",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Harry S. Truman",
-        "target": "MJ-12",
+        "source": "harry_s._truman",
+        "target": "mj-12",
         "relationship_type": "founded_by",
         "properties": {
             "start_date": "1980s"
         }
     },
     {
-        "source": "Barry Goldwater",
-        "target": "Senator",
+        "source": "barry_goldwater",
+        "target": "senator",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Barry Goldwater",
-        "target": "Admiral Bobby Ray Inman",
+        "source": "barry_goldwater",
+        "target": "admiral_bobby_ray_inman",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Eric W. Davis",
-        "target": "GRAVWAVE LLC",
+        "source": "dr._eric_w._davis",
+        "target": "gravwave_llc",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Dr. Eric W. Davis",
-        "target": "Gravitational Wave (GW) Radiation Pattern at the Focus of a High\u2010Frequency GW (HFGW) Generator and Aerospace Applications",
+        "source": "dr._eric_w._davis",
+        "target": "gravitational_wave_(gw)_radiation_pattern_at_the_focus_of_a_high\u2010frequency_gw_(hfgw)_generator_and_aerospace_applications",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Dr. Eric W. Davis",
-        "target": "Earth Tech International",
+        "source": "dr._eric_w._davis",
+        "target": "earth_tech_international",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Dr. Eric W. Davis",
-        "target": "WilsonDavis notes",
+        "source": "dr._eric_w._davis",
+        "target": "wilsondavis_notes",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Dr. Eric W. Davis",
-        "target": "Association of Former Intelligence Officers AFIO",
+        "source": "dr._eric_w._davis",
+        "target": "association_of_former_intelligence_officers_afio",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Dr. Eric W. Davis",
-        "target": "WilsonDavis notes",
+        "source": "dr._eric_w._davis",
+        "target": "wilsondavis_notes",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "Dr. Eric W. Davis",
-        "target": "NIDS - National Institute for Discover Science (NIDS)",
+        "source": "dr._eric_w._davis",
+        "target": "nids_-_national_institute_for_discover_science_(nids)",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Project Starlight",
-        "target": "Steven Greer",
+        "source": "project_starlight",
+        "target": "steven_greer",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Steven Greer",
-        "target": "CE5",
+        "source": "steven_greer",
+        "target": "ce5",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Steven Greer",
-        "target": "Jonathan Weygandt",
+        "source": "steven_greer",
+        "target": "jonathan_weygandt",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Steven Greer",
-        "target": "T.R.E.A.T IV Conference",
+        "source": "steven_greer",
+        "target": "t.r.e.a.t_iv_conference",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Steven Greer",
-        "target": "Barry Goldwater",
+        "source": "steven_greer",
+        "target": "barry_goldwater",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Steven Greer",
-        "target": "CSETI",
+        "source": "steven_greer",
+        "target": "cseti",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Steven Greer",
-        "target": "April 1997 Pentagon Meeting",
+        "source": "steven_greer",
+        "target": "april_1997_pentagon_meeting",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Project Grudge",
-        "target": "Air Force",
+        "source": "project_grudge",
+        "target": "air_force",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "AEC Atomic Energy Commission",
-        "target": "Trinity UFO Crash",
+        "source": "aec_atomic_energy_commission",
+        "target": "trinity_ufo_crash",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "AEC Atomic Energy Commission",
-        "target": "Department of Energy",
+        "source": "aec_atomic_energy_commission",
+        "target": "department_of_energy",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Ed Mitchell",
-        "target": "New York",
+        "source": "ed_mitchell",
+        "target": "new_york",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Ed Mitchell",
-        "target": "April 1997 Pentagon Meeting",
+        "source": "ed_mitchell",
+        "target": "april_1997_pentagon_meeting",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Los Alamos National Laboratory",
-        "target": "Trinity UFO Crash",
+        "source": "los_alamos_national_laboratory",
+        "target": "trinity_ufo_crash",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Los Alamos National Laboratory",
-        "target": "New Mexico",
+        "source": "los_alamos_national_laboratory",
+        "target": "new_mexico",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "T.R.E.A.T IV Conference",
+        "source": "t.r.e.a.t_iv_conference",
         "target": "1992",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Project 8200",
-        "target": "Pat Price",
+        "source": "project_8200",
+        "target": "pat_price",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Project 8200",
-        "target": "UFO Base",
+        "source": "project_8200",
+        "target": "ufo_base",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "Project 8200",
-        "target": "Remote Viewing",
+        "source": "project_8200",
+        "target": "remote_viewing",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "LT Skip Atwater",
-        "target": "US Army",
+        "source": "lt_skip_atwater",
+        "target": "us_army",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "LT Skip Atwater",
-        "target": "Albert Stubblebine",
+        "source": "lt_skip_atwater",
+        "target": "albert_stubblebine",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "LT Skip Atwater",
-        "target": "Project 8200",
+        "source": "lt_skip_atwater",
+        "target": "project_8200",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "SAIC Science Applications International Corporation",
-        "target": "NSA West",
+        "source": "saic_science_applications_international_corporation",
+        "target": "nsa_west",
         "relationship_type": "also_known_as",
         "properties": {}
     },
     {
-        "source": "SAIC Science Applications International Corporation",
-        "target": "Electric Propulsion Study",
+        "source": "saic_science_applications_international_corporation",
+        "target": "electric_propulsion_study",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "SAIC Science Applications International Corporation",
-        "target": "SAP",
+        "source": "saic_science_applications_international_corporation",
+        "target": "sap",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "SAIC Science Applications International Corporation",
-        "target": "NSA",
+        "source": "saic_science_applications_international_corporation",
+        "target": "nsa",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "SAIC Science Applications International Corporation",
-        "target": "Gravity Propulsion Systems",
+        "source": "saic_science_applications_international_corporation",
+        "target": "gravity_propulsion_systems",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "SAIC Science Applications International Corporation",
-        "target": "Project SUNSTREAK",
+        "source": "saic_science_applications_international_corporation",
+        "target": "project_sunstreak",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "Trinity UFO Crash",
-        "target": "San Antonio, New Mexico",
+        "source": "trinity_ufo_crash",
+        "target": "san_antonio,_new_mexico",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "UFO researcher",
+        "source": "bob_oechsler",
+        "target": "ufo_researcher",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Admiral Bobby Ray Inman",
+        "source": "bob_oechsler",
+        "target": "admiral_bobby_ray_inman",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Electromagnetic Compatibility Analysis Center",
+        "source": "bob_oechsler",
+        "target": "electromagnetic_compatibility_analysis_center",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Gulf Breeze Incident",
+        "source": "bob_oechsler",
+        "target": "gulf_breeze_incident",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Sumner Shapiro",
+        "source": "bob_oechsler",
+        "target": "sumner_shapiro",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Everett Hineman",
+        "source": "bob_oechsler",
+        "target": "everett_hineman",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Alien Update",
+        "source": "bob_oechsler",
+        "target": "alien_update",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Admiral Lord Hill-Norton",
+        "source": "bob_oechsler",
+        "target": "admiral_lord_hill-norton",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Bob Oechsler",
-        "target": "Timothy Good",
+        "source": "bob_oechsler",
+        "target": "timothy_good",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Admiral Lord Hill-Norton",
-        "target": "Above Top Secret",
+        "source": "admiral_lord_hill-norton",
+        "target": "above_top_secret",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Admiral Lord Hill-Norton",
-        "target": "Timothy Good",
+        "source": "admiral_lord_hill-norton",
+        "target": "timothy_good",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Roscoe H. Hillenkoetter",
-        "target": "MJ-12",
+        "source": "roscoe_h._hillenkoetter",
+        "target": "mj-12",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Vannevar Bush",
-        "target": "Crash Retrieval and UAP acknowledgement",
+        "source": "vannevar_bush",
+        "target": "crash_retrieval_and_uap_acknowledgement",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Vannevar Bush",
-        "target": "MJ-12",
+        "source": "vannevar_bush",
+        "target": "mj-12",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Detlev Bronk",
-        "target": "MJ-12",
+        "source": "detlev_bronk",
+        "target": "mj-12",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Nathan Twining",
-        "target": "MJ-12",
+        "source": "nathan_twining",
+        "target": "mj-12",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Michael Murphy",
-        "target": "USSR",
+        "source": "michael_murphy",
+        "target": "ussr",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Michael Murphy",
-        "target": "Steve Donovan",
+        "source": "michael_murphy",
+        "target": "steve_donovan",
         "relationship_type": "collaborated_with",
         "properties": {
             "notes": "Michael used information from Steve to write his book."
         }
     },
     {
-        "source": "Michael Murphy",
-        "target": "An End to Ordinary History",
+        "source": "michael_murphy",
+        "target": "an_end_to_ordinary_history",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Pat Price",
-        "target": "Project SCANATE",
+        "source": "pat_price",
+        "target": "project_scanate",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Pat Price",
-        "target": "Dr. Hal Puthoff",
+        "source": "pat_price",
+        "target": "dr._hal_puthoff",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Pat Price",
-        "target": "Remote Viewing",
+        "source": "pat_price",
+        "target": "remote_viewing",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Okes notes",
-        "target": "Len Buchholz",
+        "source": "okes_notes",
+        "target": "len_buchholz",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "Joseph McMoneagle",
-        "target": "Project 8200",
+        "source": "joseph_mcmoneagle",
+        "target": "project_8200",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Joseph McMoneagle",
-        "target": "Armys remote viewing program",
+        "source": "joseph_mcmoneagle",
+        "target": "armys_remote_viewing_program",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "Joseph McMoneagle",
-        "target": "Stargate Project",
+        "source": "joseph_mcmoneagle",
+        "target": "stargate_project",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Alien Technology Transfer",
-        "target": "PSI-Tech",
+        "source": "alien_technology_transfer",
+        "target": "psi-tech",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Everett Hineman",
-        "target": "CIA",
+        "source": "everett_hineman",
+        "target": "cia",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Everett Hineman",
-        "target": "FMSAC - Foreign Missile and Space Analysis Center",
+        "source": "everett_hineman",
+        "target": "fmsac_-_foreign_missile_and_space_analysis_center",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Everett Hineman",
-        "target": "NRO - National Reconnaissance Program",
+        "source": "everett_hineman",
+        "target": "nro_-_national_reconnaissance_program",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Everett Hineman",
-        "target": "Program B",
+        "source": "everett_hineman",
+        "target": "program_b",
         "relationship_type": "member_of",
         "properties": {
             "notes": "1982-1989"
         }
     },
     {
-        "source": "Everett Hineman",
-        "target": "Deputy Director for Science Technology",
+        "source": "everett_hineman",
+        "target": "deputy_director_for_science_technology",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Everett Hineman",
-        "target": "Admiral Bobby Ray Inman",
+        "source": "everett_hineman",
+        "target": "admiral_bobby_ray_inman",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "William Odom",
-        "target": "Army Intelligence",
+        "source": "william_odom",
+        "target": "army_intelligence",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "William Odom",
-        "target": "Lieutenant General",
+        "source": "william_odom",
+        "target": "lieutenant_general",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Army Intelligence",
-        "target": "US Army",
+        "source": "army_intelligence",
+        "target": "us_army",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Robert Moore",
-        "target": "US Army",
+        "source": "robert_moore",
+        "target": "us_army",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Robert Moore",
-        "target": "Lieutenant General",
+        "source": "robert_moore",
+        "target": "lieutenant_general",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "BDM Braddock, Dunn, McDonald",
-        "target": "Animal Mutilations",
+        "source": "bdm_braddock,_dunn,_mcdonald",
+        "target": "animal_mutilations",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "BDM Braddock, Dunn, McDonald",
-        "target": "Joe Braddock",
+        "source": "bdm_braddock,_dunn,_mcdonald",
+        "target": "joe_braddock",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "BDM Braddock, Dunn, McDonald",
-        "target": "Boeing",
+        "source": "bdm_braddock,_dunn,_mcdonald",
+        "target": "boeing",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "BDM Braddock, Dunn, McDonald",
-        "target": "Department of Energy",
+        "source": "bdm_braddock,_dunn,_mcdonald",
+        "target": "department_of_energy",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "BDM Braddock, Dunn, McDonald",
-        "target": "EMP",
+        "source": "bdm_braddock,_dunn,_mcdonald",
+        "target": "emp",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "BDM Braddock, Dunn, McDonald",
-        "target": "TRESTLE",
+        "source": "bdm_braddock,_dunn,_mcdonald",
+        "target": "trestle",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Roswell",
-        "target": "New Mexico",
+        "source": "roswell",
+        "target": "new_mexico",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Bob Lazar",
-        "target": "antimatter reactor",
+        "source": "bob_lazar",
+        "target": "antimatter_reactor",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "PSI-Tech",
+        "source": "psi-tech",
         "target": "1989",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "PSI-Tech",
-        "target": "Remote Viewing",
+        "source": "psi-tech",
+        "target": "remote_viewing",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "PSI-Tech",
-        "target": "MAJ Ed Dames",
+        "source": "psi-tech",
+        "target": "maj_ed_dames",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "PSI-Tech",
-        "target": "Albert Stubblebine",
+        "source": "psi-tech",
+        "target": "albert_stubblebine",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "PSI-Tech",
-        "target": "UFO Base",
+        "source": "psi-tech",
+        "target": "ufo_base",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "PSI-Tech",
-        "target": "nutsandbolts research",
+        "source": "psi-tech",
+        "target": "nutsandbolts_research",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Steve Donovan",
-        "target": "USSR",
+        "source": "steve_donovan",
+        "target": "ussr",
         "relationship_type": "studies",
         "properties": {
             "notes": "studied psycological work that was going on in russia"
         }
     },
     {
-        "source": "Steve Donovan",
-        "target": "An End to Ordinary History",
+        "source": "steve_donovan",
+        "target": "an_end_to_ordinary_history",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "United States",
-        "target": "Executive Branch",
+        "source": "united_states",
+        "target": "executive_branch",
         "relationship_type": "has_part",
         "properties": {
             "type": "has part"
         }
     },
     {
-        "source": "United States",
-        "target": "Legislative Branch",
+        "source": "united_states",
+        "target": "legislative_branch",
         "relationship_type": "has_part",
         "properties": {
             "type": "has part"
         }
     },
     {
-        "source": "United States",
-        "target": "Judicial Branch",
+        "source": "united_states",
+        "target": "judicial_branch",
         "relationship_type": "has_part",
         "properties": {
             "type": "has part"
         }
     },
     {
-        "source": "Executive Branch",
-        "target": "Department of Defense",
+        "source": "executive_branch",
+        "target": "department_of_defense",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Jack Vorona",
-        "target": "Nuclear Physicist",
+        "source": "jack_vorona",
+        "target": "nuclear_physicist",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Jack Vorona",
-        "target": "DIA Defense Intelligence Agency",
+        "source": "jack_vorona",
+        "target": "dia_defense_intelligence_agency",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Jack Vorona",
-        "target": "DARPA Defence Advanced Research Projects Agency",
+        "source": "jack_vorona",
+        "target": "darpa_defence_advanced_research_projects_agency",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Jack Vorona",
-        "target": "Sleeping Beauty",
+        "source": "jack_vorona",
+        "target": "sleeping_beauty",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Jack Vorona",
-        "target": "Project Grill Flame",
+        "source": "jack_vorona",
+        "target": "project_grill_flame",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dale Graff",
-        "target": "Edwin May",
+        "source": "dale_graff",
+        "target": "edwin_may",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dale Graff",
-        "target": "Project SUNSTREAK",
+        "source": "dale_graff",
+        "target": "project_sunstreak",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Bob Bigelows",
-        "target": "Bigelow Aerospace Advanced Space Studies BAASS",
+        "source": "bob_bigelows",
+        "target": "bigelow_aerospace_advanced_space_studies_baass",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Bob Bigelows",
-        "target": "AAWSAPBAASS",
+        "source": "bob_bigelows",
+        "target": "aawsapbaass",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "NIDS - National Institute for Discover Science (NIDS)",
-        "target": "Skinwalker Ranch",
+        "source": "nids_-_national_institute_for_discover_science_(nids)",
+        "target": "skinwalker_ranch",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "NIDS - National Institute for Discover Science (NIDS)",
-        "target": "Bob Bigelows",
+        "source": "nids_-_national_institute_for_discover_science_(nids)",
+        "target": "bob_bigelows",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "NIDS - National Institute for Discover Science (NIDS)",
-        "target": "Skinwalker Ranch",
+        "source": "nids_-_national_institute_for_discover_science_(nids)",
+        "target": "skinwalker_ranch",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Five Dimensional Physics",
-        "target": "Dynamic Theory",
+        "source": "five_dimensional_physics",
+        "target": "dynamic_theory",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Malmstrom incident",
+        "source": "malmstrom_incident",
         "target": "1999",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Paul E. Valley",
-        "target": "psychological warfare",
+        "source": "paul_e._valley",
+        "target": "psychological_warfare",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Paul E. Valley",
-        "target": "From PSYOP to MindWar: The Psychology of Victory",
+        "source": "paul_e._valley",
+        "target": "from_psyop_to_mindwar:_the_psychology_of_victory",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "George Van Tassel",
-        "target": "Lockheed Martin",
+        "source": "george_van_tassel",
+        "target": "lockheed_martin",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "George Van Tassel",
-        "target": "Hughes Aircraft",
+        "source": "george_van_tassel",
+        "target": "hughes_aircraft",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "George Van Tassel",
-        "target": "Douglas Aircraft Company",
+        "source": "george_van_tassel",
+        "target": "douglas_aircraft_company",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "College of Universal Wisdom",
-        "target": "George Van Tassel",
+        "source": "college_of_universal_wisdom",
+        "target": "george_van_tassel",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Directed Energy Weapon",
-        "target": "Radar",
+        "source": "directed_energy_weapon",
+        "target": "radar",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Dr. Robert Sarbacher",
-        "target": "Crash Retrieval and UAP acknowledgement",
+        "source": "dr._robert_sarbacher",
+        "target": "crash_retrieval_and_uap_acknowledgement",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Dr. Robert Sarbacher",
-        "target": "Department of Defense",
+        "source": "dr._robert_sarbacher",
+        "target": "department_of_defense",
         "relationship_type": "employer",
         "properties": {
             "end_date": "1950",
-            "notes": "https:\/\/www.ttbrown.com\/forum\/download\/file.php?id=8&sid=7e90c6e244abf13e9e268f626831d3ff&mode=view",
+            "notes": "https://www.ttbrown.com/forum/download/file.php?id=8&sid=7e90c6e244abf13e9e268f626831d3ff&mode=view",
             "start_date": "1940"
         }
     },
     {
-        "source": "Dr. Robert Sarbacher",
-        "target": "Oak Ridge Institute for Nuclear Studies",
+        "source": "dr._robert_sarbacher",
+        "target": "oak_ridge_institute_for_nuclear_studies",
         "relationship_type": "employer",
         "properties": {
-            "notes": "https:\/\/www.ttbrown.com\/forum\/download\/file.php?id=8&sid=7e90c6e244abf13e9e268f626831d3ff&mode=view"
+            "notes": "https://www.ttbrown.com/forum/download/file.php?id=8&sid=7e90c6e244abf13e9e268f626831d3ff&mode=view"
         }
     },
     {
-        "source": "Lt. Col. Ron Blackburn",
-        "target": "Lockheed Martin",
+        "source": "lt._col._ron_blackburn",
+        "target": "lockheed_martin",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Lt. Col. Ron Blackburn",
-        "target": "Microwave Technology",
+        "source": "lt._col._ron_blackburn",
+        "target": "microwave_technology",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Lt. Col. Ron Blackburn",
-        "target": "MAJ Ed Dames",
+        "source": "lt._col._ron_blackburn",
+        "target": "maj_ed_dames",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Lt. Col. Ron Blackburn",
-        "target": "Lockheed Skunk Works",
+        "source": "lt._col._ron_blackburn",
+        "target": "lockheed_skunk_works",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Lt. Col. Ron Blackburn",
-        "target": "TRESTLE",
+        "source": "lt._col._ron_blackburn",
+        "target": "trestle",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Project Sign",
-        "target": "Air Force",
+        "source": "project_sign",
+        "target": "air_force",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "MJ-12",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "mj-12",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Department of Energy",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "department_of_energy",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Animal Mutilations",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "animal_mutilations",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
+        "source": "atp_advanced_theoretical_working_group",
         "target": "1985",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Gen. Jack Sheehan",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "gen._jack_sheehan",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Admiral Bobby Ray Inman",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "admiral_bobby_ray_inman",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Col. John Alexander",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "col._john_alexander",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Lt. Col. Ron Blackburn",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "lt._col._ron_blackburn",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Task Force Delta",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "task_force_delta",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Remote Viewing",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "remote_viewing",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "ATP Advanced Theoretical Working Group",
-        "target": "Secret Onion",
+        "source": "atp_advanced_theoretical_working_group",
+        "target": "secret_onion",
         "relationship_type": "also_known_as",
         "properties": {}
     },
     {
-        "source": "Gang of Eight",
-        "target": "House Appropriations and Armed Services Committees",
+        "source": "gang_of_eight",
+        "target": "house_appropriations_and_armed_services_committees",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Gang of Eight",
+        "source": "gang_of_eight",
         "target": "legislated",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Gang of Eight",
-        "target": "Senate",
+        "source": "gang_of_eight",
+        "target": "senate",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "House Appropriations and Armed Services Committees",
-        "target": "legislative branch",
+        "source": "house_appropriations_and_armed_services_committees",
+        "target": "legislative_branch",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "House Appropriations and Armed Services Committees",
-        "target": "Gang of Eight",
+        "source": "house_appropriations_and_armed_services_committees",
+        "target": "gang_of_eight",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "Senate",
-        "target": "Gang of Eight",
+        "source": "senate",
+        "target": "gang_of_eight",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "Earth Tech International",
-        "target": "Dr. Hal Puthoff",
+        "source": "earth_tech_international",
+        "target": "dr._hal_puthoff",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Earth Tech International",
-        "target": "Dr. Kit Green",
+        "source": "earth_tech_international",
+        "target": "dr._kit_green",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Earth Tech International",
-        "target": "Defense Intelligence Reference Document DIRD",
+        "source": "earth_tech_international",
+        "target": "defense_intelligence_reference_document_dird",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Earth Tech International",
-        "target": "Institute for Advanced Studies at Austin",
+        "source": "earth_tech_international",
+        "target": "institute_for_advanced_studies_at_austin",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Oak Ridge Institute for Nuclear Studies",
-        "target": "Oak Ridge, TN",
+        "source": "oak_ridge_institute_for_nuclear_studies",
+        "target": "oak_ridge,_tn",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Albert M. Stone",
-        "target": "Flying Saucer Notes",
+        "source": "albert_m._stone",
+        "target": "flying_saucer_notes",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Albert M. Stone",
-        "target": "Radar",
+        "source": "albert_m._stone",
+        "target": "radar",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Richard Tighe",
-        "target": "Consolidated Nuclear Security",
+        "source": "richard_tighe",
+        "target": "consolidated_nuclear_security",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Stargate Project",
-        "target": "Project SCANATE",
+        "source": "stargate_project",
+        "target": "project_scanate",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Stargate Project",
-        "target": "Project SUNSTREAK",
+        "source": "stargate_project",
+        "target": "project_sunstreak",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Stargate Project",
-        "target": "SAIC Science Applications International Corporation",
+        "source": "stargate_project",
+        "target": "saic_science_applications_international_corporation",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Institute for Advanced Studies at Austin",
+        "source": "dr._hal_puthoff",
+        "target": "institute_for_advanced_studies_at_austin",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+        "source": "dr._hal_puthoff",
+        "target": "advanced_space_propulsion_based_on_vacuum_(spacetime_metric)_engineering",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Bigelow Aerospace Advanced Space Studies BAASS",
+        "source": "dr._hal_puthoff",
+        "target": "bigelow_aerospace_advanced_space_studies_baass",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "SRI International",
+        "source": "dr._hal_puthoff",
+        "target": "sri_international",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Ultraterrestrial Models",
+        "source": "dr._hal_puthoff",
+        "target": "ultraterrestrial_models",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Electric Propulsion Study",
+        "source": "dr._hal_puthoff",
+        "target": "electric_propulsion_study",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Jacques Vallee",
+        "source": "dr._hal_puthoff",
+        "target": "jacques_vallee",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "LT Skip Atwater",
+        "source": "dr._hal_puthoff",
+        "target": "lt_skip_atwater",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Project 8200",
+        "source": "dr._hal_puthoff",
+        "target": "project_8200",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "quantum communication technology",
+        "source": "dr._hal_puthoff",
+        "target": "quantum_communication_technology",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "NIDS - National Institute for Discover Science (NIDS)",
+        "source": "dr._hal_puthoff",
+        "target": "nids_-_national_institute_for_discover_science_(nids)",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "dr._hal_puthoff",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Stargate Project",
+        "source": "dr._hal_puthoff",
+        "target": "stargate_project",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "SRIs remote viewing program",
+        "source": "dr._hal_puthoff",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Dr. Hal Puthoff",
-        "target": "Remote Viewing",
+        "source": "dr._hal_puthoff",
+        "target": "remote_viewing",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "WilsonDavis notes",
-        "target": "crash retrieval program",
+        "source": "wilsondavis_notes",
+        "target": "crash_retrieval_program",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "WilsonDavis notes",
+        "source": "wilsondavis_notes",
         "target": "2002",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Disclosure Program",
-        "target": "Steven Greer",
+        "source": "disclosure_program",
+        "target": "steven_greer",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Pre-AATIP group",
-        "target": "DARPA Defence Advanced Research Projects Agency",
+        "source": "pre-aatip_group",
+        "target": "darpa_defence_advanced_research_projects_agency",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Howard Blums Out There",
-        "target": "Secret Onion",
+        "source": "howard_blums_out_there",
+        "target": "secret_onion",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Consolidated Nuclear Security",
-        "target": "Pantex plant",
+        "source": "consolidated_nuclear_security",
+        "target": "pantex_plant",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Consolidated Nuclear Security",
-        "target": "Y12 National Security Complex",
+        "source": "consolidated_nuclear_security",
+        "target": "y12_national_security_complex",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "SRI International",
-        "target": "Project Grill Flame",
+        "source": "sri_international",
+        "target": "project_grill_flame",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "SRI International",
-        "target": "SRIs remote viewing program",
+        "source": "sri_international",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "SRI International",
-        "target": "Remote Viewing",
+        "source": "sri_international",
+        "target": "remote_viewing",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "RAF Bentwaters",
-        "target": "England",
+        "source": "raf_bentwaters",
+        "target": "england",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Willard Machle",
-        "target": "Flying Saucer Notes",
+        "source": "willard_machle",
+        "target": "flying_saucer_notes",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "1950 Briefings on UFO Crash Retrievals",
-        "target": "Crash Retrieval and UAP acknowledgement",
+        "source": "1950_briefings_on_ufo_crash_retrievals",
+        "target": "crash_retrieval_and_uap_acknowledgement",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "1950 Briefings on UFO Crash Retrievals",
-        "target": "Wright Patterson AFB",
+        "source": "1950_briefings_on_ufo_crash_retrievals",
+        "target": "wright_patterson_afb",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Timothy Good",
-        "target": "UFO researcher",
+        "source": "timothy_good",
+        "target": "ufo_researcher",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Timothy Good",
-        "target": "Above Top Secret",
+        "source": "timothy_good",
+        "target": "above_top_secret",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Timothy Good",
-        "target": "Alien Contact At the Ozark UFO Conference",
+        "source": "timothy_good",
+        "target": "alien_contact_at_the_ozark_ufo_conference",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Timothy Good",
-        "target": "Alien Contact Shapiro",
+        "source": "timothy_good",
+        "target": "alien_contact_shapiro",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Timothy Good",
-        "target": "Again from Alien Contact",
+        "source": "timothy_good",
+        "target": "again_from_alien_contact",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Timothy Good",
-        "target": "Timothy Goods Above Top Secret The Worldwide UFO CoverUp",
+        "source": "timothy_good",
+        "target": "timothy_goods_above_top_secret_the_worldwide_ufo_coverup",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Chesapeake Bay",
-        "target": "Virginia Beach",
+        "source": "chesapeake_bay",
+        "target": "virginia_beach",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Chesapeake Bay",
-        "target": "Maryland",
+        "source": "chesapeake_bay",
+        "target": "maryland",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Electromagnetic Compatibility Analysis Center",
-        "target": "EMPRESS I",
+        "source": "electromagnetic_compatibility_analysis_center",
+        "target": "empress_i",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Electromagnetic Compatibility Analysis Center",
-        "target": "EMP",
+        "source": "electromagnetic_compatibility_analysis_center",
+        "target": "emp",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Electromagnetic Compatibility Analysis Center",
-        "target": "Department of Defense",
+        "source": "electromagnetic_compatibility_analysis_center",
+        "target": "department_of_defense",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Electromagnetic Compatibility Analysis Center",
-        "target": "EMPRESS II",
+        "source": "electromagnetic_compatibility_analysis_center",
+        "target": "empress_ii",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Electromagnetic Compatibility Analysis Center",
-        "target": "Maryland",
+        "source": "electromagnetic_compatibility_analysis_center",
+        "target": "maryland",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Dr. Eric Walker",
-        "target": "MJ-12",
+        "source": "dr._eric_walker",
+        "target": "mj-12",
         "relationship_type": "member_of",
         "properties": {
-            "notes": "https:\/\/web.archive.org\/web\/20190404035956\/http:\/\/www.presidentialufo.com\/old_site\/dr__eric_walker.htm"
+            "notes": "https://web.archive.org/web/20190404035956/http://www.presidentialufo.com/old_site/dr__eric_walker.htm"
         }
     },
     {
-        "source": "Dr. Eric Walker",
-        "target": "1950 Briefings on UFO Crash Retrievals",
+        "source": "dr._eric_walker",
+        "target": "1950_briefings_on_ufo_crash_retrievals",
         "relationship_type": "member_of",
         "properties": {
-            "notes": "https:\/\/web.archive.org\/web\/20190327090023\/http:\/\/www.presidentialufo.com\/old_site\/smith_sarbacher.htm\n\nhttps:\/\/www.reddit.com\/r\/UFOs\/comments\/vphr9r\/the_president_of_penn_state_university_dr_eric\/"
+            "notes": "https://web.archive.org/web/20190327090023/http://www.presidentialufo.com/old_site/smith_sarbacher.htm\n\nhttps://www.reddit.com/r/UFOs/comments/vphr9r/the_president_of_penn_state_university_dr_eric/"
         }
     },
     {
-        "source": "HAARP ",
-        "target": "Radar",
+        "source": "haarp_",
+        "target": "radar",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Project Grill Flame",
-        "target": "Remote Viewing",
+        "source": "project_grill_flame",
+        "target": "remote_viewing",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "Project Grill Flame",
-        "target": "US Army",
+        "source": "project_grill_flame",
+        "target": "us_army",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Project Grill Flame",
-        "target": "Stargate Project",
+        "source": "project_grill_flame",
+        "target": "stargate_project",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Project Grill Flame",
-        "target": "Edwin May",
+        "source": "project_grill_flame",
+        "target": "edwin_may",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Project PANDORA",
-        "target": "DARPA Defence Advanced Research Projects Agency",
+        "source": "project_pandora",
+        "target": "darpa_defence_advanced_research_projects_agency",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Project PANDORA",
-        "target": "Project Bizarre",
+        "source": "project_pandora",
+        "target": "project_bizarre",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Director of Naval Intelligence",
-        "target": "Recovered Craft",
+        "source": "director_of_naval_intelligence",
+        "target": "recovered_craft",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Douglas Cotter",
-        "target": "NNSA",
+        "source": "douglas_cotter",
+        "target": "nnsa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Douglas Cotter",
-        "target": "Space Nuclear Detonation Detection program",
+        "source": "douglas_cotter",
+        "target": "space_nuclear_detonation_detection_program",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "NSA",
+        "source": "admiral_bobby_ray_inman",
+        "target": "nsa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "National Underwater Reconnaissance Office NURO",
+        "source": "admiral_bobby_ray_inman",
+        "target": "national_underwater_reconnaissance_office_nuro",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "MJ-12",
+        "source": "admiral_bobby_ray_inman",
+        "target": "mj-12",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "MJ-12",
+        "source": "admiral_bobby_ray_inman",
+        "target": "mj-12",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "Director of NSA",
+        "source": "admiral_bobby_ray_inman",
+        "target": "director_of_nsa",
         "relationship_type": "position_held",
         "properties": {
             "end_date": "1981",
@@ -1497,604 +1497,604 @@
         }
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "Recovered Craft",
+        "source": "admiral_bobby_ray_inman",
+        "target": "recovered_craft",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "Sumner Shapiro",
+        "source": "admiral_bobby_ray_inman",
+        "target": "sumner_shapiro",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "Bob Oechsler",
+        "source": "admiral_bobby_ray_inman",
+        "target": "bob_oechsler",
         "relationship_type": "conflict",
         "properties": {
             "notes": "Since the recorded phone call, Ineman tries to  discredit Bob"
         }
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "SAIC Science Applications International Corporation",
+        "source": "admiral_bobby_ray_inman",
+        "target": "saic_science_applications_international_corporation",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Admiral Bobby Ray Inman",
-        "target": "Everett Hineman",
+        "source": "admiral_bobby_ray_inman",
+        "target": "everett_hineman",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Joe Braddock",
-        "target": "BDM Braddock, Dunn, McDonald",
+        "source": "joe_braddock",
+        "target": "bdm_braddock,_dunn,_mcdonald",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Stephen Lovekin",
-        "target": "April 1997 Pentagon Meeting",
+        "source": "stephen_lovekin",
+        "target": "april_1997_pentagon_meeting",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
-        "target": "Defense Intelligence Reference Document DIRD",
+        "source": "anomalous_acute_and_subacute_field_effects_on_human_biological_tissues",
+        "target": "defense_intelligence_reference_document_dird",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Psychic Ability",
-        "target": "Psychoenergetic Research",
+        "source": "psychic_ability",
+        "target": "psychoenergetic_research",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Vladimirovka",
-        "target": "USSR",
+        "source": "vladimirovka",
+        "target": "ussr",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Vladimirovka",
-        "target": "UFObaiting",
+        "source": "vladimirovka",
+        "target": "ufobaiting",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Dr. J Allen Hynek",
-        "target": "Pentacle memo",
+        "source": "dr._j_allen_hynek",
+        "target": "pentacle_memo",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Kripalu yoga",
-        "target": "Psychic Ability",
+        "source": "kripalu_yoga",
+        "target": "psychic_ability",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "John E. Mansfield",
-        "target": "Nuclear Physicist",
+        "source": "john_e._mansfield",
+        "target": "nuclear_physicist",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "John E. Mansfield",
-        "target": "DIA Defense Intelligence Agency",
+        "source": "john_e._mansfield",
+        "target": "dia_defense_intelligence_agency",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "John E. Mansfield",
-        "target": "NASA",
+        "source": "john_e._mansfield",
+        "target": "nasa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "John E. Mansfield",
-        "target": "DARPA Defence Advanced Research Projects Agency",
+        "source": "john_e._mansfield",
+        "target": "darpa_defence_advanced_research_projects_agency",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "John E. Mansfield",
-        "target": "Defense Nuclear Agency",
+        "source": "john_e._mansfield",
+        "target": "defense_nuclear_agency",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "John E. Mansfield",
-        "target": "SAIC Science Applications International Corporation",
+        "source": "john_e._mansfield",
+        "target": "saic_science_applications_international_corporation",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "John E. Mansfield",
-        "target": "Jack Vorona",
+        "source": "john_e._mansfield",
+        "target": "jack_vorona",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Aztec UFO Crash",
+        "source": "aztec_ufo_crash",
         "target": "1948",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Aztec UFO Crash",
-        "target": "New Mexico",
+        "source": "aztec_ufo_crash",
+        "target": "new_mexico",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "NRO - National Reconnaissance Program",
-        "target": "CIA",
+        "source": "nro_-_national_reconnaissance_program",
+        "target": "cia",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Pine Gap",
-        "target": "Australia",
+        "source": "pine_gap",
+        "target": "australia",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Joint Data Facility Pine Gap",
-        "target": "Australia",
+        "source": "joint_data_facility_pine_gap",
+        "target": "australia",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Joint Defense Facility Pine Gap",
-        "target": "Australia",
+        "source": "joint_defense_facility_pine_gap",
+        "target": "australia",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Vipassana Meditation",
-        "target": "Psychic Ability",
+        "source": "vipassana_meditation",
+        "target": "psychic_ability",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "The Meta Network",
-        "target": "Electronic Networking Association",
+        "source": "the_meta_network",
+        "target": "electronic_networking_association",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "The Meta Network",
-        "target": "Frank Burns",
+        "source": "the_meta_network",
+        "target": "frank_burns",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Deputy Director for Science Technology",
-        "target": "CIA",
+        "source": "deputy_director_for_science_technology",
+        "target": "cia",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "ronald_pandolfi",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "has_part",
         "properties": {
-            "notes": "He states he only went to the first meeting. http:\/\/stargate007.blogspot.com\/2007\/05\/cias-ron-pandolfi-on-ufo-working-group.html"
+            "notes": "He states he only went to the first meeting. http://stargate007.blogspot.com/2007/05/cias-ron-pandolfi-on-ufo-working-group.html"
         }
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "CIA",
+        "source": "ronald_pandolfi",
+        "target": "cia",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Office of the Director of National Intelligence ODNI",
+        "source": "ronald_pandolfi",
+        "target": "office_of_the_director_of_national_intelligence_odni",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Measurement and Signature Intelligence (MASINT)\n",
+        "source": "ronald_pandolfi",
+        "target": "measurement_and_signature_intelligence_(masint)\n",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "High Frequency Gravitational Waves (HFGW)",
+        "source": "ronald_pandolfi",
+        "target": "high_frequency_gravitational_waves_(hfgw)",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Dan Smith",
+        "source": "ronald_pandolfi",
+        "target": "dan_smith",
         "relationship_type": "collaborated_with",
         "properties": {
             "notes": "September 2000"
         }
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "UFO Working Group",
+        "source": "ronald_pandolfi",
+        "target": "ufo_working_group",
         "relationship_type": "member_of",
         "properties": {
-            "notes": "in this file https:\/\/web.archive.org\/web\/20101128134606\/http:\/\/www.starpod.org\/MP3\/RON%20PANDOLFI.mp3\n\nhe said he was in first meeting then left."
+            "notes": "in this file https://web.archive.org/web/20101128134606/http://www.starpod.org/MP3/RON%20PANDOLFI.mp3\n\nhe said he was in first meeting then left."
         }
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Chinese Technology",
+        "source": "ronald_pandolfi",
+        "target": "chinese_technology",
         "relationship_type": "field_of_work",
         "properties": {
-            "notes": "https:\/\/www.washingtonpost.com\/wp-srv\/politics\/special\/campfin\/stories\/satellite120598.htm"
+            "notes": "https://www.washingtonpost.com/wp-srv/politics/special/campfin/stories/satellite120598.htm"
         }
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Deputy Director for Science Technology",
+        "source": "ronald_pandolfi",
+        "target": "deputy_director_for_science_technology",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Dr. Kit Green",
+        "source": "ronald_pandolfi",
+        "target": "dr._kit_green",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Admiral Bobby Ray Inman",
+        "source": "ronald_pandolfi",
+        "target": "admiral_bobby_ray_inman",
         "relationship_type": "collaborated_with",
         "properties": {
             "notes": "Ron investigated inman after his meeting with bob oechsler"
         }
     },
     {
-        "source": "Ronald Pandolfi",
-        "target": "Everett Hineman",
+        "source": "ronald_pandolfi",
+        "target": "everett_hineman",
         "relationship_type": "collaborated_with",
         "properties": {
             "notes": "Ron investigated Hineman after his meeting with bob oechsler"
         }
     },
     {
-        "source": "CIA",
-        "target": "Office of Scientific Intelligence OSI",
+        "source": "cia",
+        "target": "office_of_scientific_intelligence_osi",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "CIA",
-        "target": "Project Grill Flame",
+        "source": "cia",
+        "target": "project_grill_flame",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "CIA",
-        "target": "National Photographic Interpretation Center",
+        "source": "cia",
+        "target": "national_photographic_interpretation_center",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "CIA",
-        "target": "National Geospatial Intelligence Agency",
+        "source": "cia",
+        "target": "national_geospatial_intelligence_agency",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "CIA",
-        "target": "Directorate of Science and Technology",
+        "source": "cia",
+        "target": "directorate_of_science_and_technology",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "CIA",
-        "target": "Simulated UFO abductions",
+        "source": "cia",
+        "target": "simulated_ufo_abductions",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "CIA",
-        "target": "SRIs remote viewing program",
+        "source": "cia",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Program B",
-        "target": "CIA",
+        "source": "program_b",
+        "target": "cia",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Program B",
-        "target": "NRO - National Reconnaissance Program",
+        "source": "program_b",
+        "target": "nro_-_national_reconnaissance_program",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Program B",
-        "target": "Satellite Imagery of UFO",
+        "source": "program_b",
+        "target": "satellite_imagery_of_ufo",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Program B",
-        "target": "SIGINT",
+        "source": "program_b",
+        "target": "sigint",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "Intelligence Advisory Committee",
-        "target": "Air Force",
+        "source": "intelligence_advisory_committee",
+        "target": "air_force",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Intelligence Advisory Committee",
+        "source": "intelligence_advisory_committee",
         "target": "cover-up",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Intelligence Advisory Committee",
-        "target": "unidentified flying object",
+        "source": "intelligence_advisory_committee",
+        "target": "unidentified_flying_object",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Radar",
-        "target": "Aztec UFO Crash",
+        "source": "radar",
+        "target": "aztec_ufo_crash",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "ATPTEN",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "atpten",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Jim Lacatski",
-        "target": "AAWSAP",
+        "source": "jim_lacatski",
+        "target": "aawsap",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Houston T. Hawkins",
-        "target": "Nuclear Physicist",
+        "source": "houston_t._hawkins",
+        "target": "nuclear_physicist",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Houston T. Hawkins",
-        "target": "AEC Atomic Energy Commission",
+        "source": "houston_t._hawkins",
+        "target": "aec_atomic_energy_commission",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Houston T. Hawkins",
-        "target": "Los Alamos National Laboratory",
+        "source": "houston_t._hawkins",
+        "target": "los_alamos_national_laboratory",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Houston T. Hawkins",
-        "target": "Jack Vorona",
+        "source": "houston_t._hawkins",
+        "target": "jack_vorona",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Gen. Jack Sheehan",
-        "target": "USMC United States Marine Corps",
+        "source": "gen._jack_sheehan",
+        "target": "usmc_united_states_marine_corps",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Space Fence",
-        "target": "S-band Radar",
+        "source": "space_fence",
+        "target": "s-band_radar",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "DIA Defense Intelligence Agency",
-        "target": "AAWSAP",
+        "source": "dia_defense_intelligence_agency",
+        "target": "aawsap",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "DIA Defense Intelligence Agency",
-        "target": "Measurement and Signature Intelligence (MASINT)\n",
+        "source": "dia_defense_intelligence_agency",
+        "target": "measurement_and_signature_intelligence_(masint)\n",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "DIA Defense Intelligence Agency",
-        "target": "Project Grill Flame",
+        "source": "dia_defense_intelligence_agency",
+        "target": "project_grill_flame",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "James Bamford",
-        "target": "The Shadow Factory",
+        "source": "james_bamford",
+        "target": "the_shadow_factory",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Electric Propulsion Study",
-        "target": "Five Dimensional Physics",
+        "source": "electric_propulsion_study",
+        "target": "five_dimensional_physics",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "Electric Propulsion Study",
-        "target": "Air Force Space Technology Center",
+        "source": "electric_propulsion_study",
+        "target": "air_force_space_technology_center",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Air Force",
-        "target": "Air Force Space Technology Center",
+        "source": "air_force",
+        "target": "air_force_space_technology_center",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Air Force",
-        "target": "1997 UFO Peru Crash",
+        "source": "air_force",
+        "target": "1997_ufo_peru_crash",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Air Force",
-        "target": "Varginha UFO Crash",
+        "source": "air_force",
+        "target": "varginha_ufo_crash",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Truman Administration",
-        "target": "Psychological  Strategy Board PSB ",
+        "source": "truman_administration",
+        "target": "psychological__strategy_board_psb_",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Truman Administration",
-        "target": "Harry S. Truman",
+        "source": "truman_administration",
+        "target": "harry_s._truman",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Pharis Williams",
-        "target": "Investigator\/Researcher",
+        "source": "pharis_williams",
+        "target": "investigator/researcher",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Pharis Williams",
-        "target": "Los Alamos National Laboratory",
+        "source": "pharis_williams",
+        "target": "los_alamos_national_laboratory",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Pharis Williams",
-        "target": "Five Dimensional Physics",
+        "source": "pharis_williams",
+        "target": "five_dimensional_physics",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Pharis Williams",
-        "target": "Electric Propulsion Study",
+        "source": "pharis_williams",
+        "target": "electric_propulsion_study",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dennis Cravens",
-        "target": "Investigator\/Researcher",
+        "source": "dennis_cravens",
+        "target": "investigator/researcher",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Dennis Cravens",
-        "target": "SAIC Science Applications International Corporation",
+        "source": "dennis_cravens",
+        "target": "saic_science_applications_international_corporation",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Dennis Cravens",
-        "target": "Pharis Williams",
+        "source": "dennis_cravens",
+        "target": "pharis_williams",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Joe Angelo",
-        "target": "Stargate Project",
+        "source": "dr._joe_angelo",
+        "target": "stargate_project",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Howell McConnell",
-        "target": "UFO researcher",
+        "source": "howell_mcconnell",
+        "target": "ufo_researcher",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Howell McConnell",
-        "target": "NSA",
+        "source": "howell_mcconnell",
+        "target": "nsa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Howell McConnell",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "howell_mcconnell",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Howell McConnell",
-        "target": "nutsandbolts research",
+        "source": "howell_mcconnell",
+        "target": "nutsandbolts_research",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Raytheon",
-        "target": "Space Fence",
+        "source": "raytheon",
+        "target": "space_fence",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "S-band Radar",
-        "target": "Radar",
+        "source": "s-band_radar",
+        "target": "radar",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Gordon Gray",
-        "target": "National Security Advisor",
+        "source": "gordon_gray",
+        "target": "national_security_advisor",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Gordon Gray",
-        "target": "Psychological  Strategy Board PSB ",
+        "source": "gordon_gray",
+        "target": "psychological__strategy_board_psb_",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee UFO Chronicles of the Soviet Union A Cosmic Samizdat",
-        "target": "Timothy Goods Above Top Secret The Worldwide UFO CoverUp",
+        "source": "jacques_vallee_ufo_chronicles_of_the_soviet_union_a_cosmic_samizdat",
+        "target": "timothy_goods_above_top_secret_the_worldwide_ufo_coverup",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Allen Welsh Dulles",
-        "target": "National Security Act of 1947",
+        "source": "allen_welsh_dulles",
+        "target": "national_security_act_of_1947",
         "relationship_type": "followed",
         "properties": {}
     },
     {
-        "source": "Allen Welsh Dulles",
-        "target": "Robertson Panel",
+        "source": "allen_welsh_dulles",
+        "target": "robertson_panel",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "Allen Welsh Dulles",
-        "target": "CIA",
+        "source": "allen_welsh_dulles",
+        "target": "cia",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Allen Welsh Dulles",
-        "target": "Psychological  Strategy Board PSB ",
+        "source": "allen_welsh_dulles",
+        "target": "psychological__strategy_board_psb_",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Allen Welsh Dulles",
-        "target": "Director of the CIA",
+        "source": "allen_welsh_dulles",
+        "target": "director_of_the_cia",
         "relationship_type": "position_held",
         "properties": {
             "end_date": "1961",
@@ -2102,218 +2102,218 @@
         }
     },
     {
-        "source": "Karl T. Pflock",
-        "target": "CIA",
+        "source": "karl_t._pflock",
+        "target": "cia",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Karl T. Pflock",
-        "target": "Deputy Assistant Secretary of Defense",
+        "source": "karl_t._pflock",
+        "target": "deputy_assistant_secretary_of_defense",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "psychological warfare",
-        "target": "Psychoenergetic Research",
+        "source": "psychological_warfare",
+        "target": "psychoenergetic_research",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "psychological warfare",
-        "target": "Remote Viewing",
+        "source": "psychological_warfare",
+        "target": "remote_viewing",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "psychological warfare",
-        "target": "Psychic Ability",
+        "source": "psychological_warfare",
+        "target": "psychic_ability",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Oke Shannon",
-        "target": "Nuclear Physicist",
+        "source": "oke_shannon",
+        "target": "nuclear_physicist",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Oke Shannon",
-        "target": "Los Alamos National Laboratory",
+        "source": "oke_shannon",
+        "target": "los_alamos_national_laboratory",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Oke Shannon",
-        "target": "Dr. Eric W. Davis",
+        "source": "oke_shannon",
+        "target": "dr._eric_w._davis",
         "relationship_type": "collaborated_with",
         "properties": {
             "notes": "vouched for ED when Wilson asked"
         }
     },
     {
-        "source": "Oke Shannon",
-        "target": "Pharis Williams",
+        "source": "oke_shannon",
+        "target": "pharis_williams",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Oke Shannon",
-        "target": "Okes notes",
+        "source": "oke_shannon",
+        "target": "okes_notes",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Oke Shannon",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "oke_shannon",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "EMPRESS II",
-        "target": "EMP",
+        "source": "empress_ii",
+        "target": "emp",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "EMPRESS II",
-        "target": "Chesapeake Bay",
+        "source": "empress_ii",
+        "target": "chesapeake_bay",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Starfish Prime",
+        "source": "starfish_prime",
         "target": "1962",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Starfish Prime",
-        "target": "EMP",
+        "source": "starfish_prime",
+        "target": "emp",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Starfish Prime",
-        "target": "nuclear test",
+        "source": "starfish_prime",
+        "target": "nuclear_test",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Bigelow Aerospace Advanced Space Studies BAASS",
-        "target": "AAWSAP",
+        "source": "bigelow_aerospace_advanced_space_studies_baass",
+        "target": "aawsap",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Bigelow Aerospace Advanced Space Studies BAASS",
-        "target": "Skinwalker Ranch",
+        "source": "bigelow_aerospace_advanced_space_studies_baass",
+        "target": "skinwalker_ranch",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Bigelow Aerospace Advanced Space Studies BAASS",
-        "target": "Bob Bigelows",
+        "source": "bigelow_aerospace_advanced_space_studies_baass",
+        "target": "bob_bigelows",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Office of Scientific Intelligence OSI",
-        "target": "Albert M. Stone",
+        "source": "office_of_scientific_intelligence_osi",
+        "target": "albert_m._stone",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Office of Scientific Intelligence OSI",
-        "target": "Allen Welsh Dulles",
+        "source": "office_of_scientific_intelligence_osi",
+        "target": "allen_welsh_dulles",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Kirtland AFB",
-        "target": "New Mexico",
+        "source": "kirtland_afb",
+        "target": "new_mexico",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
-        "target": "Defense Intelligence Reference Document DIRD",
+        "source": "advanced_space_propulsion_based_on_vacuum_(spacetime_metric)_engineering",
+        "target": "defense_intelligence_reference_document_dird",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "TRESTLE",
-        "target": "McDonnell Douglas",
+        "source": "trestle",
+        "target": "mcdonnell_douglas",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "TRESTLE",
-        "target": "EMP",
+        "source": "trestle",
+        "target": "emp",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "McDonnell Douglas",
-        "target": "McDonnell Aircraft",
+        "source": "mcdonnell_douglas",
+        "target": "mcdonnell_aircraft",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "McDonnell Douglas",
-        "target": "Douglas Aircraft Company",
+        "source": "mcdonnell_douglas",
+        "target": "douglas_aircraft_company",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "Transportation Sciences Corporation",
+        "source": "robert_m._l._baker_jr.",
+        "target": "transportation_sciences_corporation",
         "relationship_type": "employer",
         "properties": {
             "start_date": "1997"
         }
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "GRAVWAVE LLC",
+        "source": "robert_m._l._baker_jr.",
+        "target": "gravwave_llc",
         "relationship_type": "employer",
         "properties": {
             "start_date": "1997"
         }
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "Gravitational Wave (GW) Radiation Pattern at the Focus of a High\u2010Frequency GW (HFGW) Generator and Aerospace Applications",
+        "source": "robert_m._l._baker_jr.",
+        "target": "gravitational_wave_(gw)_radiation_pattern_at_the_focus_of_a_high\u2010frequency_gw_(hfgw)_generator_and_aerospace_applications",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "Gravitational Wave Generation and Detection Using Acoustic Resonators and Coupled Resonance Chambers",
+        "source": "robert_m._l._baker_jr.",
+        "target": "gravitational_wave_generation_and_detection_using_acoustic_resonators_and_coupled_resonance_chambers",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "High\u2010Frequency Gravitational Wave (HFGW) Generation by Means of X\u2010ray Lasers and Detection by Coupling Linearized GW to EM Fields",
+        "source": "robert_m._l._baker_jr.",
+        "target": "high\u2010frequency_gravitational_wave_(hfgw)_generation_by_means_of_x\u2010ray_lasers_and_detection_by_coupling_linearized_gw_to_em_fields",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "Douglas Aircraft Company",
+        "source": "robert_m._l._baker_jr.",
+        "target": "douglas_aircraft_company",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "High Frequency Gravitational Waves (HFGW)",
+        "source": "robert_m._l._baker_jr.",
+        "target": "high_frequency_gravitational_waves_(hfgw)",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "Computer Sciences Corporation CSC",
+        "source": "robert_m._l._baker_jr.",
+        "target": "computer_sciences_corporation_csc",
         "relationship_type": "employer",
         "properties": {
             "end_date": "1971",
@@ -2321,8 +2321,8 @@
         }
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "Astrodynamics Research Center",
+        "source": "robert_m._l._baker_jr.",
+        "target": "astrodynamics_research_center",
         "relationship_type": "employer",
         "properties": {
             "end_date": "1964",
@@ -2330,8 +2330,8 @@
         }
     },
     {
-        "source": "Robert M. L. Baker Jr.",
-        "target": "Air Force",
+        "source": "robert_m._l._baker_jr.",
+        "target": "air_force",
         "relationship_type": "employer",
         "properties": {
             "end_date": "1961",
@@ -2339,764 +2339,764 @@
         }
     },
     {
-        "source": "Astrodynamics Research Center",
-        "target": "Lockheed Martin",
+        "source": "astrodynamics_research_center",
+        "target": "lockheed_martin",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "UFO Working Group",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "ufo_working_group",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "also_known_as",
         "properties": {}
     },
     {
-        "source": "UFO Working Group",
-        "target": "DIA Defense Intelligence Agency",
+        "source": "ufo_working_group",
+        "target": "dia_defense_intelligence_agency",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Dan Smith",
-        "target": "Rosemary Ellen Guiley",
+        "source": "dan_smith",
+        "target": "rosemary_ellen_guiley",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dan Smith",
-        "target": "Crop Circles",
+        "source": "dan_smith",
+        "target": "crop_circles",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "CHAMP",
-        "target": "Boeing",
+        "source": "champ",
+        "target": "boeing",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "CHAMP",
-        "target": "Air Force Research Laboratory",
+        "source": "champ",
+        "target": "air_force_research_laboratory",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Boeing",
-        "target": "McDonnell Douglas",
+        "source": "boeing",
+        "target": "mcdonnell_douglas",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Air Force Research Laboratory",
-        "target": "Air Force",
+        "source": "air_force_research_laboratory",
+        "target": "air_force",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "AATIP",
-        "target": "Department of Defense",
+        "source": "aatip",
+        "target": "department_of_defense",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "AATIP",
-        "target": "SAP",
+        "source": "aatip",
+        "target": "sap",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "AATIP",
-        "target": "Harry Reid",
+        "source": "aatip",
+        "target": "harry_reid",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "James Iandoli",
-        "target": "Department of Defense",
+        "source": "james_iandoli",
+        "target": "department_of_defense",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "James Iandoli",
-        "target": "AATIP",
+        "source": "james_iandoli",
+        "target": "aatip",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "TRW",
-        "target": "BDM Braddock, Dunn, McDonald",
+        "source": "trw",
+        "target": "bdm_braddock,_dunn,_mcdonald",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "TRW",
-        "target": "BDM Braddock, Dunn, McDonald",
+        "source": "trw",
+        "target": "bdm_braddock,_dunn,_mcdonald",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Northrop Grumman",
-        "target": "TRW",
+        "source": "northrop_grumman",
+        "target": "trw",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Northrop Grumman",
-        "target": "TRW",
+        "source": "northrop_grumman",
+        "target": "trw",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Northrop Grumman",
-        "target": "Space Fence",
+        "source": "northrop_grumman",
+        "target": "space_fence",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Douglas Aircraft Company",
-        "target": "McDonnell Aircraft",
+        "source": "douglas_aircraft_company",
+        "target": "mcdonnell_aircraft",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Vasili Alexejev",
-        "target": "Soviet Air Force",
+        "source": "vasili_alexejev",
+        "target": "soviet_air_force",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Soviet Air Force",
-        "target": "USSR",
+        "source": "soviet_air_force",
+        "target": "ussr",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Pentacle memo",
-        "target": "Jacques Vallee",
+        "source": "pentacle_memo",
+        "target": "jacques_vallee",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Pentacle memo",
+        "source": "pentacle_memo",
         "target": "1953",
         "relationship_type": "publication_date",
         "properties": {}
     },
     {
-        "source": "Office of Secure Transport",
-        "target": "NNSA",
+        "source": "office_of_secure_transport",
+        "target": "nnsa",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "NNSA",
-        "target": "Office of Secure Transport",
+        "source": "nnsa",
+        "target": "office_of_secure_transport",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "NNSA",
-        "target": "Space Nuclear Detonation Detection program",
+        "source": "nnsa",
+        "target": "space_nuclear_detonation_detection_program",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Bob Fish",
-        "target": "UFO researcher",
+        "source": "bob_fish",
+        "target": "ufo_researcher",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Bob Fish",
-        "target": "USMC United States Marine Corps",
+        "source": "bob_fish",
+        "target": "usmc_united_states_marine_corps",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "UFObaiting",
-        "target": "nuclear warhead",
+        "source": "ufobaiting",
+        "target": "nuclear_warhead",
         "relationship_type": "influenced_by",
         "properties": {}
     },
     {
-        "source": "UFObaiting",
-        "target": "unidentified aerospaceundersea phenomena",
+        "source": "ufobaiting",
+        "target": "unidentified_aerospaceundersea_phenomena",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "unidentified aerospaceundersea phenomena",
-        "target": "Chesapeake Bay",
+        "source": "unidentified_aerospaceundersea_phenomena",
+        "target": "chesapeake_bay",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "National Geospatial Intelligence Agency",
-        "target": "National Photographic Interpretation Center",
+        "source": "national_geospatial_intelligence_agency",
+        "target": "national_photographic_interpretation_center",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "National Geospatial Intelligence Agency",
-        "target": "UFObaiting",
+        "source": "national_geospatial_intelligence_agency",
+        "target": "ufobaiting",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Lockheed Skunk Works",
-        "target": "Lockheed Martin",
+        "source": "lockheed_skunk_works",
+        "target": "lockheed_martin",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "EMPRESS I",
-        "target": "EMP",
+        "source": "empress_i",
+        "target": "emp",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "EMPRESS I",
-        "target": "Chesapeake Bay",
+        "source": "empress_i",
+        "target": "chesapeake_bay",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Lockheed Martin",
-        "target": "Space Fence",
+        "source": "lockheed_martin",
+        "target": "space_fence",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "GRAVWAVE LLC",
-        "target": "Gravitational Wave (GW) Radiation Pattern at the Focus of a High\u2010Frequency GW (HFGW) Generator and Aerospace Applications",
+        "source": "gravwave_llc",
+        "target": "gravitational_wave_(gw)_radiation_pattern_at_the_focus_of_a_high\u2010frequency_gw_(hfgw)_generator_and_aerospace_applications",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Transportation Sciences Corporation",
-        "target": "GRAVWAVE LLC",
+        "source": "transportation_sciences_corporation",
+        "target": "gravwave_llc",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Department of Defense",
-        "target": "HAARP ",
+        "source": "department_of_defense",
+        "target": "haarp_",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Department of Defense",
-        "target": "US Army",
+        "source": "department_of_defense",
+        "target": "us_army",
         "relationship_type": "has_part",
         "properties": {
             "type": "has part"
         }
     },
     {
-        "source": "E2C Hawkeye",
-        "target": "2004 Nimitz TicTac incident",
+        "source": "e2c_hawkeye",
+        "target": "2004_nimitz_tictac_incident",
         "relationship_type": "conflict",
         "properties": {}
     },
     {
-        "source": "2004 Nimitz TicTac incident",
+        "source": "2004_nimitz_tictac_incident",
         "target": "2004",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "AN\/CPS6 radar",
-        "target": "General Electric",
+        "source": "an/cps6_radar",
+        "target": "general_electric",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "AN\/CPS6 radar",
-        "target": "Radar",
+        "source": "an/cps6_radar",
+        "target": "radar",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "AN\/MPQ2",
-        "target": "General Electric",
+        "source": "an/mpq2",
+        "target": "general_electric",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "AN\/MPQ2",
-        "target": "Radar",
+        "source": "an/mpq2",
+        "target": "radar",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Trinity, The Best Kept Secret",
-        "target": "Trinity UFO Crash",
+        "source": "trinity,_the_best_kept_secret",
+        "target": "trinity_ufo_crash",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "San Antonio, New Mexico",
-        "target": "New Mexico",
+        "source": "san_antonio,_new_mexico",
+        "target": "new_mexico",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Silent Sentry System",
-        "target": "silent sentry",
+        "source": "silent_sentry_system",
+        "target": "silent_sentry",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Commander Willard Miller",
-        "target": "THE CABAL SPECIAL TEAM",
+        "source": "commander_willard_miller",
+        "target": "the_cabal_special_team",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Commander Willard Miller",
-        "target": "April 1997 Pentagon Meeting",
+        "source": "commander_willard_miller",
+        "target": "april_1997_pentagon_meeting",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Commander Willard Miller",
-        "target": "Dr. Eric W. Davis",
+        "source": "commander_willard_miller",
+        "target": "dr._eric_w._davis",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "VADM Thomas R. Wilson",
-        "target": "NIDS - National Institute for Discover Science (NIDS)",
+        "source": "vadm_thomas_r._wilson",
+        "target": "nids_-_national_institute_for_discover_science_(nids)",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "VADM Thomas R. Wilson",
-        "target": "WilsonDavis notes",
+        "source": "vadm_thomas_r._wilson",
+        "target": "wilsondavis_notes",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "VADM Thomas R. Wilson",
-        "target": "Oke Shannon",
+        "source": "vadm_thomas_r._wilson",
+        "target": "oke_shannon",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Varginha",
-        "target": "Brazil",
+        "source": "varginha",
+        "target": "brazil",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Carlos de Souza",
-        "target": "Varginha UFO Crash",
+        "source": "carlos_de_souza",
+        "target": "varginha_ufo_crash",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "military police",
-        "target": "Varginha",
+        "source": "military_police",
+        "target": "varginha",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Jack Houck",
-        "target": "Boeing",
+        "source": "jack_houck",
+        "target": "boeing",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Jack Houck",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "jack_houck",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "1997 UFO Peru Crash",
-        "target": "Peru",
+        "source": "1997_ufo_peru_crash",
+        "target": "peru",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "1997 UFO Peru Crash",
+        "source": "1997_ufo_peru_crash",
         "target": "1997",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "1997 UFO Peru Crash",
-        "target": "Jonathan Weygandt",
+        "source": "1997_ufo_peru_crash",
+        "target": "jonathan_weygandt",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Jonathan Weygandt",
-        "target": "USMC United States Marine Corps",
+        "source": "jonathan_weygandt",
+        "target": "usmc_united_states_marine_corps",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "UFO crash at Roswell",
-        "target": "Roswell",
+        "source": "ufo_crash_at_roswell",
+        "target": "roswell",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "UFO crash at Roswell",
+        "source": "ufo_crash_at_roswell",
         "target": "1947",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Shari Adamiak",
-        "target": "April 1997 Pentagon Meeting",
+        "source": "shari_adamiak",
+        "target": "april_1997_pentagon_meeting",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Project Hessdalen",
-        "target": "Norway",
+        "source": "project_hessdalen",
+        "target": "norway",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Ed Walters",
-        "target": "Gulf Breeze Incident",
+        "source": "ed_walters",
+        "target": "gulf_breeze_incident",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Oslo",
-        "target": "Norway",
+        "source": "oslo",
+        "target": "norway",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Edwin May",
-        "target": "SRI International",
+        "source": "edwin_may",
+        "target": "sri_international",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Edwin May",
-        "target": "SAIC Science Applications International Corporation",
+        "source": "edwin_may",
+        "target": "saic_science_applications_international_corporation",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Edwin May",
-        "target": "Stargate Project",
+        "source": "edwin_may",
+        "target": "stargate_project",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Edwin May",
-        "target": "Project SUNSTREAK",
+        "source": "edwin_may",
+        "target": "project_sunstreak",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Project SUNSTREAK",
-        "target": "SRIs remote viewing program",
+        "source": "project_sunstreak",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "Holloman AFB",
-        "target": "New Mexico",
+        "source": "holloman_afb",
+        "target": "new_mexico",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Holloman AFB",
-        "target": "Holloman UFO Contact Event",
+        "source": "holloman_afb",
+        "target": "holloman_ufo_contact_event",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "SRIs remote viewing program",
-        "target": "NSA West",
+        "source": "sris_remote_viewing_program",
+        "target": "nsa_west",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "SRIs remote viewing program",
-        "target": "Remote Viewing",
+        "source": "sris_remote_viewing_program",
+        "target": "remote_viewing",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "MAJ Ed Dames",
-        "target": "T.R.E.A.T IV Conference",
+        "source": "maj_ed_dames",
+        "target": "t.r.e.a.t_iv_conference",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "MAJ Ed Dames",
-        "target": "Remote Viewing",
+        "source": "maj_ed_dames",
+        "target": "remote_viewing",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "MAJ Ed Dames",
-        "target": "Albert Stubblebine",
+        "source": "maj_ed_dames",
+        "target": "albert_stubblebine",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "MAJ Ed Dames",
-        "target": "Project 8200",
+        "source": "maj_ed_dames",
+        "target": "project_8200",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "MAJ Ed Dames",
-        "target": "nutsandbolts research",
+        "source": "maj_ed_dames",
+        "target": "nutsandbolts_research",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Air Force Weapons Laboratory",
-        "target": "Kirtland AFB",
+        "source": "air_force_weapons_laboratory",
+        "target": "kirtland_afb",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Air Force Weapons Laboratory",
-        "target": "Air Force",
+        "source": "air_force_weapons_laboratory",
+        "target": "air_force",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "US Army",
+        "source": "col._john_alexander",
+        "target": "us_army",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "Los Alamos National Laboratory",
+        "source": "col._john_alexander",
+        "target": "los_alamos_national_laboratory",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "UFOs Myths Conspiracies and Realities",
+        "source": "col._john_alexander",
+        "target": "ufos_myths_conspiracies_and_realities",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "Albert Stubblebine",
+        "source": "col._john_alexander",
+        "target": "albert_stubblebine",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "RAF Bentwaters",
+        "source": "col._john_alexander",
+        "target": "raf_bentwaters",
         "relationship_type": "participant",
         "properties": {
             "notes": "apparently, He knew of everything before story even got out"
         }
     },
     {
-        "source": "Col. John Alexander",
-        "target": "DARPA Defence Advanced Research Projects Agency",
+        "source": "col._john_alexander",
+        "target": "darpa_defence_advanced_research_projects_agency",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "T.R.E.A.T IV Conference",
+        "source": "col._john_alexander",
+        "target": "t.r.e.a.t_iv_conference",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "INSCOM",
+        "source": "col._john_alexander",
+        "target": "inscom",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "Army Materiel Command (AMC)",
+        "source": "col._john_alexander",
+        "target": "army_materiel_command_(amc)",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "Non-Lethal Weapons",
+        "source": "col._john_alexander",
+        "target": "non-lethal_weapons",
         "relationship_type": "field_of_work",
         "properties": {
             "notes": "post retirement work @ Los Alamos"
         }
     },
     {
-        "source": "Col. John Alexander",
-        "target": "NIDS - National Institute for Discover Science (NIDS)",
+        "source": "col._john_alexander",
+        "target": "nids_-_national_institute_for_discover_science_(nids)",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "Directed Energy Weapon",
+        "source": "col._john_alexander",
+        "target": "directed_energy_weapon",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Col. John Alexander",
-        "target": "Pre-AATIP group",
+        "source": "col._john_alexander",
+        "target": "pre-aatip_group",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "AAWSAPBAASS",
-        "target": "Defense Intelligence Reference Document DIRD",
+        "source": "aawsapbaass",
+        "target": "defense_intelligence_reference_document_dird",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "AAWSAPBAASS",
-        "target": "John Burroughs",
+        "source": "aawsapbaass",
+        "target": "john_burroughs",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "Department of Energy",
-        "target": "1997 UFO Peru Crash",
+        "source": "department_of_energy",
+        "target": "1997_ufo_peru_crash",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "CIA",
+        "source": "dr._kit_green",
+        "target": "cia",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+        "source": "dr._kit_green",
+        "target": "anomalous_acute_and_subacute_field_effects_on_human_biological_tissues",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "UFO Working Group",
+        "source": "dr._kit_green",
+        "target": "ufo_working_group",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "John Burroughs",
+        "source": "dr._kit_green",
+        "target": "john_burroughs",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Stargate Project",
+        "source": "dr._kit_green",
+        "target": "stargate_project",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Psychic Ability",
+        "source": "dr._kit_green",
+        "target": "psychic_ability",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Satellite Imagery of UFO",
+        "source": "dr._kit_green",
+        "target": "satellite_imagery_of_ufo",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Ronald Pandolfi",
+        "source": "dr._kit_green",
+        "target": "ronald_pandolfi",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
+        "source": "dr._kit_green",
         "target": "caudateputamen",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Institute for Advanced Studies at Austin",
+        "source": "dr._kit_green",
+        "target": "institute_for_advanced_studies_at_austin",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Jacques Vallee",
+        "source": "dr._kit_green",
+        "target": "jacques_vallee",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Biological Research",
+        "source": "dr._kit_green",
+        "target": "biological_research",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "nutsandbolts research",
+        "source": "dr._kit_green",
+        "target": "nutsandbolts_research",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "ATP Advanced Theoretical Working Group",
+        "source": "dr._kit_green",
+        "target": "atp_advanced_theoretical_working_group",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Tom Deuly",
+        "source": "dr._kit_green",
+        "target": "tom_deuly",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "International Remote Viewing Association",
+        "source": "dr._kit_green",
+        "target": "international_remote_viewing_association",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Experiencer Study",
+        "source": "dr._kit_green",
+        "target": "experiencer_study",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Remote Viewing",
+        "source": "dr._kit_green",
+        "target": "remote_viewing",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "Dr. Hal Puthoff",
+        "source": "dr._kit_green",
+        "target": "dr._hal_puthoff",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Dr. Kit Green",
-        "target": "SRIs remote viewing program",
+        "source": "dr._kit_green",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "William Bill Church",
-        "target": "Church's Chicken",
+        "source": "william_bill_church",
+        "target": "church's_chicken",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "William Bill Church",
-        "target": "US Navy",
+        "source": "william_bill_church",
+        "target": "us_navy",
         "relationship_type": "employer",
         "properties": {
             "end_date": "1955",
@@ -3104,506 +3104,506 @@
         }
     },
     {
-        "source": "William Bill Church",
-        "target": "Dr. Hal Puthoff",
+        "source": "william_bill_church",
+        "target": "dr._hal_puthoff",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Tom Deuly",
-        "target": "NSA",
+        "source": "tom_deuly",
+        "target": "nsa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "CashLandrum case",
-        "target": "Texas",
+        "source": "cashlandrum_case",
+        "target": "texas",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Rendlesham Forest",
-        "target": "UK",
+        "source": "rendlesham_forest",
+        "target": "uk",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "John Burroughs",
-        "target": "Air Force",
+        "source": "john_burroughs",
+        "target": "air_force",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "John Burroughs",
-        "target": "Rendlesham Forest Event",
+        "source": "john_burroughs",
+        "target": "rendlesham_forest_event",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "John Burroughs",
-        "target": "Experiencer Study",
+        "source": "john_burroughs",
+        "target": "experiencer_study",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "John Burroughs",
-        "target": "Arizona baiting experiment",
+        "source": "john_burroughs",
+        "target": "arizona_baiting_experiment",
         "relationship_type": "participant",
         "properties": {}
     },
     {
-        "source": "International Remote Viewing Association",
-        "target": "Col. John Alexander",
+        "source": "international_remote_viewing_association",
+        "target": "col._john_alexander",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Skinwalker Ranch",
-        "target": "Skinwalker Ranch phenomenon",
+        "source": "skinwalker_ranch",
+        "target": "skinwalker_ranch_phenomenon",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "fMRI",
+        "source": "fmri",
         "target": "caudateputamen",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "fMRI",
+        "source": "fmri",
         "target": "caudateputamen",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "quantum mind mediated telepathy",
+        "source": "quantum_mind_mediated_telepathy",
         "target": "entanglement",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Skinwalker Ranch phenomenon",
+        "source": "skinwalker_ranch_phenomenon",
         "target": "entanglement",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Bekkums article",
-        "target": "Skinwalker Ranch",
+        "source": "bekkums_article",
+        "target": "skinwalker_ranch",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "James Penniston",
-        "target": "Rendlesham Forest Event",
+        "source": "james_penniston",
+        "target": "rendlesham_forest_event",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "James Penniston",
-        "target": "The Rendlesham Enigma",
+        "source": "james_penniston",
+        "target": "the_rendlesham_enigma",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Rendlesham Forest Event",
-        "target": "Rendlesham Forest",
+        "source": "rendlesham_forest_event",
+        "target": "rendlesham_forest",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Institute for Advanced Studies at Austin",
-        "target": "William Bill Church",
+        "source": "institute_for_advanced_studies_at_austin",
+        "target": "william_bill_church",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "quantum communication technology",
-        "target": "Remote Viewing",
+        "source": "quantum_communication_technology",
+        "target": "remote_viewing",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "quantum communication technology",
-        "target": "Psychoenergetic Research",
+        "source": "quantum_communication_technology",
+        "target": "psychoenergetic_research",
         "relationship_type": "instance_of",
         "properties": {}
     },
     {
-        "source": "Jim Semivan",
-        "target": "CIA",
+        "source": "jim_semivan",
+        "target": "cia",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Jim Semivan",
-        "target": "Experiencer Study",
+        "source": "jim_semivan",
+        "target": "experiencer_study",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "TTSA",
-        "target": "Jim Semivan",
+        "source": "ttsa",
+        "target": "jim_semivan",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Ingo Swann",
-        "target": "CIA",
+        "source": "ingo_swann",
+        "target": "cia",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Ingo Swann",
-        "target": "Dr. Hal Puthoff",
+        "source": "ingo_swann",
+        "target": "dr._hal_puthoff",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "DARPA Defence Advanced Research Projects Agency",
-        "target": "HAARP ",
+        "source": "darpa_defence_advanced_research_projects_agency",
+        "target": "haarp_",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "DARPA Defence Advanced Research Projects Agency",
-        "target": "Experiencer Study",
+        "source": "darpa_defence_advanced_research_projects_agency",
+        "target": "experiencer_study",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "DARPA Defence Advanced Research Projects Agency",
-        "target": "Ralph Blumenthals",
+        "source": "darpa_defence_advanced_research_projects_agency",
+        "target": "ralph_blumenthals",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "DARPA Defence Advanced Research Projects Agency",
-        "target": "SRIs remote viewing program",
+        "source": "darpa_defence_advanced_research_projects_agency",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "DARPA Defence Advanced Research Projects Agency",
-        "target": "Project SUNSTREAK",
+        "source": "darpa_defence_advanced_research_projects_agency",
+        "target": "project_sunstreak",
         "relationship_type": "part_of",
         "properties": {}
     },
     {
-        "source": "Howard Baker",
-        "target": "Secretary of State",
+        "source": "howard_baker",
+        "target": "secretary_of_state",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Secretary of State",
-        "target": "Psychological  Strategy Board PSB ",
+        "source": "secretary_of_state",
+        "target": "psychological__strategy_board_psb_",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Admiral Marriott",
-        "target": "Secretary of State",
+        "source": "admiral_marriott",
+        "target": "secretary_of_state",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "Remote Viewing",
-        "target": "Project Grill Flame",
+        "source": "remote_viewing",
+        "target": "project_grill_flame",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Remote Viewing",
-        "target": "Psychic Ability",
+        "source": "remote_viewing",
+        "target": "psychic_ability",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Garry Nolan",
-        "target": "Experiencer Study",
+        "source": "garry_nolan",
+        "target": "experiencer_study",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "Garry Nolan",
+        "source": "garry_nolan",
         "target": "caudateputamen",
         "relationship_type": "studies",
         "properties": {}
     },
     {
-        "source": "Garry Nolan",
-        "target": "Dr. Kit Green",
+        "source": "garry_nolan",
+        "target": "dr._kit_green",
         "relationship_type": "influenced_by",
         "properties": {}
     },
     {
-        "source": "AAWSAP",
-        "target": "Defense Intelligence Reference Document DIRD",
+        "source": "aawsap",
+        "target": "defense_intelligence_reference_document_dird",
         "relationship_type": "developer",
         "properties": {}
     },
     {
-        "source": "AAWSAP",
-        "target": "AAWSAPBAASS",
+        "source": "aawsap",
+        "target": "aawsapbaass",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Armys remote viewing program",
-        "target": "US Army",
+        "source": "armys_remote_viewing_program",
+        "target": "us_army",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "Army Medical Research and Development Command",
-        "target": "US Army",
+        "source": "army_medical_research_and_development_command",
+        "target": "us_army",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "INSCOM CENTER LANE Project",
-        "target": "DIA Defense Intelligence Agency",
+        "source": "inscom_center_lane_project",
+        "target": "dia_defense_intelligence_agency",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "INSCOM CENTER LANE Project",
-        "target": "NSA",
+        "source": "inscom_center_lane_project",
+        "target": "nsa",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "INSCOM CENTER LANE Project",
-        "target": "SRIs remote viewing program",
+        "source": "inscom_center_lane_project",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "follows",
         "properties": {}
     },
     {
-        "source": "INSCOM CENTER LANE Project",
-        "target": "INSCOM",
+        "source": "inscom_center_lane_project",
+        "target": "inscom",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "INSCOM CENTER LANE Project",
-        "target": "MG Garrison Rapmund",
+        "source": "inscom_center_lane_project",
+        "target": "mg_garrison_rapmund",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Army Science Board",
-        "target": "US Army",
+        "source": "army_science_board",
+        "target": "us_army",
         "relationship_type": "facet_of",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "Trinity, The Best Kept Secret",
+        "source": "jacques_vallee",
+        "target": "trinity,_the_best_kept_secret",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "Jacques Vallee UFO Chronicles of the Soviet Union A Cosmic Samizdat",
+        "source": "jacques_vallee",
+        "target": "jacques_vallee_ufo_chronicles_of_the_soviet_union_a_cosmic_samizdat",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "Secret Onion",
+        "source": "jacques_vallee",
+        "target": "secret_onion",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "Vallees journals",
+        "source": "jacques_vallee",
+        "target": "vallees_journals",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "The Spring Hill Chronicles",
+        "source": "jacques_vallee",
+        "target": "the_spring_hill_chronicles",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "Forbidden Science Volume 4",
+        "source": "jacques_vallee",
+        "target": "forbidden_science_volume_4",
         "relationship_type": "author",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "SRIs remote viewing program",
+        "source": "jacques_vallee",
+        "target": "sris_remote_viewing_program",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Jacques Vallee",
-        "target": "DARPA Defence Advanced Research Projects Agency",
+        "source": "jacques_vallee",
+        "target": "darpa_defence_advanced_research_projects_agency",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Gideon LewisKraus",
-        "target": "The New Yorker",
+        "source": "gideon_lewiskraus",
+        "target": "the_new_yorker",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "The New Yorker",
-        "target": "Gideon LewisKraus",
+        "source": "the_new_yorker",
+        "target": "gideon_lewiskraus",
         "relationship_type": "founded_by",
         "properties": {}
     },
     {
-        "source": "Harry Reid",
-        "target": "Senator",
+        "source": "harry_reid",
+        "target": "senator",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "April 1997 Pentagon Meeting",
-        "target": "VADM Thomas R. Wilson",
+        "source": "april_1997_pentagon_meeting",
+        "target": "vadm_thomas_r._wilson",
         "relationship_type": "inception_date",
         "properties": {}
     },
     {
-        "source": "April 1997 Pentagon Meeting",
+        "source": "april_1997_pentagon_meeting",
         "target": "1997",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "April 1997 Pentagon Meeting",
-        "target": "SAP",
+        "source": "april_1997_pentagon_meeting",
+        "target": "sap",
         "relationship_type": "main_subject",
         "properties": {}
     },
     {
-        "source": "April 1997 Pentagon Meeting",
-        "target": "Project Starlight",
+        "source": "april_1997_pentagon_meeting",
+        "target": "project_starlight",
         "relationship_type": "influenced_by",
         "properties": {}
     },
     {
-        "source": "Y12 National Security Complex",
-        "target": "Oak Ridge, TN",
+        "source": "y12_national_security_complex",
+        "target": "oak_ridge,_tn",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Pantex plant",
-        "target": "Amarillo",
+        "source": "pantex_plant",
+        "target": "amarillo",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Amarillo",
-        "target": "Texas",
+        "source": "amarillo",
+        "target": "texas",
         "relationship_type": "located_in",
         "properties": {}
     },
     {
-        "source": "Richard L. Cohn",
-        "target": "NNSA",
+        "source": "richard_l._cohn",
+        "target": "nnsa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Richard L. Cohn",
-        "target": "National Geospatial Intelligence Agency",
+        "source": "richard_l._cohn",
+        "target": "national_geospatial_intelligence_agency",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Richard L. Cohn",
-        "target": "Defense Mapping Agency",
+        "source": "richard_l._cohn",
+        "target": "defense_mapping_agency",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Richard L. Cohn",
-        "target": "Dr. Eric W. Davis",
+        "source": "richard_l._cohn",
+        "target": "dr._eric_w._davis",
         "relationship_type": "collaborated_with",
         "properties": {}
     },
     {
-        "source": "Richard L. Cohn",
-        "target": "Association of Former Intelligence Officers AFIO",
+        "source": "richard_l._cohn",
+        "target": "association_of_former_intelligence_officers_afio",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "2009 Spies of the Valley",
+        "source": "2009_spies_of_the_valley",
         "target": "2009",
         "relationship_type": "point_in_time",
         "properties": {}
     },
     {
-        "source": "Douglas Fremont",
-        "target": "Sandia National Labs",
+        "source": "douglas_fremont",
+        "target": "sandia_national_labs",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Douglas Fremont",
-        "target": "NNSA",
+        "source": "douglas_fremont",
+        "target": "nnsa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Douglas Fremont",
-        "target": "Association of Former Intelligence Officers AFIO",
+        "source": "douglas_fremont",
+        "target": "association_of_former_intelligence_officers_afio",
         "relationship_type": "member_of",
         "properties": {}
     },
     {
-        "source": "Jill Hruby",
-        "target": "NNSA",
+        "source": "jill_hruby",
+        "target": "nnsa",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "Jill Hruby",
-        "target": "NNSA administrator",
+        "source": "jill_hruby",
+        "target": "nnsa_administrator",
         "relationship_type": "position_held",
         "properties": {}
     },
     {
-        "source": "INSCOM",
-        "target": "US Army",
+        "source": "inscom",
+        "target": "us_army",
         "relationship_type": "subsidiary",
         "properties": {}
     },
     {
-        "source": "MG Garrison Rapmund",
-        "target": "Army Medical Research and Development Command",
+        "source": "mg_garrison_rapmund",
+        "target": "army_medical_research_and_development_command",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "MG Garrison Rapmund",
-        "target": "INSCOM",
+        "source": "mg_garrison_rapmund",
+        "target": "inscom",
         "relationship_type": "employer",
         "properties": {}
     },
     {
-        "source": "MG Garrison Rapmund",
-        "target": "Psychoenergetic Research",
+        "source": "mg_garrison_rapmund",
+        "target": "psychoenergetic_research",
         "relationship_type": "field_of_work",
         "properties": {}
     },
     {
-        "source": "MG Garrison Rapmund",
-        "target": "Stargate Project",
+        "source": "mg_garrison_rapmund",
+        "target": "stargate_project",
         "relationship_type": "has_part",
         "properties": {}
     },
     {
-        "source": "Army Materiel Command (AMC)",
-        "target": "US Army",
+        "source": "army_materiel_command_(amc)",
+        "target": "us_army",
         "relationship_type": "subsidiary",
         "properties": {}
     }
