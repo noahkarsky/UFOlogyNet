@@ -15,7 +15,6 @@ networkx = "^3.2.1"
 wordcloud = "^1.9.3"
 plotly = "^5.18.0"
 gravis = "^0.1.0"
-ipython = "^8.19.0"
 matplotlib = "^3.8.2"
 
 
