@@ -1,0 +1,3867 @@
+[
+    {
+        "source": "roswell_army_air_field",
+        "target": "roswell_nm",
+        "relationship_type": "place_served_by_transport_hub"
+    },
+    {
+        "source": "roswell_morning_dispatch",
+        "target": "arthur_r_mcquiddy",
+        "relationship_type": "editor"
+    },
+    {
+        "source": "fort_worth_army_air_field",
+        "target": "nm",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "9_july_1991_entry",
+        "target": "9_july_1991",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "flying_saucer",
+        "target": "uap",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "war_department",
+        "target": "usg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "usg",
+        "target": "war_department",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "roscoe_hillenkoetter",
+        "target": "dci",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "aaf_commanding",
+        "target": "george_schulgen",
+        "relationship_type": "officeholder"
+    },
+    {
+        "source": "george_schulgen",
+        "target": "aaf_commanding",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "air_intelligence",
+        "target": "navy_bureau_of_aeronautics",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "navy_bureau_of_aeronautics",
+        "target": "air_intelligence",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "selman_e_graves",
+        "target": "october_1947",
+        "relationship_type": "date_of_death"
+    },
+    {
+        "source": "guadeloupe",
+        "target": "mexico",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "horten_ho_299",
+        "target": "walter_horten",
+        "relationship_type": "designed_by"
+    },
+    {
+        "source": "laredo",
+        "target": "tx",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "23_september_1947",
+        "target": "23_september_1947",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "harry_s_truman",
+        "target": "president",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "uap_crash",
+        "target": "white_sands_proving_ground",
+        "relationship_type": "location"
+    },
+    {
+        "source": "albert_collins",
+        "target": "calberkeley",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "hannes_alfven",
+        "target": "magnetohydrodynamics",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "amc",
+        "target": "wright_patterson_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "bell_laboratories",
+        "target": "nasa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "nasa",
+        "target": "bell_laboratories",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "joseph_bryan_iii",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "cliff_booth",
+        "target": "holloman_afb",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "fbi",
+        "target": "us",
+        "relationship_type": "applies_to_jurisdiction"
+    },
+    {
+        "source": "navy",
+        "target": "usg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "usg",
+        "target": "navy",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "urner_liddel",
+        "target": "office_of_naval_research",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "project_twinkle",
+        "target": "anthony_o_mirarchi",
+        "relationship_type": "creator"
+    },
+    {
+        "source": "lockheedvega",
+        "target": "glenn_l_martin_co",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "glenn_l_martin_co",
+        "target": "lockheedvega",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "project_moonstruck",
+        "target": "cia",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "1947",
+        "target": "1947",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "john_schuessler",
+        "target": "mcdonnell_douglas",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "1952",
+        "target": "1952",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "aec",
+        "target": "los_alamos_national_lab",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "aec",
+        "target": "sandia_base",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "aec",
+        "target": "white_sands_proving_ground",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "los_alamos_national_lab",
+        "target": "aec",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "sandia_base",
+        "target": "aec",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "white_sands_proving_ground",
+        "target": "aec",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "office_of_naval_intelligence",
+        "target": "us_navy",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "desert_research_experimental_station",
+        "target": "garrison_ut",
+        "relationship_type": "location"
+    },
+    {
+        "source": "brooke_general_hospital",
+        "target": "san_antonio_tx",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "philip_grandin_strong",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "cia",
+        "target": "office_of_scientific_intelligence",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "office_of_scientific_intelligence",
+        "target": "cia",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "toronto",
+        "target": "canada",
+        "relationship_type": "country"
+    },
+    {
+        "source": "wright_patterson_air_force_base",
+        "target": "arizona",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "fort_monmouth",
+        "target": "nj",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "fort_polk",
+        "target": "la",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "usaf",
+        "target": "air_technical_intelligence_center",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "air_technical_intelligence_center",
+        "target": "usaf",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "uap",
+        "target": "utah",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "hayden_channing",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "naval_auxiliary_air_station_edenton",
+        "target": "nc",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "operation_upshotknothole",
+        "target": "21_may_1953",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "air_force_regulation_2002",
+        "target": "afl_2005",
+        "relationship_type": "replaces"
+    },
+    {
+        "source": "afl_2005",
+        "target": "air_force_regulation_2002",
+        "relationship_type": "replaced_by"
+    },
+    {
+        "source": "usaf",
+        "target": "wrightpatterson_afb",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "wrightpatterson_afb",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "som101",
+        "target": "1954",
+        "relationship_type": "publication_date"
+    },
+    {
+        "source": "cirvis",
+        "target": "merint",
+        "relationship_type": "use"
+    },
+    {
+        "source": "roswell_air_force_base",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "navy",
+        "target": "potomac_river_naval_command",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "potomac_river_naval_command",
+        "target": "navy",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "naval_aviator",
+        "target": "marine_corps",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "richard_helms",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "avrocar",
+        "target": "flying_saucer",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "glenn_l_martin_company",
+        "target": "martinmarietta",
+        "relationship_type": "followed_by"
+    },
+    {
+        "source": "martinmarietta",
+        "target": "glenn_l_martin_company",
+        "relationship_type": "follows"
+    },
+    {
+        "source": "martinmarietta",
+        "target": "lockheed",
+        "relationship_type": "followed_by"
+    },
+    {
+        "source": "lockheed",
+        "target": "martinmarietta",
+        "relationship_type": "follows"
+    },
+    {
+        "source": "douglas_aircraft",
+        "target": "lockheed",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "lockheed",
+        "target": "douglas_aircraft",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "uap",
+        "target": "wpafb",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "william_tompkins",
+        "target": "douglas_aircraft",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "wasatch_mountains",
+        "target": "utah",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "battelle_memorial_institute",
+        "target": "wrightpatterson_afb",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "wrightpatterson_afb",
+        "target": "battelle_memorial_institute",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "top_secret",
+        "target": "cia",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "ansel_e_talbert",
+        "target": "new_york_herald_tribune",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "foreign_technology_division",
+        "target": "wright_field",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "kataghan_province",
+        "target": "afghanistan",
+        "relationship_type": "country"
+    },
+    {
+        "source": "afghanistan",
+        "target": "kataghan_province",
+        "relationship_type": "contains_administrative_territorial_entity"
+    },
+    {
+        "source": "kabul",
+        "target": "afghanistan",
+        "relationship_type": "country"
+    },
+    {
+        "source": "air_technical_intelligence_center",
+        "target": "wrightpatterson_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "wrightpatterson_air_force_base",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "morris_k_jessup",
+        "target": "usmc",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "uss_engstrom",
+        "target": "philadelphia_navy_yard",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "office_of_information",
+        "target": "secretary_of_the_air_force",
+        "relationship_type": "office_held_by_head_of_the_organization"
+    },
+    {
+        "source": "blue_book_special_report_no_14",
+        "target": "usaf",
+        "relationship_type": "publisher"
+    },
+    {
+        "source": "naval_air_station_los_alamitos",
+        "target": "pacific",
+        "relationship_type": "located_in_or_next_to_body_of_water"
+    },
+    {
+        "source": "white_sands_proving_ground",
+        "target": "nm",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "joshua_n_goldberg",
+        "target": "university_of_cincinnati",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "louis_witten",
+        "target": "university_of_cincinnati",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "signal_corps",
+        "target": "nsa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "nsa",
+        "target": "signal_corps",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "new_york",
+        "target": "illinois",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "illinois",
+        "target": "new_york",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "pantex_plant",
+        "target": "amarillo_tx",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "hill_afb",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "mercury_program",
+        "target": "nasa",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "science_for_peace_and_security",
+        "target": "north_atlantic_treaty_organization",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "air_force_intelligence",
+        "target": "us_air_force",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "hypnosis",
+        "target": "drugs",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "director_of_information_services",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "john_f_kennedy_school_of_government",
+        "target": "harvard_university",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "harvard_university",
+        "target": "john_f_kennedy_school_of_government",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "subcommittee_on_atmospheric_phenomena",
+        "target": "usg",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "house_select_committee_on_astronautics_and_space_exploration",
+        "target": "usg",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "usg",
+        "target": "subcommittee_on_atmospheric_phenomena",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "usg",
+        "target": "house_select_committee_on_astronautics_and_space_exploration",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "hunter_afb",
+        "target": "georgia",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "uss_franklin_d_roosevelt",
+        "target": "usn",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "airline_pilots",
+        "target": "airline_industry",
+        "relationship_type": "field_of_this_occupation"
+    },
+    {
+        "source": "airline_industry",
+        "target": "airline_pilots",
+        "relationship_type": "practiced_by"
+    },
+    {
+        "source": "lwoff",
+        "target": "nobel_prize",
+        "relationship_type": "award_received"
+    },
+    {
+        "source": "monod",
+        "target": "nobel_prize",
+        "relationship_type": "award_received"
+    },
+    {
+        "source": "jacob",
+        "target": "nobel_prize",
+        "relationship_type": "award_received"
+    },
+    {
+        "source": "ekuk",
+        "target": "ak",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "h_r_hillenkoetter",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "ben_guerir_air_base",
+        "target": "morocco",
+        "relationship_type": "country"
+    },
+    {
+        "source": "zaragoza_afb",
+        "target": "spain",
+        "relationship_type": "country"
+    },
+    {
+        "source": "southwest_center_for_advanced_studies",
+        "target": "texas_instruments",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "phillip_j_corso",
+        "target": "us_army",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "john_w_mccormack",
+        "target": "house_science_and_astronautics_committee",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "polaroid_camera",
+        "target": "geiger_counter",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "kennedy",
+        "target": "president",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "1127th_field_activities_group",
+        "target": "ft_belvoir",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "national_photographic_interpretation_center",
+        "target": "cia",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "354th_tac_fighter_wing",
+        "target": "myrtle_beach_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "arthur_sylvester",
+        "target": "assistant_secretary",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "project_preserve_destiny",
+        "target": "january_1963",
+        "relationship_type": "inception"
+    },
+    {
+        "source": "atlas_site_9",
+        "target": "walker_afb",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "holloman_afb",
+        "target": "alamogordo_nm",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "kwajalein_atoll",
+        "target": "pacific_ocean",
+        "relationship_type": "located_in_or_next_to_body_of_water"
+    },
+    {
+        "source": "fort_riley",
+        "target": "ks",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "atlas",
+        "target": "icbm",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "martin_marietta",
+        "target": "engineer",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "usaf",
+        "target": "warren_afb",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "warren_afb",
+        "target": "usaf",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "lockbourne_afb",
+        "target": "ohio",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "china_lake_naval_ordnance_test_station",
+        "target": "naval_air_weapons_station_china_lake",
+        "relationship_type": "replaced_by"
+    },
+    {
+        "source": "naval_air_weapons_station_china_lake",
+        "target": "china_lake_naval_ordnance_test_station",
+        "relationship_type": "replaces"
+    },
+    {
+        "source": "condon_committee",
+        "target": "project_blue_book",
+        "relationship_type": "different_from"
+    },
+    {
+        "source": "project_blue_book",
+        "target": "condon_committee",
+        "relationship_type": "different_from"
+    },
+    {
+        "source": "hector_quintanilla",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "sac_kansas_city",
+        "target": "fbi",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "wright_field",
+        "target": "aerospace_engineer",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "area_51",
+        "target": "cedar_city_utah",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "macdill_afb",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "naval_air_base",
+        "target": "yuma_az",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "robert_m_wood",
+        "target": "mcdonnell_douglas_corporation",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "rex_heflin",
+        "target": "us",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "alpha_red",
+        "target": "crypto_clearance",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "northrop_norair",
+        "target": "electroaerodynamics",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "lyndon_b_johnson",
+        "target": "president",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "robert_naka",
+        "target": "mitre_corporation",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "andrews_afb",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "project_blue_book",
+        "target": "national_academy_of_sciences",
+        "relationship_type": "publisher"
+    },
+    {
+        "source": "hugh_l_dryden",
+        "target": "national_institute_of_standards_and_technology",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "chilean_navy",
+        "target": "chile",
+        "relationship_type": "country"
+    },
+    {
+        "source": "valparaiso",
+        "target": "chile",
+        "relationship_type": "country"
+    },
+    {
+        "source": "permindex",
+        "target": "switzerland",
+        "relationship_type": "country"
+    },
+    {
+        "source": "project_skylite",
+        "target": "mcdonnell_douglas",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "preston_nichols",
+        "target": "january_1971",
+        "relationship_type": "work_period_start"
+    },
+    {
+        "source": "aileaton",
+        "target": "preston_nichols",
+        "relationship_type": "owned_by"
+    },
+    {
+        "source": "preston_nichols",
+        "target": "aileaton",
+        "relationship_type": "owner_of"
+    },
+    {
+        "source": "uss_john_f_kennedy",
+        "target": "caribbean_sea",
+        "relationship_type": "location"
+    },
+    {
+        "source": "usaf",
+        "target": "pentagon",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "pentagon",
+        "target": "usaf",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "air_force_rocket_propulsion_library",
+        "target": "edwards_air_force_base",
+        "relationship_type": "location"
+    },
+    {
+        "source": "ingo_swann",
+        "target": "hal_puthoff",
+        "relationship_type": "spouse"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "ingo_swann",
+        "relationship_type": "spouse"
+    },
+    {
+        "source": "howell_mcconnell",
+        "target": "nsa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "holloman_afb",
+        "target": "nm",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "great_lakes_naval_base",
+        "target": "us_navy",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "96th_security_police_squadron",
+        "target": "dyess_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "pascagoula_river",
+        "target": "calvin_parker",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "curtis_lemay",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "giscard_destaing",
+        "target": "president_of_france",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "uri_geller",
+        "target": "lawrence_livermore_national_laboratory",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "kit_green",
+        "target": "uap",
+        "relationship_type": "member_of_political_party"
+    },
+    {
+        "source": "romeo_flight",
+        "target": "malmstrom_afb",
+        "relationship_type": "location"
+    },
+    {
+        "source": "star_wars_program",
+        "target": "usg",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "kit_green",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "minuteman_icbm",
+        "target": "ballistic_missile",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "island",
+        "target": "pacific_ocean",
+        "relationship_type": "located_in_or_next_to_body_of_water"
+    },
+    {
+        "source": "top_secret",
+        "target": "classified",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "air_force_archives",
+        "target": "maxwell_afb",
+        "relationship_type": "location"
+    },
+    {
+        "source": "donald_rumsfeld",
+        "target": "white_house",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "cia",
+        "target": "uap",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "97th_bomber_wing",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "congressional_research_service",
+        "target": "library_of_congress",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "library_of_congress",
+        "target": "congressional_research_service",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "ellsworth_afb",
+        "target": "sd",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "nasa",
+        "target": "los_alamos_national_laboratory",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "los_alamos_national_laboratory",
+        "target": "nasa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "john_keel",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "usaf",
+        "target": "colorado_springs_co",
+        "relationship_type": "location_of_formation"
+    },
+    {
+        "source": "ohio",
+        "target": "michigan",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "michigan",
+        "target": "ohio",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "robert_m_wood",
+        "target": "mcdonnelldouglas",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "ufoheap",
+        "target": "nasa",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "alleged_usaf_incidentcomplaint_form",
+        "target": "uap_sighting_incident_and_body_recovery",
+        "relationship_type": "main_subject"
+    },
+    {
+        "source": "uaprelated_cables",
+        "target": "foia",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "langley_avon_bombing_range",
+        "target": "langley_afb",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "noel_hinners",
+        "target": "nasa_associate_administrator_for_space_sciences",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "united_nations",
+        "target": "un_special_political_committee",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "un_special_political_committee",
+        "target": "united_nations",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "domestic_contact_service",
+        "target": "cia",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "cia",
+        "target": "dia",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "dia",
+        "target": "cia",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "sac",
+        "target": "air_force",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "air_force",
+        "target": "sac",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "robertson_panel",
+        "target": "cia",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "jacques_valle",
+        "target": "uap",
+        "relationship_type": "member_of_political_party"
+    },
+    {
+        "source": "dale_graff",
+        "target": "dia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "naval_air_station",
+        "target": "sunnyvale_ca",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "mississippi_house_resolution_no_14",
+        "target": "february_1979",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "department_of_energy",
+        "target": "los_alamos_national_laboratory",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "los_alamos_national_laboratory",
+        "target": "department_of_energy",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "hampton_roads",
+        "target": "virginia",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "victor_marchetti",
+        "target": "deputy_director_of_the_cia",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "oregon",
+        "target": "idaho",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "idaho",
+        "target": "oregon",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "william_draeger",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "norad",
+        "target": "uap",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "uap",
+        "target": "norad",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "department_of_energy",
+        "target": "los_alamos_national_laboratories",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "sandia_laboratories",
+        "target": "department_of_energy",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "los_alamos_national_laboratories",
+        "target": "department_of_energy",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "paul_f_bennewitz",
+        "target": "coast_guard",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "chief_officer_of_policy_for_the_nsa",
+        "target": "eugene_f_yeates",
+        "relationship_type": "officeholder"
+    },
+    {
+        "source": "eugene_f_yeates",
+        "target": "chief_officer_of_policy_for_the_nsa",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "leonard_stringfield",
+        "target": "arizona_state_university",
+        "relationship_type": "educated_at"
+    },
+    {
+        "source": "usg",
+        "target": "nsa",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "nsa",
+        "target": "usg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "7602nd_air_intelligence_group",
+        "target": "fort_belvoir_va",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "hangar_18",
+        "target": "sunn_classic_pictures",
+        "relationship_type": "distributed_by"
+    },
+    {
+        "source": "andrew_basiago",
+        "target": "darpa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "general_electric",
+        "target": "wpafb",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "wpafb",
+        "target": "general_electric",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "rc",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "gray_aafrobert_gray_field",
+        "target": "fort_hood",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "kit_green",
+        "target": "usaf",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "state_department",
+        "target": "bureau_of_oceans_and_international_environmental_and_scientific_affairs",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "bureau_of_oceans_and_international_environmental_and_scientific_affairs",
+        "target": "state_department",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "richard_f_haines",
+        "target": "nasa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "skip_atwater",
+        "target": "us_army",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "sandia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "us_army",
+        "target": "intelligence_and_security_command",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "intelligence_and_security_command",
+        "target": "us_army",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "camp_hero",
+        "target": "montauk_ny",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "research_and_development_board",
+        "target": "dod",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "kit_green",
+        "target": "nuclear_security_testing",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "cia",
+        "target": "remote_viewing_program",
+        "relationship_type": "owner_of"
+    },
+    {
+        "source": "remote_viewing_program",
+        "target": "cia",
+        "relationship_type": "owned_by"
+    },
+    {
+        "source": "dsp_satellite",
+        "target": "spy_satellite",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "office_of_special_investigations",
+        "target": "air_force",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "hudson_valley",
+        "target": "new_york",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "indian_point_nuclear_plant",
+        "target": "buchanan_ny",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "area_51",
+        "target": "nv",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "minuteman_iii",
+        "target": "multiple_independentlytargeted_reentry_vehicle",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "mclean_secure_facility",
+        "target": "doe",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "sri_international",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "ronald_reagan",
+        "target": "president",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "toulouse",
+        "target": "france",
+        "relationship_type": "country"
+    },
+    {
+        "source": "b2_spirit",
+        "target": "lockheed_skunk_works",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "rocketdyne",
+        "target": "enginespropulsion",
+        "relationship_type": "product_or_material_produced"
+    },
+    {
+        "source": "pratt__whitney",
+        "target": "enginespropulsion",
+        "relationship_type": "product_or_material_produced"
+    },
+    {
+        "source": "f4",
+        "target": "vietnam_war",
+        "relationship_type": "conflict"
+    },
+    {
+        "source": "general_accounting_office",
+        "target": "national_security_and_international_affairs_division",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "national_security_and_international_affairs_division",
+        "target": "general_accounting_office",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "pathfinder_partners",
+        "target": "steve_millard",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "cheyenne_mountain_complex",
+        "target": "co",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "ron_pandolfi",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "john_lear",
+        "target": "william_lear",
+        "relationship_type": "father"
+    },
+    {
+        "source": "william_lear",
+        "target": "john_lear",
+        "relationship_type": "child"
+    },
+    {
+        "source": "lear_siegler_corp",
+        "target": "william_lear",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "air_force_astronautics_laboratory",
+        "target": "edwards_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "franklin_mead",
+        "target": "edwards_afb",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "mj12",
+        "target": "jacques_valle",
+        "relationship_type": "discoverer_or_inventor"
+    },
+    {
+        "source": "crash_of_an_experimental_aircraft_in_1983",
+        "target": "23_october_1988",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "norton_air_force_base",
+        "target": "california",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "john_lear",
+        "target": "norton_afb",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "project_blue_book",
+        "target": "usaf",
+        "relationship_type": "publisher"
+    },
+    {
+        "source": "cecil_field_naval_air_station",
+        "target": "florida",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "roosevelt_roads_naval_air_station",
+        "target": "puerto_rico",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "klastv",
+        "target": "nv",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "air_force_institute_of_technology",
+        "target": "wrightpatterson_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "carl_spaatz",
+        "target": "usaf_chief_of_staff",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "jacques_valle",
+        "relationship_type": "present_in_work"
+    },
+    {
+        "source": "jacques_valle",
+        "target": "hal_puthoff",
+        "relationship_type": "characters"
+    },
+    {
+        "source": "art_lundahl",
+        "target": "npic",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "long_island",
+        "target": "moriches_bay",
+        "relationship_type": "located_in_or_next_to_body_of_water"
+    },
+    {
+        "source": "bobby_ray_inman",
+        "target": "nsa_director",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "bobby_ray_inman",
+        "target": "cia_deputy_director",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "nsa",
+        "target": "elint",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "eric_walker",
+        "target": "penn_state_university",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "janes_defense",
+        "target": "james_goodall",
+        "relationship_type": "author"
+    },
+    {
+        "source": "atp_group",
+        "target": "ron_blackburn",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "oppenheimer",
+        "target": "project_blue_heaven",
+        "relationship_type": "participant_in"
+    },
+    {
+        "source": "einstein",
+        "target": "project_blue_heaven",
+        "relationship_type": "participant_in"
+    },
+    {
+        "source": "teller",
+        "target": "project_blue_heaven",
+        "relationship_type": "participant_in"
+    },
+    {
+        "source": "project_blue_heaven",
+        "target": "oppenheimer",
+        "relationship_type": "participant"
+    },
+    {
+        "source": "project_blue_heaven",
+        "target": "einstein",
+        "relationship_type": "participant"
+    },
+    {
+        "source": "project_blue_heaven",
+        "target": "teller",
+        "relationship_type": "participant"
+    },
+    {
+        "source": "naval_research_laboratory",
+        "target": "darpa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "darpa",
+        "target": "naval_research_laboratory",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "bae_systems",
+        "target": "warton_plant",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "warton_plant",
+        "target": "bae_systems",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "disclosure_project",
+        "target": "steven_greer",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "pacific_heights",
+        "target": "san_francisco",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "steven_bechtel",
+        "target": "bechtel_corp",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "bechtel_corp",
+        "target": "steven_bechtel",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "dl_cravens",
+        "target": "saic",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "eric_a_walker",
+        "target": "penn_state_university",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "edwards_afb",
+        "target": "us",
+        "relationship_type": "country"
+    },
+    {
+        "source": "george_afb",
+        "target": "us",
+        "relationship_type": "country"
+    },
+    {
+        "source": "china_lake_naval_weapons_center",
+        "target": "us",
+        "relationship_type": "country"
+    },
+    {
+        "source": "dick_damato",
+        "target": "sen_robert_byrd",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "reynolds_electronics",
+        "target": "egg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "egg",
+        "target": "reynolds_electronics",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "uss_nimitz",
+        "target": "uss_nimitz",
+        "relationship_type": "different_from"
+    },
+    {
+        "source": "john_grace",
+        "target": "matrix",
+        "relationship_type": "present_in_work"
+    },
+    {
+        "source": "matrix",
+        "target": "john_grace",
+        "relationship_type": "characters"
+    },
+    {
+        "source": "jesse_marcel",
+        "target": "roswell_nm",
+        "relationship_type": "place_of_birth"
+    },
+    {
+        "source": "med_program",
+        "target": "los_alamos",
+        "relationship_type": "location"
+    },
+    {
+        "source": "raymond_concrete_pile_company",
+        "target": "bay_area",
+        "relationship_type": "location_of_formation"
+    },
+    {
+        "source": "prince_hansadam_ii",
+        "target": "liechtenstein",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "liechtenstein",
+        "target": "prince_hansadam_ii",
+        "relationship_type": "head_of_state"
+    },
+    {
+        "source": "ernst_steinhoff",
+        "target": "german",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "wernher_von_braun",
+        "target": "german",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "mojave_desert",
+        "target": "new_mexico",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "us",
+        "target": "nato",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "crash_of_a_ufo",
+        "target": "roswell",
+        "relationship_type": "location"
+    },
+    {
+        "source": "nro",
+        "target": "tesre",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "tesre",
+        "target": "nro",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "benjamin_chidlaw",
+        "target": "wright_field",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "human_sacrifice",
+        "target": "satanic_ritual",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "kgfl",
+        "target": "roswell_nm",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "dan_sherman",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "b2",
+        "target": "northrop_grumman",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "northrop_grumman",
+        "target": "b2",
+        "relationship_type": "product_or_material_produced"
+    },
+    {
+        "source": "treat_iv",
+        "target": "1992",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "wackenhut",
+        "target": "nevada_testing_range",
+        "relationship_type": "owner_of"
+    },
+    {
+        "source": "nevada_testing_range",
+        "target": "wackenhut",
+        "relationship_type": "owned_by"
+    },
+    {
+        "source": "robert_c_byrd",
+        "target": "senate_appropriations_committee",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "ufo_encounters",
+        "target": "jb_michaels",
+        "relationship_type": "author"
+    },
+    {
+        "source": "donald_b_rice",
+        "target": "secretary_of_the_air_force",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "bdm",
+        "target": "psitech",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "psitech",
+        "target": "bdm",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "cb_scott_jones",
+        "target": "white_house_office_of_science_and_technology_policy",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "ron_pandolfi",
+        "target": "white_house_office_of_science_and_technology_policy",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "bruce_maccabee",
+        "target": "white_house_office_of_science_and_technology_policy",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "nick_redfern",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "project_marauder",
+        "target": "usaf_research_laboratory",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "aaf",
+        "target": "kirtland_afb",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "kirtland_afb",
+        "target": "aaf",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "daniel_l_sherman",
+        "target": "sbi",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "dist",
+        "target": "uk_ministry_of_defence",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "dick_damato",
+        "target": "uap",
+        "relationship_type": "member_of_political_party"
+    },
+    {
+        "source": "pennzoil",
+        "target": "oil_companies",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "texaco",
+        "target": "oil_companies",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "tenneco",
+        "target": "oil_companies",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "marathon",
+        "target": "oil_companies",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "coastal",
+        "target": "oil_companies",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "1953_cia_robertson_panel",
+        "target": "1953",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "atomic_energy_commission",
+        "target": "los_alamos_national_laboratory",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "los_alamos_national_laboratory",
+        "target": "atomic_energy_commission",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "uss_engstrom",
+        "target": "us_navy",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "john_e_brandenburg",
+        "target": "orbitec",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "project_preserve_destiny",
+        "target": "elint",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "robert_emenegger",
+        "target": "jacques_valle",
+        "relationship_type": "influenced_by"
+    },
+    {
+        "source": "national_weather_service",
+        "target": "muskegon_mi",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "john_f_kennedy_school_of_government",
+        "target": "the_pentagon",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "the_pentagon",
+        "target": "john_f_kennedy_school_of_government",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "the_pentagon",
+        "target": "the_pentagon",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "sherman",
+        "target": "september_1994",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "crash_site",
+        "target": "roswell",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "boscombe_down",
+        "target": "uk",
+        "relationship_type": "country"
+    },
+    {
+        "source": "john_petersen",
+        "target": "futurist",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "usaf",
+        "target": "nsa",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "nsa",
+        "target": "usaf",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "bill_clinton",
+        "target": "president",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "f117a",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "holloman_afb",
+        "target": "usaf",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "gondola_wish",
+        "target": "1977",
+        "relationship_type": "work_period_start"
+    },
+    {
+        "source": "gondola_wish",
+        "target": "ray_smith_buchanan",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "gondola_wish",
+        "target": "gabrielle_pettingell",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "ray_smith_buchanan",
+        "target": "gondola_wish",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "ray_smith_buchanan",
+        "target": "ray_smith_buchanan",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "gabrielle_pettingell",
+        "target": "gondola_wish",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "gabrielle_pettingell",
+        "target": "ray_smith_buchanan",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "ppd",
+        "target": "abductions",
+        "relationship_type": "has_cause"
+    },
+    {
+        "source": "abductions",
+        "target": "ppd",
+        "relationship_type": "has_effect"
+    },
+    {
+        "source": "john_h_gibbons",
+        "target": "assistant_to_the_president_for_science_and_technology",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "fort_gillem",
+        "target": "ga",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "nasa",
+        "target": "ames",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "ames",
+        "target": "nasa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "johndale_solem",
+        "target": "los_alamos",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "stealth_fighter",
+        "target": "optical_deception",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "wrightpatterson_afb",
+        "target": "usaf",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "daniel_goldin",
+        "target": "nasa_administrator",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "science_applications_international_corporation",
+        "target": "san_diego",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "northrop_anthill_tejon_rance",
+        "target": "lockheedmartin_helendale_plant",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "dan_morris",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "michael_smith",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "transdimensional_systems",
+        "target": "1997",
+        "relationship_type": "inception"
+    },
+    {
+        "source": "sentry_eagle",
+        "target": "national_security_agency",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "walter_reed_hospital",
+        "target": "uap",
+        "relationship_type": "affiliation"
+    },
+    {
+        "source": "jonathan_weygandt",
+        "target": "lance_corporal",
+        "relationship_type": "military_rank"
+    },
+    {
+        "source": "boyd_bushman",
+        "target": "lockheed_martin",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "uap_crash",
+        "target": "roswell_nm",
+        "relationship_type": "location"
+    },
+    {
+        "source": "nasa",
+        "target": "glenn_research_center",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "glenn_research_center",
+        "target": "nasa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "glenn_research_center",
+        "target": "cleveland_oh",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "lewis_field",
+        "target": "cleveland_oh",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "nasa",
+        "target": "marshall_space_flight_center",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "marshall_space_flight_center",
+        "target": "nasa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "project_blue_book",
+        "target": "gerald_k_haines",
+        "relationship_type": "author"
+    },
+    {
+        "source": "ford_aerospace",
+        "target": "northrop_grumman",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "northrop_grumman",
+        "target": "ford_aerospace",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "antigravity_news_and_space_drive_technology",
+        "target": "james_cox",
+        "relationship_type": "owned_by"
+    },
+    {
+        "source": "bob_bigelow",
+        "target": "jacques_valle",
+        "relationship_type": "influenced_by"
+    },
+    {
+        "source": "douglas_torr",
+        "target": "university_of_south_carolina",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "timir_datta",
+        "target": "university_of_south_carolina",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "lockheed_martin",
+        "target": "lockheed_martin_advanced_technology_center",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "lockheed_martin_advanced_technology_center",
+        "target": "lockheed_martin",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "skunk_works",
+        "target": "palmdale",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "xp80",
+        "target": "skunk_works",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "jet_propulsion_laboratory",
+        "target": "edwards_air_force_base",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "lincoln_county",
+        "target": "new_mexico",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "new_mexico",
+        "target": "lincoln_county",
+        "relationship_type": "contains_administrative_territorial_entity"
+    },
+    {
+        "source": "william_hamilton",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "cseti",
+        "target": "unacknowledged_special_access_program",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "lockheed_martin",
+        "target": "skunk_works",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "skunk_works",
+        "target": "lockheed_martin",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "department_of_energy",
+        "target": "national_nuclear_security_administration",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "national_nuclear_security_administration",
+        "target": "department_of_energy",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "tim_cooper",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "james_westwood",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "michael_lindemann",
+        "target": "futurist",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "phoenix_lights_incident",
+        "target": "triangular_uap_sightings",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "st_clair_triangle_incident",
+        "target": "triangular_uap_sightings",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "jim_angleton",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "603rd_air_engineering_squadron",
+        "target": "roswell",
+        "relationship_type": "location"
+    },
+    {
+        "source": "arlington_institute",
+        "target": "defense_industry",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "groom_lake",
+        "target": "nevada",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "michael_mckubre",
+        "target": "sri",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "bdm",
+        "target": "civilian_contractors",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "saic",
+        "target": "civilian_contractors",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "boeing",
+        "target": "civilian_contractors",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "lockheed",
+        "target": "civilian_contractors",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "sara",
+        "target": "jim_west",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "henry_dakin",
+        "target": "millionaire",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "jeffrey_w_griffith",
+        "target": "hughes_aircraft",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "john_petersen",
+        "target": "arlington_institute",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "paul_czysz",
+        "target": "wpafb",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "advanced_deep_space_transport_technology_assessment_group",
+        "target": "2001",
+        "relationship_type": "inception"
+    },
+    {
+        "source": "jerry_simons",
+        "target": "sheriff",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "darius_carter",
+        "target": "sheriff",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "dale_graff",
+        "target": "wpafb",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "public_deception",
+        "target": "disinformation",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "lockheed_skunkworks",
+        "target": "lockheed",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "lockheed",
+        "target": "lockheed_skunkworks",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "operation_shocker",
+        "target": "disinformation",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "national_press_club",
+        "target": "washington_dc",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "james_woodward",
+        "target": "california_state_university",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "thomas_mahood",
+        "target": "california_state_university",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "nids",
+        "target": "colm_keller",
+        "relationship_type": "chairperson"
+    },
+    {
+        "source": "pentacle_memorandum",
+        "target": "howard_cross",
+        "relationship_type": "author"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "aatip",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "mcdonnell",
+        "target": "uap",
+        "relationship_type": "member_of_political_party"
+    },
+    {
+        "source": "general_exon",
+        "target": "roswell",
+        "relationship_type": "participant_in"
+    },
+    {
+        "source": "eric_davis",
+        "target": "roswell",
+        "relationship_type": "participant_in"
+    },
+    {
+        "source": "roswell",
+        "target": "general_exon",
+        "relationship_type": "participant"
+    },
+    {
+        "source": "roswell",
+        "target": "eric_davis",
+        "relationship_type": "participant"
+    },
+    {
+        "source": "donald_flickinger",
+        "target": "general_officer",
+        "relationship_type": "military_rank"
+    },
+    {
+        "source": "eric_davis",
+        "target": "cmdr",
+        "relationship_type": "military_rank"
+    },
+    {
+        "source": "jonathan_campbell",
+        "target": "nasa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "south_polaris",
+        "target": "las_vegas",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "holloman_uap_landing",
+        "target": "a12_prototype",
+        "relationship_type": "item_operated"
+    },
+    {
+        "source": "el_paso",
+        "target": "mexican_border",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "boeing",
+        "target": "boeing_phantom_works",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "boeing_phantom_works",
+        "target": "boeing",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "grasp",
+        "target": "antigravity",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "narcap",
+        "target": "dick_haines",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "egg_special_projects",
+        "target": "defense_contractor",
+        "relationship_type": "industry"
+    },
+    {
+        "source": "nevada_test_site",
+        "target": "department_of_energy",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "gary_mckinnon",
+        "target": "british",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "commission_on_the_future_of_the_us_aerospace_industry",
+        "target": "aerospace_industry",
+        "relationship_type": "main_subject"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "zero_point_energy",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "nasa",
+        "target": "goddard",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "goddard",
+        "target": "nasa",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "chincarini",
+        "target": "gianluca_gemme",
+        "relationship_type": "spouse"
+    },
+    {
+        "source": "gianluca_gemme",
+        "target": "chincarini",
+        "relationship_type": "spouse"
+    },
+    {
+        "source": "dog_bone_lake",
+        "target": "pintwater_range",
+        "relationship_type": "mountain_range"
+    },
+    {
+        "source": "larry_lemke",
+        "target": "nasa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "camp_pendleton",
+        "target": "ca",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "stephen_lovekin",
+        "target": "white_house_army_signaling_agency",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "wayne_state_university",
+        "target": "detroit_mi",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "arlington_institute",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "bernard_haisch",
+        "target": "lockheed_martin",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "atp_group",
+        "target": "bdm_corp",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "bdm_corp",
+        "target": "atp_group",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "cyber_corp",
+        "target": "huntsville_al",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "avocent",
+        "target": "huntsville_al",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "thomas_wilson",
+        "target": "vadm",
+        "relationship_type": "military_rank"
+    },
+    {
+        "source": "george_bush_sr",
+        "target": "pres",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "eric_davis",
+        "target": "radm",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "raytheon",
+        "target": "hughes",
+        "relationship_type": "owner_of"
+    },
+    {
+        "source": "hughes",
+        "target": "raytheon",
+        "relationship_type": "owned_by"
+    },
+    {
+        "source": "northropgrumman",
+        "target": "trw",
+        "relationship_type": "owner_of"
+    },
+    {
+        "source": "trw",
+        "target": "northropgrumman",
+        "relationship_type": "owned_by"
+    },
+    {
+        "source": "lockheed_martin_information_systems",
+        "target": "ibm",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "ibm",
+        "target": "lockheed_martin_information_systems",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "laurance_rockefeller",
+        "target": "rockefellers",
+        "relationship_type": "family"
+    },
+    {
+        "source": "andrew_basiago",
+        "target": "time_travel",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "charles_bowsher",
+        "target": "comptroller_general",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "bill_cooper",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "aac_fort_worth",
+        "target": "tx",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "jon_ferry",
+        "target": "marconi",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "2004",
+        "target": "2004",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "uss_princeton",
+        "target": "aegis",
+        "relationship_type": "item_operated"
+    },
+    {
+        "source": "helen_littrell",
+        "target": "marisa",
+        "relationship_type": "child"
+    },
+    {
+        "source": "marisa",
+        "target": "helen_littrell",
+        "relationship_type": "mother"
+    },
+    {
+        "source": "naval_support_facility_diego_garcia",
+        "target": "navy",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "kit_green",
+        "target": "2005",
+        "relationship_type": "work_period_start"
+    },
+    {
+        "source": "victor_martinez",
+        "target": "uap",
+        "relationship_type": "member_of_political_party"
+    },
+    {
+        "source": "bob_lazar",
+        "target": "los_alamos",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "john_negroponte",
+        "target": "ndi",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "hypertech_concepts",
+        "target": "paul_czysz",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "arc_seibersdorf",
+        "target": "austria",
+        "relationship_type": "country"
+    },
+    {
+        "source": "steven_greer",
+        "target": "disclosure_project",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "flying_saucer",
+        "target": "aircraft",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "kit_green",
+        "target": "bae_systems",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "henry_deacon",
+        "target": "lawrence_livermore_national_laboratory",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "mendel_rivers_congressional_hearings",
+        "target": "1968",
+        "relationship_type": "point_in_time"
+    },
+    {
+        "source": "ohare_international_airport",
+        "target": "chicago_il",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "lockheed_martin",
+        "target": "hovercraft",
+        "relationship_type": "product_or_material_produced"
+    },
+    {
+        "source": "alexandre_martins",
+        "target": "university_of_lisbon",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "mario_pinheiro",
+        "target": "university_of_lisbon",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "bernard_haisch",
+        "target": "lockheed",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "everett_hineman",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "ufo",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "bob_bigelow",
+        "target": "dia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "fort_worth",
+        "target": "arlington",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "arlington",
+        "target": "fort_worth",
+        "relationship_type": "shares_border_with"
+    },
+    {
+        "source": "dan_burisch",
+        "target": "microbiologist",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "b29",
+        "target": "dod",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "doe",
+        "target": "national_nuclear_security_administration",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "national_nuclear_security_administration",
+        "target": "doe",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "darpa_pe_0603286e",
+        "target": "june_2008",
+        "relationship_type": "inception"
+    },
+    {
+        "source": "los_alamos_national_laboratory",
+        "target": "dod",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "dod",
+        "target": "los_alamos_national_laboratory",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "camp_hero",
+        "target": "montauk",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "jason_group",
+        "target": "mitre_corp",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "mitre_corp",
+        "target": "jason_group",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "jacques_valle",
+        "target": "dia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "mutual_ufo_network",
+        "target": "bob_wood",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "mutual_ufo_network",
+        "target": "charles_modlin",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "mutual_ufo_network",
+        "target": "robert_powell",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "mutual_ufo_network",
+        "target": "chuck_reever",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "bob_wood",
+        "target": "mutual_ufo_network",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "charles_modlin",
+        "target": "mutual_ufo_network",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "robert_powell",
+        "target": "mutual_ufo_network",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "chuck_reever",
+        "target": "mutual_ufo_network",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "harry_reid",
+        "target": "congressmen",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "zurich",
+        "target": "switzerland",
+        "relationship_type": "country"
+    },
+    {
+        "source": "nasa",
+        "target": "kennedy_space_center",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "kennedy_space_center",
+        "target": "nasa",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "uap",
+        "target": "washington_dc",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "white_house",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "project_blue_book",
+        "target": "area_51",
+        "relationship_type": "narrative_location"
+    },
+    {
+        "source": "obama_administration",
+        "target": "congress",
+        "relationship_type": "appointed_by"
+    },
+    {
+        "source": "colm_kelleher",
+        "target": "dia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "department_of_homeland_security",
+        "target": "georgia",
+        "relationship_type": "applies_to_jurisdiction"
+    },
+    {
+        "source": "lockheed",
+        "target": "sunnyvale",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "colm_kelleher",
+        "target": "air_force",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "uss_carl_vinson",
+        "target": "us_navy",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "319th_strategic_missile_squadron",
+        "target": "francis_e_warren_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "hill_afb",
+        "target": "ogden_utah",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "bigelow_aerospace_advanced_space_studies",
+        "target": "defense_intelligence_agency",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "defense_intelligence_agency",
+        "target": "bigelow_aerospace_advanced_space_studies",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "kit_green",
+        "target": "detroit",
+        "relationship_type": "place_of_birth"
+    },
+    {
+        "source": "department_of_homeland_security",
+        "target": "washington_dc",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "dod",
+        "target": "lanl",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "lanl",
+        "target": "dod",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "offutt_air_force_base",
+        "target": "nebraska",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "chuck_wade",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "phyllis_green",
+        "target": "under_secretary_for_intelligence_and_analysis",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "africom",
+        "target": "africa",
+        "relationship_type": "operating_area"
+    },
+    {
+        "source": "frc_west",
+        "target": "lemoore_naval_air_station",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "wingless_electromagnetic_air_vehicle",
+        "target": "electromagnetic_air_vehicle",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "regina_dugan",
+        "target": "darpa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "synthetic_quantum_environment",
+        "target": "3d_reality",
+        "relationship_type": "opposite_of"
+    },
+    {
+        "source": "3d_reality",
+        "target": "synthetic_quantum_environment",
+        "relationship_type": "opposite_of"
+    },
+    {
+        "source": "chase_brandon",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "fergus_county",
+        "target": "montana",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "montana",
+        "target": "fergus_county",
+        "relationship_type": "contains_administrative_territorial_entity"
+    },
+    {
+        "source": "john_s_herrington",
+        "target": "secretary_of_energy",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "sixth_sense",
+        "target": "intuitive_decision_making",
+        "relationship_type": "said_to_be_the_same_as"
+    },
+    {
+        "source": "intuitive_decision_making",
+        "target": "sixth_sense",
+        "relationship_type": "said_to_be_the_same_as"
+    },
+    {
+        "source": "sdi_program",
+        "target": "stealth_aircraft",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "wrightpatterson_afb",
+        "target": "usmc",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "boeing",
+        "target": "northrop_grumman",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "northrop_grumman",
+        "target": "boeing",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "linda_woodford",
+        "target": "defense_finance_and_accounting_service",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "quantum_vacuum",
+        "target": "electrodynamic_theory",
+        "relationship_type": "studied_by"
+    },
+    {
+        "source": "electrodynamic_theory",
+        "target": "quantum_vacuum",
+        "relationship_type": "studies"
+    },
+    {
+        "source": "cia",
+        "target": "arpa",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "arpa",
+        "target": "cia",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "microwave",
+        "target": "electromagnetic_waves",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "steven_greer",
+        "target": "pahute_mesa",
+        "relationship_type": "residence"
+    },
+    {
+        "source": "harry_howard",
+        "target": "intelligence_analyst",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "bob_oechsler",
+        "target": "nasa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "fluxliner",
+        "target": "flying_saucer",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "petty_officer_first_class",
+        "target": "us_navy",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "fort_sill",
+        "target": "ada_oklahoma",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "john_podesta",
+        "target": "clinton_campaign_manager",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "john_burroughs",
+        "target": "usaf",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "national_reconnaissance_office",
+        "target": "dod",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "dod",
+        "target": "national_reconnaissance_office",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "andrea_rossi",
+        "target": "antigravity",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "bae_systems",
+        "target": "uk",
+        "relationship_type": "country"
+    },
+    {
+        "source": "hillary_clinton_campaign",
+        "target": "john_podesta",
+        "relationship_type": "chairperson"
+    },
+    {
+        "source": "john_podesta",
+        "target": "hillary_clinton_campaign",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "national_nuclear_security_administration",
+        "target": "nevada_national_security_site",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "nevada_national_security_site",
+        "target": "national_nuclear_security_administration",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "tom_delonge",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "uap",
+        "target": "private_corporation",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "sekret_machines",
+        "target": "tom_delonge",
+        "relationship_type": "author"
+    },
+    {
+        "source": "christopher_mellon",
+        "target": "assistant_secretary_of_defense_for_intelligence",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "max_spiers",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "tom_delonge",
+        "target": "biologists",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "national_nuclear_security_administration",
+        "target": "sandia",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "national_nuclear_security_administration",
+        "target": "los_alamos",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "national_nuclear_security_administration",
+        "target": "lawrence_livermore",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "sandia",
+        "target": "national_nuclear_security_administration",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "los_alamos",
+        "target": "national_nuclear_security_administration",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "lawrence_livermore",
+        "target": "national_nuclear_security_administration",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "lockheed",
+        "target": "aircraft",
+        "relationship_type": "product_or_material_produced"
+    },
+    {
+        "source": "curtis_lemay_center_for_doctrine_development_and_education",
+        "target": "maxwell_afb",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "marc_dantonio",
+        "target": "astronomer",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "hillary_clinton_campaign_manager",
+        "target": "john_podesta",
+        "relationship_type": "officeholder"
+    },
+    {
+        "source": "john_podesta",
+        "target": "hillary_clinton_campaign_manager",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "salvatore_pais",
+        "target": "naval_air_station_patuxent_river",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "catherine_austin_fitts",
+        "target": "michigan_state_university",
+        "relationship_type": "educated_at"
+    },
+    {
+        "source": "lockheed_martin",
+        "target": "aerospace_companies",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "lockheed",
+        "target": "aerospace_companies",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "trw",
+        "target": "aerospace_companies",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "raytheon",
+        "target": "aerospace_companies",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "public_domain",
+        "target": "anonymous",
+        "relationship_type": "maintained_by"
+    },
+    {
+        "source": "area_29",
+        "target": "white_sands_proving_ground",
+        "relationship_type": "location"
+    },
+    {
+        "source": "lockheed_martin",
+        "target": "aerospace_company",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "eric_davis",
+        "target": "aatip",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "usg",
+        "target": "uap",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "uap",
+        "target": "usg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "earthtech_international",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "del_rio_tx_uap_crash",
+        "target": "crash_retrieval",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "garry_nolan",
+        "target": "stanford",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "america_cosmic",
+        "target": "diana_pasulka",
+        "relationship_type": "author"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "scientific_coalition_for_uap_studies",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "earthtech",
+        "target": "aerospace_corp",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "aerospace_corp",
+        "target": "earthtech",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "james_iandoli",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "thomas_wilson",
+        "target": "vice_chair_of_the_joint_chiefs_of_staff",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "senate",
+        "target": "congress",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "congress",
+        "target": "senate",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "uss_russell",
+        "target": "uap",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "under_secretary_of_the_navy",
+        "target": "us_navy",
+        "relationship_type": "military_branch"
+    },
+    {
+        "source": "richard_doty",
+        "target": "dia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "eugene_podkletnov",
+        "target": "russia",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "john_petersen",
+        "target": "the_arlington_institute",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "richard_doty",
+        "target": "afosi",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "orbital_technologies_corporation",
+        "target": "orbitec",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "orbitec",
+        "target": "orbital_technologies_corporation",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "jack_sarfatti",
+        "target": "physicist",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "uap",
+        "target": "lockheed_martin",
+        "relationship_type": "manufacturer"
+    },
+    {
+        "source": "opnav_n2n6_public_affairs",
+        "target": "osd_public_affairs",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "osd_public_affairs",
+        "target": "opnav_n2n6_public_affairs",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "to_the_stars_academy",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "susan_gough",
+        "target": "osd_public_affairs",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "uss_princeton",
+        "target": "navy",
+        "relationship_type": "operator"
+    },
+    {
+        "source": "mariana_trench",
+        "target": "atlantic_ocean",
+        "relationship_type": "located_in_or_next_to_body_of_water"
+    },
+    {
+        "source": "cia",
+        "target": "intelligence_agencies",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "jesse_marcel_sr",
+        "target": "jesse_marcel_jr",
+        "relationship_type": "child"
+    },
+    {
+        "source": "jesse_marcel_jr",
+        "target": "jesse_marcel_sr",
+        "relationship_type": "father"
+    },
+    {
+        "source": "joe_murgia",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "christopher_k_mellon",
+        "target": "deputy_assistant_secretary_of_defense_for_intelligence",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "daniel_sheehan",
+        "target": "lue_elizondo",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "daniel_sheehan",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "navy",
+        "target": "marine_corps",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "ousdis",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "operation_starfish_prime",
+        "target": "nuclear_test",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "will_miller",
+        "target": "cmdr",
+        "relationship_type": "military_rank"
+    },
+    {
+        "source": "falcon_space",
+        "target": "mark_sokol",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "richard_dolan",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "sapoc",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "ross_coulthart",
+        "target": "australia",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "lue_eilzondo",
+        "target": "sapco",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "mary_elizabeth_elliot",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "linda_moulton_howe",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "uap_materials_analysis",
+        "target": "doe",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "sec",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "edward_lansdale",
+        "target": "g2",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "eric_haseltine",
+        "target": "nsa",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "ross_coulthart",
+        "target": "long_beach_ca",
+        "relationship_type": "residence"
+    },
+    {
+        "source": "usg",
+        "target": "department_of_energy",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "department_of_energy",
+        "target": "usg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "john_ramirez",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "earthtech",
+        "target": "hal_puthoff",
+        "relationship_type": "founded_by"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "aatip",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "hal_puthoff",
+        "target": "defense_intelligence_agency",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "usg",
+        "target": "usg_contractor_space",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "usg_contractor_space",
+        "target": "usg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "uss_ronald_reagan",
+        "target": "flight_deck",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "flight_deck",
+        "target": "uss_ronald_reagan",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "dodig",
+        "target": "usg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "usg",
+        "target": "dodig",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "ronald_moultrie",
+        "target": "under_secretary_of_defense_for_intelligence_and_security",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "richard_doty",
+        "target": "counterintelligence",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "amy_eskridge",
+        "target": "huntsville_al",
+        "relationship_type": "place_of_death"
+    },
+    {
+        "source": "operation_starfish_prime",
+        "target": "ufo",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "ultraterrestrial_hypothesis",
+        "target": "hypothesis",
+        "relationship_type": "instance_of"
+    },
+    {
+        "source": "garry_nolan",
+        "target": "national_science_foundation",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "british",
+        "target": "scotland",
+        "relationship_type": "contains_administrative_territorial_entity"
+    },
+    {
+        "source": "ministry_of_defence",
+        "target": "british",
+        "relationship_type": "country"
+    },
+    {
+        "source": "calvine",
+        "target": "british",
+        "relationship_type": "country"
+    },
+    {
+        "source": "scotland",
+        "target": "british",
+        "relationship_type": "country"
+    },
+    {
+        "source": "masint",
+        "target": "intelligence",
+        "relationship_type": "subclass_of"
+    },
+    {
+        "source": "susan_gough",
+        "target": "pentagon",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "christopher_mellon",
+        "target": "uap",
+        "relationship_type": "member_of_political_party"
+    },
+    {
+        "source": "uap",
+        "target": "christopher_mellon",
+        "relationship_type": "chairperson"
+    },
+    {
+        "source": "lue_elizondo",
+        "target": "puerto_rico",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "puerto_rico",
+        "target": "lue_elizondo",
+        "relationship_type": "contains_administrative_territorial_entity"
+    },
+    {
+        "source": "jim_semivan",
+        "target": "cia",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "oke_shannon",
+        "target": "los_alamos_national_laboratory",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "los_alamos_national_laboratory",
+        "target": "doe",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "doe",
+        "target": "los_alamos_national_laboratory",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "franc_milburn",
+        "target": "uk",
+        "relationship_type": "country_of_citizenship"
+    },
+    {
+        "source": "eric_weinstein",
+        "target": "thiel_capital",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "john_warner_iv",
+        "target": "john_warner_iii",
+        "relationship_type": "father"
+    },
+    {
+        "source": "john_warner_iii",
+        "target": "john_warner_iv",
+        "relationship_type": "child"
+    },
+    {
+        "source": "john_warner_iv",
+        "target": "secretary_of_the_navy",
+        "relationship_type": "father"
+    },
+    {
+        "source": "secretary_of_the_navy",
+        "target": "john_warner_iv",
+        "relationship_type": "child"
+    },
+    {
+        "source": "bradshaw_ranch",
+        "target": "arizona",
+        "relationship_type": "located_in_the_administrative_territorial_entity"
+    },
+    {
+        "source": "usg",
+        "target": "congressional",
+        "relationship_type": "has_part"
+    },
+    {
+        "source": "congressional",
+        "target": "usg",
+        "relationship_type": "part_of"
+    },
+    {
+        "source": "grant_cameron",
+        "target": "ufologist",
+        "relationship_type": "field_of_work"
+    },
+    {
+        "source": "rendlesham_forest_incident",
+        "target": "usaf",
+        "relationship_type": "participant"
+    },
+    {
+        "source": "catalina_islands",
+        "target": "southern_california",
+        "relationship_type": "located_on_terrain_feature"
+    },
+    {
+        "source": "hughes_aircraft",
+        "target": "el_segundo_ca",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "skinwalker_ranch",
+        "target": "brandon_fugal",
+        "relationship_type": "owned_by"
+    },
+    {
+        "source": "brandon_fugal",
+        "target": "skinwalker_ranch",
+        "relationship_type": "owner_of"
+    },
+    {
+        "source": "aaro",
+        "target": "gao",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "gao",
+        "target": "aaro",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "ronald_moultrie",
+        "target": "usdis",
+        "relationship_type": "member_of"
+    },
+    {
+        "source": "allen_dulles",
+        "target": "dci",
+        "relationship_type": "position_held"
+    },
+    {
+        "source": "department_of_defense",
+        "target": "intelligence_community",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "intelligence_community",
+        "target": "department_of_defense",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "george_knapp",
+        "target": "journalist",
+        "relationship_type": "occupation"
+    },
+    {
+        "source": "renaissance_technologies_llc",
+        "target": "austin_tx",
+        "relationship_type": "headquarters_location"
+    },
+    {
+        "source": "john_greenwald",
+        "target": "national_reconnaissance_office",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "egg",
+        "target": "area_51",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "area_51",
+        "target": "egg",
+        "relationship_type": "parent_organization"
+    },
+    {
+        "source": "bae_systems",
+        "target": "huntsville_al",
+        "relationship_type": "headquarters_location"
+    }
+]

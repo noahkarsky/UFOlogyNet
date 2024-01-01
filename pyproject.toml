@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "anonymous-phenomena-timeline"
+version = "0.1.0"
+description = "A streamlit app for digging deeper into the phenomena"
+authors = ["noahkarsky <noah.karsky8@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.4"
+streamlit = "^1.29.0"
+pyyaml = "^6.0.1"
+networkx = "^3.2.1"
+wordcloud = "^1.9.3"
+plotly = "^5.18.0"
+gravis = "^0.1.0"
+ipython = "^8.19.0"
+matplotlib = "^3.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

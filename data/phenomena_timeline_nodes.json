@@ -1,0 +1,5030 @@
+[
+    {
+        "id": "roswell_army_air_field",
+        "type": "place",
+        "name": "roswell army air field",
+        "properties": {}
+    },
+    {
+        "id": "us",
+        "type": "place",
+        "name": "us",
+        "properties": {}
+    },
+    {
+        "id": "ernst_steinhoff",
+        "type": "person",
+        "name": "ernst steinhoff",
+        "properties": {}
+    },
+    {
+        "id": "renaissance_technologies_llc",
+        "type": "organization",
+        "name": "renaissance technologies llc",
+        "properties": {}
+    },
+    {
+        "id": "roswell_nm",
+        "type": "place",
+        "name": "roswell nm",
+        "properties": {}
+    },
+    {
+        "id": "raymond_concrete_pile_company",
+        "type": "organization",
+        "name": "raymond concrete pile company",
+        "properties": {}
+    },
+    {
+        "id": "president",
+        "type": "position",
+        "name": "president",
+        "properties": {}
+    },
+    {
+        "id": "calberkeley",
+        "type": "place",
+        "name": "calberkeley",
+        "properties": {}
+    },
+    {
+        "id": "egg",
+        "type": "concept",
+        "name": "egg",
+        "properties": {}
+    },
+    {
+        "id": "dick_damato",
+        "type": "person",
+        "name": "dick damato",
+        "properties": {}
+    },
+    {
+        "id": "san_antonio_tx",
+        "type": "place",
+        "name": "san antonio tx",
+        "properties": {}
+    },
+    {
+        "id": "warton_plant",
+        "type": "place",
+        "name": "warton plant",
+        "properties": {}
+    },
+    {
+        "id": "bae_systems",
+        "type": "organization",
+        "name": "bae systems",
+        "properties": {}
+    },
+    {
+        "id": "darpa",
+        "type": "organization",
+        "name": "darpa",
+        "properties": {}
+    },
+    {
+        "id": "naval_research_laboratory",
+        "type": "organization",
+        "name": "naval research laboratory",
+        "properties": {}
+    },
+    {
+        "id": "teller",
+        "type": "person",
+        "name": "teller",
+        "properties": {}
+    },
+    {
+        "id": "gao",
+        "type": "organization",
+        "name": "gao",
+        "properties": {}
+    },
+    {
+        "id": "merint",
+        "type": "concept",
+        "name": "merint",
+        "properties": {}
+    },
+    {
+        "id": "nro",
+        "type": "organization",
+        "name": "nro",
+        "properties": {}
+    },
+    {
+        "id": "aaro",
+        "type": "program",
+        "name": "aaro",
+        "properties": {}
+    },
+    {
+        "id": "lue_eilzondo",
+        "type": "person",
+        "name": "lue eilzondo",
+        "properties": {}
+    },
+    {
+        "id": "aaf",
+        "type": "person",
+        "name": "aaf",
+        "properties": {}
+    },
+    {
+        "id": "edward_lansdale",
+        "type": "person",
+        "name": "edward lansdale",
+        "properties": {}
+    },
+    {
+        "id": "john_ramirez",
+        "type": "person",
+        "name": "john ramirez",
+        "properties": {}
+    },
+    {
+        "id": "flight_deck",
+        "type": "place",
+        "name": "flight deck",
+        "properties": {}
+    },
+    {
+        "id": "masint",
+        "type": "concept",
+        "name": "masint",
+        "properties": {}
+    },
+    {
+        "id": "jim_semivan",
+        "type": "person",
+        "name": "jim semivan",
+        "properties": {}
+    },
+    {
+        "id": "franc_milburn",
+        "type": "person",
+        "name": "franc milburn",
+        "properties": {}
+    },
+    {
+        "id": "bradshaw_ranch",
+        "type": "place",
+        "name": "bradshaw ranch",
+        "properties": {}
+    },
+    {
+        "id": "nevada_testing_range",
+        "type": "place",
+        "name": "nevada testing range",
+        "properties": {}
+    },
+    {
+        "id": "grant_cameron",
+        "type": "person",
+        "name": "grant cameron",
+        "properties": {}
+    },
+    {
+        "id": "b2",
+        "type": "technology",
+        "name": "b2",
+        "properties": {}
+    },
+    {
+        "id": "skinwalker_ranch",
+        "type": "place",
+        "name": "skinwalker ranch",
+        "properties": {}
+    },
+    {
+        "id": "brandon_fugal",
+        "type": "person",
+        "name": "brandon fugal",
+        "properties": {}
+    },
+    {
+        "id": "human_sacrifice",
+        "type": "concept",
+        "name": "human sacrifice",
+        "properties": {}
+    },
+    {
+        "id": "tesre",
+        "type": "",
+        "name": "tesre",
+        "properties": {}
+    },
+    {
+        "id": "ross_coulthart",
+        "type": "person",
+        "name": "ross coulthart",
+        "properties": {}
+    },
+    {
+        "id": "atp_group",
+        "type": "group",
+        "name": "atp group",
+        "properties": {}
+    },
+    {
+        "id": "crash_of_an_experimental_aircraft_in_1983",
+        "type": "event",
+        "name": "crash of an experimental aircraft in 1983",
+        "properties": {}
+    },
+    {
+        "id": "sri_international",
+        "type": "organization",
+        "name": "sri international",
+        "properties": {}
+    },
+    {
+        "id": "sac",
+        "type": "organization",
+        "name": "sac",
+        "properties": {}
+    },
+    {
+        "id": "elint",
+        "type": "concept",
+        "name": "elint",
+        "properties": {}
+    },
+    {
+        "id": "satanic_ritual",
+        "type": "concept",
+        "name": "satanic ritual",
+        "properties": {}
+    },
+    {
+        "id": "minuteman_icbm",
+        "type": "technology",
+        "name": "minuteman icbm",
+        "properties": {}
+    },
+    {
+        "id": "romeo_flight",
+        "type": "place",
+        "name": "romeo flight",
+        "properties": {}
+    },
+    {
+        "id": "kit_green",
+        "type": "person",
+        "name": "kit green",
+        "properties": {}
+    },
+    {
+        "id": "uri_geller",
+        "type": "person",
+        "name": "uri geller",
+        "properties": {}
+    },
+    {
+        "id": "giscard_destaing",
+        "type": "organization",
+        "name": "giscard destaing",
+        "properties": {}
+    },
+    {
+        "id": "curtis_lemay",
+        "type": "person",
+        "name": "curtis lemay",
+        "properties": {}
+    },
+    {
+        "id": "pascagoula_river",
+        "type": "place",
+        "name": "pascagoula river",
+        "properties": {}
+    },
+    {
+        "id": "howell_mcconnell",
+        "type": "person",
+        "name": "howell mcconnell",
+        "properties": {}
+    },
+    {
+        "id": "usaf_research_laboratory",
+        "type": "place",
+        "name": "usaf research laboratory",
+        "properties": {}
+    },
+    {
+        "id": "sbi",
+        "type": "organization",
+        "name": "sbi",
+        "properties": {}
+    },
+    {
+        "id": "oil_companies",
+        "type": "group",
+        "name": "oil companies",
+        "properties": {}
+    },
+    {
+        "id": "multiple_independentlytargeted_reentry_vehicle",
+        "type": "technology",
+        "name": "multiple independentlytargeted reentry vehicle",
+        "properties": {}
+    },
+    {
+        "id": "geiger_counter",
+        "type": "technology",
+        "name": "geiger counter",
+        "properties": {}
+    },
+    {
+        "id": "norad",
+        "type": "group",
+        "name": "norad",
+        "properties": {}
+    },
+    {
+        "id": "hangar_18",
+        "type": "place",
+        "name": "hangar 18",
+        "properties": {}
+    },
+    {
+        "id": "franklin_mead",
+        "type": "person",
+        "name": "franklin mead",
+        "properties": {}
+    },
+    {
+        "id": "alamogordo_nm",
+        "type": "place",
+        "name": "alamogordo nm",
+        "properties": {}
+    },
+    {
+        "id": "pathfinder_partners",
+        "type": "organization",
+        "name": "pathfinder partners",
+        "properties": {}
+    },
+    {
+        "id": "general_accounting_office",
+        "type": "concept",
+        "name": "general accounting office",
+        "properties": {}
+    },
+    {
+        "id": "pratt__whitney",
+        "type": "person",
+        "name": "pratt  whitney",
+        "properties": {}
+    },
+    {
+        "id": "mitre_corporation",
+        "type": "organization",
+        "name": "mitre corporation",
+        "properties": {}
+    },
+    {
+        "id": "b2_spirit",
+        "type": "concept",
+        "name": "b2 spirit",
+        "properties": {}
+    },
+    {
+        "id": "indian_point_nuclear_plant",
+        "type": "place",
+        "name": "indian point nuclear plant",
+        "properties": {}
+    },
+    {
+        "id": "research_and_development_board",
+        "type": "group",
+        "name": "research and development board",
+        "properties": {}
+    },
+    {
+        "id": "us_army",
+        "type": "organization",
+        "name": "us army",
+        "properties": {}
+    },
+    {
+        "id": "skip_atwater",
+        "type": "person",
+        "name": "skip atwater",
+        "properties": {}
+    },
+    {
+        "id": "ballistic_missile",
+        "type": "technology",
+        "name": "ballistic missile",
+        "properties": {}
+    },
+    {
+        "id": "sd",
+        "type": "place",
+        "name": "sd",
+        "properties": {}
+    },
+    {
+        "id": "gray_aafrobert_gray_field",
+        "type": "place",
+        "name": "gray aafrobert gray field",
+        "properties": {}
+    },
+    {
+        "id": "avocent",
+        "type": "organization",
+        "name": "avocent",
+        "properties": {}
+    },
+    {
+        "id": "leonard_stringfield",
+        "type": "person",
+        "name": "leonard stringfield",
+        "properties": {}
+    },
+    {
+        "id": "will_miller",
+        "type": "person",
+        "name": "will miller",
+        "properties": {}
+    },
+    {
+        "id": "tenneco",
+        "type": "organization",
+        "name": "tenneco",
+        "properties": {}
+    },
+    {
+        "id": "marathon",
+        "type": "organization",
+        "name": "marathon",
+        "properties": {}
+    },
+    {
+        "id": "chuck_reever",
+        "type": "person",
+        "name": "chuck reever",
+        "properties": {}
+    },
+    {
+        "id": "harry_reid",
+        "type": "person",
+        "name": "harry reid",
+        "properties": {}
+    },
+    {
+        "id": "obama_administration",
+        "type": "group",
+        "name": "obama administration",
+        "properties": {}
+    },
+    {
+        "id": "defense_intelligence_agency",
+        "type": "organization",
+        "name": "defense intelligence agency",
+        "properties": {}
+    },
+    {
+        "id": "public_deception",
+        "type": "concept",
+        "name": "public deception",
+        "properties": {}
+    },
+    {
+        "id": "jerry_simons",
+        "type": "person",
+        "name": "jerry simons",
+        "properties": {}
+    },
+    {
+        "id": "paul_czysz",
+        "type": "person",
+        "name": "paul czysz",
+        "properties": {}
+    },
+    {
+        "id": "phyllis_green",
+        "type": "person",
+        "name": "phyllis green",
+        "properties": {}
+    },
+    {
+        "id": "sara",
+        "type": "person",
+        "name": "sara",
+        "properties": {}
+    },
+    {
+        "id": "boeing",
+        "type": "organization",
+        "name": "boeing",
+        "properties": {}
+    },
+    {
+        "id": "saic",
+        "type": "organization",
+        "name": "saic",
+        "properties": {}
+    },
+    {
+        "id": "africom",
+        "type": "organization",
+        "name": "africom",
+        "properties": {}
+    },
+    {
+        "id": "synthetic_quantum_environment",
+        "type": "concept",
+        "name": "synthetic quantum environment",
+        "properties": {}
+    },
+    {
+        "id": "st_clair_triangle_incident",
+        "type": "event",
+        "name": "st clair triangle incident",
+        "properties": {}
+    },
+    {
+        "id": "phoenix_lights_incident",
+        "type": "event",
+        "name": "phoenix lights incident",
+        "properties": {}
+    },
+    {
+        "id": "mitre_corp",
+        "type": "organization",
+        "name": "mitre corp",
+        "properties": {}
+    },
+    {
+        "id": "3d_reality",
+        "type": "concept",
+        "name": "3d reality",
+        "properties": {}
+    },
+    {
+        "id": "darpa_pe_0603286e",
+        "type": "organization",
+        "name": "darpa pe 0603286e",
+        "properties": {}
+    },
+    {
+        "id": "general_exon",
+        "type": "organization",
+        "name": "general exon",
+        "properties": {}
+    },
+    {
+        "id": "trw",
+        "type": "organization",
+        "name": "trw",
+        "properties": {}
+    },
+    {
+        "id": "journalist",
+        "type": "position",
+        "name": "journalist",
+        "properties": {}
+    },
+    {
+        "id": "laurance_rockefeller",
+        "type": "person",
+        "name": "laurance rockefeller",
+        "properties": {}
+    },
+    {
+        "id": "charles_bowsher",
+        "type": "person",
+        "name": "charles bowsher",
+        "properties": {}
+    },
+    {
+        "id": "bill_cooper",
+        "type": "person",
+        "name": "bill cooper",
+        "properties": {}
+    },
+    {
+        "id": "chincarini",
+        "type": "person",
+        "name": "chincarini",
+        "properties": {}
+    },
+    {
+        "id": "goddard",
+        "type": "place",
+        "name": "goddard",
+        "properties": {}
+    },
+    {
+        "id": "gary_mckinnon",
+        "type": "person",
+        "name": "gary mckinnon",
+        "properties": {}
+    },
+    {
+        "id": "nevada_test_site",
+        "type": "place",
+        "name": "nevada test site",
+        "properties": {}
+    },
+    {
+        "id": "narcap",
+        "type": "organization",
+        "name": "narcap",
+        "properties": {}
+    },
+    {
+        "id": "grasp",
+        "type": "program",
+        "name": "grasp",
+        "properties": {}
+    },
+    {
+        "id": "hypertech_concepts",
+        "type": "concept",
+        "name": "hypertech concepts",
+        "properties": {}
+    },
+    {
+        "id": "arc_seibersdorf",
+        "type": "person",
+        "name": "arc seibersdorf",
+        "properties": {}
+    },
+    {
+        "id": "south_polaris",
+        "type": "organization",
+        "name": "south polaris",
+        "properties": {}
+    },
+    {
+        "id": "dan_burisch",
+        "type": "person",
+        "name": "dan burisch",
+        "properties": {}
+    },
+    {
+        "id": "chase_brandon",
+        "type": "person",
+        "name": "chase brandon",
+        "properties": {}
+    },
+    {
+        "id": "tim_cooper",
+        "type": "person",
+        "name": "tim cooper",
+        "properties": {}
+    },
+    {
+        "id": "cseti",
+        "type": "program",
+        "name": "cseti",
+        "properties": {}
+    },
+    {
+        "id": "curtis_lemay_center_for_doctrine_development_and_education",
+        "type": "place",
+        "name": "curtis lemay center for doctrine development and education",
+        "properties": {}
+    },
+    {
+        "id": "hillary_clinton_campaign_manager",
+        "type": "position",
+        "name": "hillary clinton campaign manager",
+        "properties": {}
+    },
+    {
+        "id": "public_domain",
+        "type": "concept",
+        "name": "public domain",
+        "properties": {}
+    },
+    {
+        "id": "ppd",
+        "type": "program",
+        "name": "ppd",
+        "properties": {}
+    },
+    {
+        "id": "area_29",
+        "type": "place",
+        "name": "area 29",
+        "properties": {}
+    },
+    {
+        "id": "garry_nolan",
+        "type": "person",
+        "name": "garry nolan",
+        "properties": {}
+    },
+    {
+        "id": "gondola_wish",
+        "type": "person",
+        "name": "gondola wish",
+        "properties": {}
+    },
+    {
+        "id": "lue_elizondo",
+        "type": "person",
+        "name": "lue elizondo",
+        "properties": {}
+    },
+    {
+        "id": "bill_clinton",
+        "type": "person",
+        "name": "bill clinton",
+        "properties": {}
+    },
+    {
+        "id": "john_petersen",
+        "type": "person",
+        "name": "john petersen",
+        "properties": {}
+    },
+    {
+        "id": "earthtech",
+        "type": "organization",
+        "name": "earthtech",
+        "properties": {}
+    },
+    {
+        "id": "crash_site",
+        "type": "concept",
+        "name": "crash site",
+        "properties": {}
+    },
+    {
+        "id": "james_iandoli",
+        "type": "person",
+        "name": "james iandoli",
+        "properties": {}
+    },
+    {
+        "id": "eugene_podkletnov",
+        "type": "person",
+        "name": "eugene podkletnov",
+        "properties": {}
+    },
+    {
+        "id": "susan_gough",
+        "type": "person",
+        "name": "susan gough",
+        "properties": {}
+    },
+    {
+        "id": "daniel_goldin",
+        "type": "person",
+        "name": "daniel goldin",
+        "properties": {}
+    },
+    {
+        "id": "michael_smith",
+        "type": "person",
+        "name": "michael smith",
+        "properties": {}
+    },
+    {
+        "id": "transdimensional_systems",
+        "type": "concept",
+        "name": "transdimensional systems",
+        "properties": {}
+    },
+    {
+        "id": "sentry_eagle",
+        "type": "concept",
+        "name": "sentry eagle",
+        "properties": {}
+    },
+    {
+        "id": "sixth_sense",
+        "type": "concept",
+        "name": "sixth sense",
+        "properties": {}
+    },
+    {
+        "id": "new_mexico",
+        "type": "place",
+        "name": "new mexico",
+        "properties": {}
+    },
+    {
+        "id": "intuitive_decision_making",
+        "type": "concept",
+        "name": "intuitive decision making",
+        "properties": {}
+    },
+    {
+        "id": "xp80",
+        "type": "technology",
+        "name": "xp80",
+        "properties": {}
+    },
+    {
+        "id": "microwave",
+        "type": "concept",
+        "name": "microwave",
+        "properties": {}
+    },
+    {
+        "id": "harry_howard",
+        "type": "person",
+        "name": "harry howard",
+        "properties": {}
+    },
+    {
+        "id": "timir_datta",
+        "type": "person",
+        "name": "timir datta",
+        "properties": {}
+    },
+    {
+        "id": "aileaton",
+        "type": "organization",
+        "name": "aileaton",
+        "properties": {}
+    },
+    {
+        "id": "hillary_clinton_campaign",
+        "type": "group",
+        "name": "hillary clinton campaign",
+        "properties": {}
+    },
+    {
+        "id": "antigravity_news_and_space_drive_technology",
+        "type": "concept",
+        "name": "antigravity news and space drive technology",
+        "properties": {}
+    },
+    {
+        "id": "tom_delonge",
+        "type": "person",
+        "name": "tom delonge",
+        "properties": {}
+    },
+    {
+        "id": "marshall_space_flight_center",
+        "type": "place",
+        "name": "marshall space flight center",
+        "properties": {}
+    },
+    {
+        "id": "lewis_field",
+        "type": "person",
+        "name": "lewis field",
+        "properties": {}
+    },
+    {
+        "id": "glenn_research_center",
+        "type": "place",
+        "name": "glenn research center",
+        "properties": {}
+    },
+    {
+        "id": "boyd_bushman",
+        "type": "person",
+        "name": "boyd bushman",
+        "properties": {}
+    },
+    {
+        "id": "sekret_machines",
+        "type": "publication",
+        "name": "sekret machines",
+        "properties": {}
+    },
+    {
+        "id": "nevada_national_security_site",
+        "type": "place",
+        "name": "nevada national security site",
+        "properties": {}
+    },
+    {
+        "id": "preston_nichols",
+        "type": "person",
+        "name": "preston nichols",
+        "properties": {}
+    },
+    {
+        "id": "hughes",
+        "type": "place",
+        "name": "hughes",
+        "properties": {}
+    },
+    {
+        "id": "uk",
+        "type": "place",
+        "name": "uk",
+        "properties": {}
+    },
+    {
+        "id": "ansel_e_talbert",
+        "type": "person",
+        "name": "ansel e talbert",
+        "properties": {}
+    },
+    {
+        "id": "foreign_technology_division",
+        "type": "group",
+        "name": "foreign technology division",
+        "properties": {}
+    },
+    {
+        "id": "kataghan_province",
+        "type": "place",
+        "name": "kataghan province",
+        "properties": {}
+    },
+    {
+        "id": "rockefellers",
+        "type": "person",
+        "name": "rockefellers",
+        "properties": {}
+    },
+    {
+        "id": "kabul",
+        "type": "place",
+        "name": "kabul",
+        "properties": {}
+    },
+    {
+        "id": "morris_k_jessup",
+        "type": "person",
+        "name": "morris k jessup",
+        "properties": {}
+    },
+    {
+        "id": "uss_engstrom",
+        "type": "place",
+        "name": "uss engstrom",
+        "properties": {}
+    },
+    {
+        "id": "office_of_information",
+        "type": "place",
+        "name": "office of information",
+        "properties": {}
+    },
+    {
+        "id": "blue_book_special_report_no_14",
+        "type": "publication",
+        "name": "blue book special report no 14",
+        "properties": {}
+    },
+    {
+        "id": "louis_witten",
+        "type": "person",
+        "name": "louis witten",
+        "properties": {}
+    },
+    {
+        "id": "white_house_army_signaling_agency",
+        "type": "group",
+        "name": "white house army signaling agency",
+        "properties": {}
+    },
+    {
+        "id": "pantex_plant",
+        "type": "place",
+        "name": "pantex plant",
+        "properties": {}
+    },
+    {
+        "id": "zero_point_energy",
+        "type": "concept",
+        "name": "zero point energy",
+        "properties": {}
+    },
+    {
+        "id": "hypnosis",
+        "type": "concept",
+        "name": "hypnosis",
+        "properties": {}
+    },
+    {
+        "id": "uss_franklin_d_roosevelt",
+        "type": "place",
+        "name": "uss franklin d roosevelt",
+        "properties": {}
+    },
+    {
+        "id": "disinformation",
+        "type": "concept",
+        "name": "disinformation",
+        "properties": {}
+    },
+    {
+        "id": "sheriff",
+        "type": "position",
+        "name": "sheriff",
+        "properties": {}
+    },
+    {
+        "id": "lwoff",
+        "type": "person",
+        "name": "lwoff",
+        "properties": {}
+    },
+    {
+        "id": "monod",
+        "type": "person",
+        "name": "monod",
+        "properties": {}
+    },
+    {
+        "id": "millionaire",
+        "type": "position",
+        "name": "millionaire",
+        "properties": {}
+    },
+    {
+        "id": "phillip_j_corso",
+        "type": "person",
+        "name": "phillip j corso",
+        "properties": {}
+    },
+    {
+        "id": "polaroid_camera",
+        "type": "technology",
+        "name": "polaroid camera",
+        "properties": {}
+    },
+    {
+        "id": "arthur_sylvester",
+        "type": "person",
+        "name": "arthur sylvester",
+        "properties": {}
+    },
+    {
+        "id": "atlas_site_9",
+        "type": "place",
+        "name": "atlas site 9",
+        "properties": {}
+    },
+    {
+        "id": "top_secret",
+        "type": "concept",
+        "name": "top secret",
+        "properties": {}
+    },
+    {
+        "id": "atlas",
+        "type": "place",
+        "name": "atlas",
+        "properties": {}
+    },
+    {
+        "id": "time_travel",
+        "type": "concept",
+        "name": "time travel",
+        "properties": {}
+    },
+    {
+        "id": "martinmarietta",
+        "type": "organization",
+        "name": "martinmarietta",
+        "properties": {}
+    },
+    {
+        "id": "roswell_morning_dispatch",
+        "type": "program",
+        "name": "roswell morning dispatch",
+        "properties": {}
+    },
+    {
+        "id": "intelligence",
+        "type": "concept",
+        "name": "intelligence",
+        "properties": {}
+    },
+    {
+        "id": "roscoe_hillenkoetter",
+        "type": "person",
+        "name": "roscoe hillenkoetter",
+        "properties": {}
+    },
+    {
+        "id": "aaf_commanding",
+        "type": "position",
+        "name": "aaf commanding",
+        "properties": {}
+    },
+    {
+        "id": "hypothesis",
+        "type": "concept",
+        "name": "hypothesis",
+        "properties": {}
+    },
+    {
+        "id": "sapco",
+        "type": "organization",
+        "name": "sapoc",
+        "properties": {}
+    },
+    {
+        "id": "nuclear_test",
+        "type": "concept",
+        "name": "nuclear test",
+        "properties": {}
+    },
+    {
+        "id": "laredo",
+        "type": "place",
+        "name": "laredo",
+        "properties": {}
+    },
+    {
+        "id": "earthtech_international",
+        "type": "organization",
+        "name": "earthtech international",
+        "properties": {}
+    },
+    {
+        "id": "amc",
+        "type": "organization",
+        "name": "amc",
+        "properties": {}
+    },
+    {
+        "id": "nasa",
+        "type": "organization",
+        "name": "nasa",
+        "properties": {}
+    },
+    {
+        "id": "joseph_bryan_iii",
+        "type": "person",
+        "name": "joseph bryan iii",
+        "properties": {}
+    },
+    {
+        "id": "cliff_booth",
+        "type": "person",
+        "name": "cliff booth",
+        "properties": {}
+    },
+    {
+        "id": "private_corporation",
+        "type": "concept",
+        "name": "private corporation",
+        "properties": {}
+    },
+    {
+        "id": "clinton_campaign_manager",
+        "type": "position",
+        "name": "clinton campaign manager",
+        "properties": {}
+    },
+    {
+        "id": "defense_finance_and_accounting_service",
+        "type": "group",
+        "name": "defense finance and accounting service",
+        "properties": {}
+    },
+    {
+        "id": "desert_research_experimental_station",
+        "type": "place",
+        "name": "desert research experimental station",
+        "properties": {}
+    },
+    {
+        "id": "brooke_general_hospital",
+        "type": "place",
+        "name": "brooke general hospital",
+        "properties": {}
+    },
+    {
+        "id": "philip_grandin_strong",
+        "type": "person",
+        "name": "philip grandin strong",
+        "properties": {}
+    },
+    {
+        "id": "hayden_channing",
+        "type": "person",
+        "name": "hayden channing",
+        "properties": {}
+    },
+    {
+        "id": "operation_upshotknothole",
+        "type": "program",
+        "name": "operation upshotknothole",
+        "properties": {}
+    },
+    {
+        "id": "roswell_air_force_base",
+        "type": "place",
+        "name": "roswell air force base",
+        "properties": {}
+    },
+    {
+        "id": "naval_aviator",
+        "type": "position",
+        "name": "naval aviator",
+        "properties": {}
+    },
+    {
+        "id": "avrocar",
+        "type": "technology",
+        "name": "avrocar",
+        "properties": {}
+    },
+    {
+        "id": "aegis",
+        "type": "organization",
+        "name": "aegis",
+        "properties": {}
+    },
+    {
+        "id": "martin_marietta",
+        "type": "organization",
+        "name": "martin marietta",
+        "properties": {}
+    },
+    {
+        "id": "howard_cross",
+        "type": "person",
+        "name": "howard cross",
+        "properties": {}
+    },
+    {
+        "id": "rex_heflin",
+        "type": "person",
+        "name": "rex heflin",
+        "properties": {}
+    },
+    {
+        "id": "hector_quintanilla",
+        "type": "person",
+        "name": "hector quintanilla",
+        "properties": {}
+    },
+    {
+        "id": "project_blue_book",
+        "type": "program",
+        "name": "project blue book",
+        "properties": {}
+    },
+    {
+        "id": "area_51",
+        "type": "place",
+        "name": "area 51",
+        "properties": {}
+    },
+    {
+        "id": "alpha_red",
+        "type": "concept",
+        "name": "alpha red",
+        "properties": {}
+    },
+    {
+        "id": "wright_field",
+        "type": "place",
+        "name": "wright patterson afb",
+        "properties": {}
+    },
+    {
+        "id": "nasa_administrator",
+        "type": "position",
+        "name": "nasa administrator",
+        "properties": {}
+    },
+    {
+        "id": "optical_deception",
+        "type": "concept",
+        "name": "optical deception",
+        "properties": {}
+    },
+    {
+        "id": "hugh_l_dryden",
+        "type": "person",
+        "name": "hugh l dryden",
+        "properties": {}
+    },
+    {
+        "id": "assistant_to_the_president_for_science_and_technology",
+        "type": "postion",
+        "name": "assistant to the president for science and technology",
+        "properties": {}
+    },
+    {
+        "id": "sac_kansas_city",
+        "type": "place",
+        "name": "sac kansas city",
+        "properties": {}
+    },
+    {
+        "id": "21_may_1953",
+        "type": "date",
+        "name": "21 may 1953",
+        "properties": {}
+    },
+    {
+        "id": "2005",
+        "type": "date",
+        "name": "2005",
+        "properties": {}
+    },
+    {
+        "id": "23_september_1947",
+        "type": "date",
+        "name": "23 september 1947",
+        "properties": {}
+    },
+    {
+        "id": "2001",
+        "type": "date",
+        "name": "2001",
+        "properties": {}
+    },
+    {
+        "id": "june_2008",
+        "type": "date",
+        "name": "june 2008",
+        "properties": {}
+    },
+    {
+        "id": "afl_2005",
+        "type": "date",
+        "name": "afl 2005",
+        "properties": {}
+    },
+    {
+        "id": "1947",
+        "type": "date",
+        "name": "1947",
+        "properties": {}
+    },
+    {
+        "id": "1953_cia_robertson_panel",
+        "type": "program",
+        "name": "1953 cia robertson panel",
+        "properties": {}
+    },
+    {
+        "id": "january_1963",
+        "type": "date",
+        "name": "january 1963",
+        "properties": {}
+    },
+    {
+        "id": "february_1979",
+        "type": "date",
+        "name": "february 1979",
+        "properties": {}
+    },
+    {
+        "id": "1954",
+        "type": "date",
+        "name": "1954",
+        "properties": {}
+    },
+    {
+        "id": "october_1947",
+        "type": "date",
+        "name": "october 1947",
+        "properties": {}
+    },
+    {
+        "id": "9_july_1991",
+        "type": "",
+        "name": "9 july 1991",
+        "properties": {}
+    },
+    {
+        "id": "september_1994",
+        "type": "",
+        "name": "september 1994",
+        "properties": {}
+    },
+    {
+        "id": "1952",
+        "type": "date",
+        "name": "1952",
+        "properties": {}
+    },
+    {
+        "id": "9_july_1991_entry",
+        "type": "date",
+        "name": "9 july 1991 entry",
+        "properties": {}
+    },
+    {
+        "id": "23_october_1988",
+        "type": "date",
+        "name": "23 october 1988",
+        "properties": {}
+    },
+    {
+        "id": "1977",
+        "type": "date",
+        "name": "1977",
+        "properties": {}
+    },
+    {
+        "id": "1992",
+        "type": "date",
+        "name": "1992",
+        "properties": {}
+    },
+    {
+        "id": "1953",
+        "type": "date",
+        "name": "1953",
+        "properties": {}
+    },
+    {
+        "id": "1997",
+        "type": "date",
+        "name": "1997",
+        "properties": {}
+    },
+    {
+        "id": "january_1971",
+        "type": "date",
+        "name": "january 1971",
+        "properties": {}
+    },
+    {
+        "id": "1968",
+        "type": "date",
+        "name": "1968",
+        "properties": {}
+    },
+    {
+        "id": "2004",
+        "type": "date",
+        "name": "2004",
+        "properties": {}
+    },
+    {
+        "id": "fort_hood",
+        "type": "place",
+        "name": "fort hood",
+        "properties": {}
+    },
+    {
+        "id": "fort_riley",
+        "type": "place",
+        "name": "fort riley",
+        "properties": {}
+    },
+    {
+        "id": "montauk",
+        "type": "place",
+        "name": "montauk",
+        "properties": {}
+    },
+    {
+        "id": "fort_belvoir_va",
+        "type": "place",
+        "name": "fort belvoir va",
+        "properties": {}
+    },
+    {
+        "id": "moriches_bay",
+        "type": "place",
+        "name": "moriches bay",
+        "properties": {}
+    },
+    {
+        "id": "fort_polk",
+        "type": "place",
+        "name": "fort polk",
+        "properties": {}
+    },
+    {
+        "id": "fort_monmouth",
+        "type": "place",
+        "name": "fort monmouth",
+        "properties": {}
+    },
+    {
+        "id": "groom_lake",
+        "type": "place",
+        "name": "groom lake",
+        "properties": {}
+    },
+    {
+        "id": "fort_sill",
+        "type": "place",
+        "name": "fort sill",
+        "properties": {}
+    },
+    {
+        "id": "montauk_ny",
+        "type": "place",
+        "name": "montauk ny",
+        "properties": {}
+    },
+    {
+        "id": "pintwater_range",
+        "type": "place",
+        "name": "pintwater range",
+        "properties": {}
+    },
+    {
+        "id": "camp_pendleton",
+        "type": "place",
+        "name": "camp pendleton",
+        "properties": {}
+    },
+    {
+        "id": "aac_fort_worth",
+        "type": "place",
+        "name": "aac fort worth",
+        "properties": {}
+    },
+    {
+        "id": "ft_belvoir",
+        "type": "place",
+        "name": "ft belvoir",
+        "properties": {}
+    },
+    {
+        "id": "dog_bone_lake",
+        "type": "place",
+        "name": "dog bone lake",
+        "properties": {}
+    },
+    {
+        "id": "camp_hero",
+        "type": "place",
+        "name": "camp hero",
+        "properties": {}
+    },
+    {
+        "id": "fort_worth",
+        "type": "place",
+        "name": "fort worth",
+        "properties": {}
+    },
+    {
+        "id": "fort_gillem",
+        "type": "place",
+        "name": "fort gillem",
+        "properties": {}
+    },
+    {
+        "id": "fort_worth_army_air_field",
+        "type": "place",
+        "name": "fort worth army air field",
+        "properties": {}
+    },
+    {
+        "id": "condon_committee",
+        "type": "group",
+        "name": "condon committee",
+        "properties": {}
+    },
+    {
+        "id": "congressional",
+        "type": "group",
+        "name": "congressional",
+        "properties": {}
+    },
+    {
+        "id": "senate_appropriations_committee",
+        "type": "groip",
+        "name": "senate appropriations committee",
+        "properties": {}
+    },
+    {
+        "id": "congress",
+        "type": "groip",
+        "name": "congress",
+        "properties": {}
+    },
+    {
+        "id": "congressional_research_service",
+        "type": "program",
+        "name": "congressional research service",
+        "properties": {}
+    },
+    {
+        "id": "library_of_congress",
+        "type": "place",
+        "name": "library of congress",
+        "properties": {}
+    },
+    {
+        "id": "un_special_political_committee",
+        "type": "group",
+        "name": "un special political committee",
+        "properties": {}
+    },
+    {
+        "id": "senate",
+        "type": "group",
+        "name": "senate",
+        "properties": {}
+    },
+    {
+        "id": "mendel_rivers_congressional_hearings",
+        "type": "event",
+        "name": "mendel rivers congressional hearings",
+        "properties": {}
+    },
+    {
+        "id": "congressmen",
+        "type": "group",
+        "name": "congressmen",
+        "properties": {}
+    },
+    {
+        "id": "los_alamos_national_lab",
+        "type": "place",
+        "name": "los alamos national laboratory",
+        "properties": {}
+    },
+    {
+        "id": "white_sands_proving_ground",
+        "type": "place",
+        "name": "white sands proving ground",
+        "properties": {}
+    },
+    {
+        "id": "sandia_base",
+        "type": "place",
+        "name": "sandia laboratories",
+        "properties": {}
+    },
+    {
+        "id": "los_alamos",
+        "type": "place",
+        "name": "los alamos",
+        "properties": {}
+    },
+    {
+        "id": "bell_laboratories",
+        "type": "place",
+        "name": "bell laboratories",
+        "properties": {}
+    },
+    {
+        "id": "lanl",
+        "type": "place",
+        "name": "lawrence livermore national laboratory",
+        "properties": {}
+    },
+    {
+        "id": "naval_air_station",
+        "type": "place",
+        "name": "naval air station",
+        "properties": {}
+    },
+    {
+        "id": "china_lake_naval_ordnance_test_station",
+        "type": "place",
+        "name": "china lake naval ordnance test station",
+        "properties": {}
+    },
+    {
+        "id": "naval_auxiliary_air_station_edenton",
+        "type": "place",
+        "name": "naval auxiliary air station edenton",
+        "properties": {}
+    },
+    {
+        "id": "potomac_river_naval_command",
+        "type": "place",
+        "name": "potomac river naval command",
+        "properties": {}
+    },
+    {
+        "id": "naval_support_facility_diego_garcia",
+        "type": "place",
+        "name": "naval support facility diego garcia",
+        "properties": {}
+    },
+    {
+        "id": "naval_air_station_los_alamitos",
+        "type": "place",
+        "name": "naval air station los alamitos",
+        "properties": {}
+    },
+    {
+        "id": "great_lakes_naval_base",
+        "type": "place",
+        "name": "great lakes naval base",
+        "properties": {}
+    },
+    {
+        "id": "lemoore_naval_air_station",
+        "type": "place",
+        "name": "lemoore naval air station",
+        "properties": {}
+    },
+    {
+        "id": "china_lake_naval_weapons_center",
+        "type": "place",
+        "name": "china lake naval weapons center",
+        "properties": {}
+    },
+    {
+        "id": "naval_air_station_patuxent_river",
+        "type": "place",
+        "name": "naval air station patuxent river",
+        "properties": {}
+    },
+    {
+        "id": "cecil_field_naval_air_station",
+        "type": "place",
+        "name": "cecil field naval air station",
+        "properties": {}
+    },
+    {
+        "id": "roosevelt_roads_naval_air_station",
+        "type": "place",
+        "name": "roosevelt roads naval air station",
+        "properties": {}
+    },
+    {
+        "id": "naval_air_weapons_station_china_lake",
+        "type": "place",
+        "name": "naval air weapons station china lake",
+        "properties": {}
+    },
+    {
+        "id": "navy_bureau_of_aeronautics",
+        "type": "place",
+        "name": "navy bureau of aeronautics",
+        "properties": {}
+    },
+    {
+        "id": "norton_afb",
+        "type": "place",
+        "name": "norton afb",
+        "properties": {}
+    },
+    {
+        "id": "max_spiers",
+        "type": "place",
+        "name": "max spiers",
+        "properties": {}
+    },
+    {
+        "id": "kirtland_afb",
+        "type": "place",
+        "name": "kirtland afb",
+        "properties": {}
+    },
+    {
+        "id": "langley_avon_bombing_range",
+        "type": "place",
+        "name": "langley avon bombing range",
+        "properties": {}
+    },
+    {
+        "id": "ellsworth_afb",
+        "type": "place",
+        "name": "ellsworth afb",
+        "properties": {}
+    },
+    {
+        "id": "huntsville_al",
+        "type": "place",
+        "name": "huntsville al",
+        "properties": {}
+    },
+    {
+        "id": "langley_afb",
+        "type": "place",
+        "name": "langley afb",
+        "properties": {}
+    },
+    {
+        "id": "lockbourne_afb",
+        "type": "place",
+        "name": "lockbourne afb",
+        "properties": {}
+    },
+    {
+        "id": "warren_afb",
+        "type": "place",
+        "name": "warren afb",
+        "properties": {}
+    },
+    {
+        "id": "maxwell_afb",
+        "type": "place",
+        "name": "maxwell afb",
+        "properties": {}
+    },
+    {
+        "id": "malmstrom_afb",
+        "type": "place",
+        "name": "malmstrom afb",
+        "properties": {}
+    },
+    {
+        "id": "holloman_afb",
+        "type": "place",
+        "name": "holloman afb",
+        "properties": {}
+    },
+    {
+        "id": "dyess_afb",
+        "type": "place",
+        "name": "dyess afb",
+        "properties": {}
+    },
+    {
+        "id": "edwards_air_force_base",
+        "type": "place",
+        "name": "edwards air force base",
+        "properties": {}
+    },
+    {
+        "id": "mclean_secure_facility",
+        "type": "place",
+        "name": "mclean secure facility",
+        "properties": {}
+    },
+    {
+        "id": "andrews_afb",
+        "type": "place",
+        "name": "andrews afb",
+        "properties": {}
+    },
+    {
+        "id": "walker_afb",
+        "type": "place",
+        "name": "walker afb",
+        "properties": {}
+    },
+    {
+        "id": "myrtle_beach_afb",
+        "type": "place",
+        "name": "myrtle beach afb",
+        "properties": {}
+    },
+    {
+        "id": "norton_air_force_base",
+        "type": "place",
+        "name": "norton air force base",
+        "properties": {}
+    },
+    {
+        "id": "zaragoza_afb",
+        "type": "place",
+        "name": "zaragoza afb",
+        "properties": {}
+    },
+    {
+        "id": "ben_guerir_air_base",
+        "type": "place",
+        "name": "ben guerir air base",
+        "properties": {}
+    },
+    {
+        "id": "offutt_air_force_base",
+        "type": "place",
+        "name": "offutt air force base",
+        "properties": {}
+    },
+    {
+        "id": "macdill_afb",
+        "type": "place",
+        "name": "macdill afb",
+        "properties": {}
+    },
+    {
+        "id": "edwards_afb",
+        "type": "place",
+        "name": "edwards afb",
+        "properties": {}
+    },
+    {
+        "id": "george_afb",
+        "type": "place",
+        "name": "george afb",
+        "properties": {}
+    },
+    {
+        "id": "hunter_afb",
+        "type": "place",
+        "name": "hunter afb",
+        "properties": {}
+    },
+    {
+        "id": "francis_e_warren_afb",
+        "type": "place",
+        "name": "francis e warren afb",
+        "properties": {}
+    },
+    {
+        "id": "hill_afb",
+        "type": "place",
+        "name": "hill afb",
+        "properties": {}
+    },
+    {
+        "id": "97th_bomber_wing",
+        "type": "group",
+        "name": "97th bomber wing",
+        "properties": {}
+    },
+    {
+        "id": "319th_strategic_missile_squadron",
+        "type": "group",
+        "name": "319th strategic missile squadron",
+        "properties": {}
+    },
+    {
+        "id": "96th_security_police_squadron",
+        "type": "group",
+        "name": "96th security police squadron",
+        "properties": {}
+    },
+    {
+        "id": "603rd_air_engineering_squadron",
+        "type": "group",
+        "name": "603rd air engineering squadron",
+        "properties": {}
+    },
+    {
+        "id": "7602nd_air_intelligence_group",
+        "type": "group",
+        "name": "7602nd air intelligence group",
+        "properties": {}
+    },
+    {
+        "id": "1127th_field_activities_group",
+        "type": "group",
+        "name": "1127th field activities group",
+        "properties": {}
+    },
+    {
+        "id": "354th_tac_fighter_wing",
+        "type": "group",
+        "name": "354th tac fighter wing",
+        "properties": {}
+    },
+    {
+        "id": "cirvis",
+        "type": "concept",
+        "name": "cirvis",
+        "properties": {}
+    },
+    {
+        "id": "marc_dantonio",
+        "type": "person",
+        "name": "marc dantonio",
+        "properties": {}
+    },
+    {
+        "id": "dl_cravens",
+        "type": "person",
+        "name": "dl cravens",
+        "properties": {}
+    },
+    {
+        "id": "darius_carter",
+        "type": "person",
+        "name": "darius carter",
+        "properties": {}
+    },
+    {
+        "id": "dan_morris",
+        "type": "person",
+        "name": "dan morris",
+        "properties": {}
+    },
+    {
+        "id": "calvin_parker",
+        "type": "person",
+        "name": "calvin parker",
+        "properties": {}
+    },
+    {
+        "id": "calvine",
+        "type": "place",
+        "name": "calvine",
+        "properties": {}
+    },
+    {
+        "id": "bay_area",
+        "type": "place",
+        "name": "bay area",
+        "properties": {}
+    },
+    {
+        "id": "nevada",
+        "type": "place",
+        "name": "nevada",
+        "properties": {}
+    },
+    {
+        "id": "arlington",
+        "type": "place",
+        "name": "arlington",
+        "properties": {}
+    },
+    {
+        "id": "atlantic_ocean",
+        "type": "place",
+        "name": "atlantic ocean",
+        "properties": {}
+    },
+    {
+        "id": "the_arlington_institute",
+        "type": "place",
+        "name": "the arlington institute",
+        "properties": {}
+    },
+    {
+        "id": "stanford",
+        "type": "place",
+        "name": "stanford",
+        "properties": {}
+    },
+    {
+        "id": "georgia",
+        "type": "place",
+        "name": "georgia",
+        "properties": {}
+    },
+    {
+        "id": "pacific",
+        "type": "place",
+        "name": "pacific",
+        "properties": {}
+    },
+    {
+        "id": "long_island",
+        "type": "place",
+        "name": "long island",
+        "properties": {}
+    },
+    {
+        "id": "university_of_cincinnati",
+        "type": "place",
+        "name": "university of cincinnati",
+        "properties": {}
+    },
+    {
+        "id": "new_york_herald_tribune",
+        "type": "place",
+        "name": "new york herald tribune",
+        "properties": {}
+    },
+    {
+        "id": "southwest_center_for_advanced_studies",
+        "type": "place",
+        "name": "southwest center for advanced studies",
+        "properties": {}
+    },
+    {
+        "id": "michigan_state_university",
+        "type": "place",
+        "name": "michigan state university",
+        "properties": {}
+    },
+    {
+        "id": "idaho",
+        "type": "place",
+        "name": "idaho",
+        "properties": {}
+    },
+    {
+        "id": "oregon",
+        "type": "place",
+        "name": "oregon",
+        "properties": {}
+    },
+    {
+        "id": "san_diego",
+        "type": "place",
+        "name": "san diego",
+        "properties": {}
+    },
+    {
+        "id": "university_of_south_carolina",
+        "type": "place",
+        "name": "university of south carolina",
+        "properties": {}
+    },
+    {
+        "id": "cedar_city_utah",
+        "type": "place",
+        "name": "cedar city utah",
+        "properties": {}
+    },
+    {
+        "id": "sunnyvale_ca",
+        "type": "place",
+        "name": "sunnyvale",
+        "properties": {}
+    },
+    {
+        "id": "colorado_springs_co",
+        "type": "place",
+        "name": "colorado springs co",
+        "properties": {}
+    },
+    {
+        "id": "virginia",
+        "type": "place",
+        "name": "virginia",
+        "properties": {}
+    },
+    {
+        "id": "wayne_state_university",
+        "type": "place",
+        "name": "wayne state university",
+        "properties": {}
+    },
+    {
+        "id": "el_segundo_ca",
+        "type": "place",
+        "name": "el segundo ca",
+        "properties": {}
+    },
+    {
+        "id": "kwajalein_atoll",
+        "type": "place",
+        "name": "kwajalein atoll",
+        "properties": {}
+    },
+    {
+        "id": "southern_california",
+        "type": "place",
+        "name": "southern california",
+        "properties": {}
+    },
+    {
+        "id": "cheyenne_mountain_complex",
+        "type": "place",
+        "name": "cheyenne mountain complex",
+        "properties": {}
+    },
+    {
+        "id": "hudson_valley",
+        "type": "place",
+        "name": "hudson valley",
+        "properties": {}
+    },
+    {
+        "id": "arizona_state_university",
+        "type": "place",
+        "name": "arizona state university",
+        "properties": {}
+    },
+    {
+        "id": "caribbean_sea",
+        "type": "place",
+        "name": "caribbean sea",
+        "properties": {}
+    },
+    {
+        "id": "cleveland_oh",
+        "type": "place",
+        "name": "cleveland oh",
+        "properties": {}
+    },
+    {
+        "id": "uss_princeton",
+        "type": "place",
+        "name": "uss princeton",
+        "properties": {}
+    },
+    {
+        "id": "long_beach_ca",
+        "type": "place",
+        "name": "long beach ca",
+        "properties": {}
+    },
+    {
+        "id": "yuma_az",
+        "type": "place",
+        "name": "yuma az",
+        "properties": {}
+    },
+    {
+        "id": "utah",
+        "type": "place",
+        "name": "utah",
+        "properties": {}
+    },
+    {
+        "id": "muskegon_mi",
+        "type": "place",
+        "name": "muskegon mi",
+        "properties": {}
+    },
+    {
+        "id": "pacific_heights",
+        "type": "place",
+        "name": "pacific heights",
+        "properties": {}
+    },
+    {
+        "id": "ada_oklahoma",
+        "type": "place",
+        "name": "ada oklahoma",
+        "properties": {}
+    },
+    {
+        "id": "las_vegas",
+        "type": "place",
+        "name": "las vegas",
+        "properties": {}
+    },
+    {
+        "id": "buchanan_ny",
+        "type": "place",
+        "name": "buchanan ny",
+        "properties": {}
+    },
+    {
+        "id": "illinois",
+        "type": "place",
+        "name": "illinois",
+        "properties": {}
+    },
+    {
+        "id": "new_york",
+        "type": "place",
+        "name": "new york",
+        "properties": {}
+    },
+    {
+        "id": "catalina_islands",
+        "type": "place",
+        "name": "catalina islands",
+        "properties": {}
+    },
+    {
+        "id": "detroit_mi",
+        "type": "place",
+        "name": "detroit mi",
+        "properties": {}
+    },
+    {
+        "id": "puerto_rico",
+        "type": "place",
+        "name": "puerto rico",
+        "properties": {}
+    },
+    {
+        "id": "california",
+        "type": "place",
+        "name": "california",
+        "properties": {}
+    },
+    {
+        "id": "toronto",
+        "type": "place",
+        "name": "toronto",
+        "properties": {}
+    },
+    {
+        "id": "florida",
+        "type": "place",
+        "name": "florida",
+        "properties": {}
+    },
+    {
+        "id": "coastal",
+        "type": "place",
+        "name": "coastal",
+        "properties": {}
+    },
+    {
+        "id": "mariana_trench",
+        "type": "place",
+        "name": "mariana trench",
+        "properties": {}
+    },
+    {
+        "id": "san_francisco",
+        "type": "place",
+        "name": "san francisco",
+        "properties": {}
+    },
+    {
+        "id": "battelle_memorial_institute",
+        "type": "place",
+        "name": "battelle memorial institute",
+        "properties": {}
+    },
+    {
+        "id": "wasatch_mountains",
+        "type": "place",
+        "name": "wasatch mountains",
+        "properties": {}
+    },
+    {
+        "id": "university_of_lisbon",
+        "type": "place",
+        "name": "university of lisbon",
+        "properties": {}
+    },
+    {
+        "id": "michigan",
+        "type": "place",
+        "name": "michigan",
+        "properties": {}
+    },
+    {
+        "id": "ohio",
+        "type": "place",
+        "name": "ohio",
+        "properties": {}
+    },
+    {
+        "id": "penn_state_university",
+        "type": "place",
+        "name": "penn state university",
+        "properties": {}
+    },
+    {
+        "id": "chicago_il",
+        "type": "place",
+        "name": "chicago il",
+        "properties": {}
+    },
+    {
+        "id": "pennzoil",
+        "type": "place",
+        "name": "pennzoil",
+        "properties": {}
+    },
+    {
+        "id": "harvard_university",
+        "type": "place",
+        "name": "harvard university",
+        "properties": {}
+    },
+    {
+        "id": "sunn_classic_pictures",
+        "type": "place",
+        "name": "sunn classic pictures",
+        "properties": {}
+    },
+    {
+        "id": "nebraska",
+        "type": "place",
+        "name": "nebraska",
+        "properties": {}
+    },
+    {
+        "id": "washington_dc",
+        "type": "place",
+        "name": "washington dc",
+        "properties": {}
+    },
+    {
+        "id": "montana",
+        "type": "place",
+        "name": "montana",
+        "properties": {}
+    },
+    {
+        "id": "ogden_utah",
+        "type": "place",
+        "name": "ogden utah",
+        "properties": {}
+    },
+    {
+        "id": "california_state_university",
+        "type": "place",
+        "name": "california state university",
+        "properties": {}
+    },
+    {
+        "id": "hampton_roads",
+        "type": "place",
+        "name": "hampton roads",
+        "properties": {}
+    },
+    {
+        "id": "garrison_ut",
+        "type": "place",
+        "name": "garrison ut",
+        "properties": {}
+    },
+    {
+        "id": "lincoln_county",
+        "type": "place",
+        "name": "lincoln county",
+        "properties": {}
+    },
+    {
+        "id": "island",
+        "type": "place",
+        "name": "island",
+        "properties": {}
+    },
+    {
+        "id": "arlington_institute",
+        "type": "place",
+        "name": "arlington institute",
+        "properties": {}
+    },
+    {
+        "id": "allen_dulles",
+        "type": "place",
+        "name": "allen dulles",
+        "properties": {}
+    },
+    {
+        "id": "mojave_desert",
+        "type": "place",
+        "name": "mojave desert",
+        "properties": {}
+    },
+    {
+        "id": "arizona",
+        "type": "place",
+        "name": "arizona",
+        "properties": {}
+    },
+    {
+        "id": "detroit",
+        "type": "place",
+        "name": "detroit",
+        "properties": {}
+    },
+    {
+        "id": "mexican_border",
+        "type": "place",
+        "name": "mexican border",
+        "properties": {}
+    },
+    {
+        "id": "amarillo_tx",
+        "type": "place",
+        "name": "amarillo tx",
+        "properties": {}
+    },
+    {
+        "id": "texas_instruments",
+        "type": "organization",
+        "name": "texas instruments",
+        "properties": {}
+    },
+    {
+        "id": "palmdale",
+        "type": "place",
+        "name": "palmdale",
+        "properties": {}
+    },
+    {
+        "id": "mexico",
+        "type": "place",
+        "name": "mexico",
+        "properties": {}
+    },
+    {
+        "id": "pahute_mesa",
+        "type": "place",
+        "name": "pahute mesa",
+        "properties": {}
+    },
+    {
+        "id": "austin_tx",
+        "type": "place",
+        "name": "austin tx",
+        "properties": {}
+    },
+    {
+        "id": "texaco",
+        "type": "place",
+        "name": "texaco",
+        "properties": {}
+    },
+    {
+        "id": "el_paso",
+        "type": "place",
+        "name": "el paso",
+        "properties": {}
+    },
+    {
+        "id": "valparaiso",
+        "type": "place",
+        "name": "valparaiso",
+        "properties": {}
+    },
+    {
+        "id": "canada",
+        "type": "place",
+        "name": "canada",
+        "properties": {}
+    },
+    {
+        "id": "morocco",
+        "type": "place",
+        "name": "morocco",
+        "properties": {}
+    },
+    {
+        "id": "spain",
+        "type": "place",
+        "name": "spain",
+        "properties": {}
+    },
+    {
+        "id": "british",
+        "type": "place",
+        "name": "british",
+        "properties": {}
+    },
+    {
+        "id": "chile",
+        "type": "place",
+        "name": "chile",
+        "properties": {}
+    },
+    {
+        "id": "switzerland",
+        "type": "place",
+        "name": "switzerland",
+        "properties": {}
+    },
+    {
+        "id": "toulouse",
+        "type": "place",
+        "name": "toulouse",
+        "properties": {}
+    },
+    {
+        "id": "president_of_france",
+        "type": "position",
+        "name": "president of france",
+        "properties": {}
+    },
+    {
+        "id": "france",
+        "type": "place",
+        "name": "france",
+        "properties": {}
+    },
+    {
+        "id": "german",
+        "type": "place",
+        "name": "german",
+        "properties": {}
+    },
+    {
+        "id": "scotland",
+        "type": "place",
+        "name": "scotland",
+        "properties": {}
+    },
+    {
+        "id": "liechtenstein",
+        "type": "place",
+        "name": "liechtenstein",
+        "properties": {}
+    },
+    {
+        "id": "afghanistan",
+        "type": "place",
+        "name": "afghanistan",
+        "properties": {}
+    },
+    {
+        "id": "thiel_capital",
+        "type": "organization",
+        "name": "thiel capital",
+        "properties": {}
+    },
+    {
+        "id": "austria",
+        "type": "place",
+        "name": "austria",
+        "properties": {}
+    },
+    {
+        "id": "africa",
+        "type": "place",
+        "name": "africa",
+        "properties": {}
+    },
+    {
+        "id": "zurich",
+        "type": "place",
+        "name": "zurich",
+        "properties": {}
+    },
+    {
+        "id": "russia",
+        "type": "place",
+        "name": "russia",
+        "properties": {}
+    },
+    {
+        "id": "guadeloupe",
+        "type": "place",
+        "name": "guadeloupe",
+        "properties": {}
+    },
+    {
+        "id": "australia",
+        "type": "place",
+        "name": "australia",
+        "properties": {}
+    },
+    {
+        "id": "john_f_kennedy_school_of_government",
+        "type": "organization",
+        "name": "john f kennedy school of government",
+        "properties": {}
+    },
+    {
+        "id": "lyndon_b_johnson",
+        "type": "person",
+        "name": "lyndon b johnson",
+        "properties": {}
+    },
+    {
+        "id": "uss_john_f_kennedy",
+        "type": "place",
+        "name": "uss john f kennedy",
+        "properties": {}
+    },
+    {
+        "id": "jon_ferry",
+        "type": "person",
+        "name": "jon ferry",
+        "properties": {}
+    },
+    {
+        "id": "kennedy_space_center",
+        "type": "place",
+        "name": "kennedy space center",
+        "properties": {}
+    },
+    {
+        "id": "kennedy",
+        "type": "person",
+        "name": "kennedy",
+        "properties": {}
+    },
+    {
+        "id": "fergus_county",
+        "type": "place",
+        "name": "fergus county",
+        "properties": {}
+    },
+    {
+        "id": "lockheed_martin",
+        "type": "organization",
+        "name": "lockheed martin",
+        "properties": {}
+    },
+    {
+        "id": "skunk_works",
+        "type": "organization",
+        "name": "skunk works",
+        "properties": {}
+    },
+    {
+        "id": "lockheed_skunk_works",
+        "type": "organization",
+        "name": "lockheed skunkworks",
+        "properties": {}
+    },
+    {
+        "id": "lockheedmartin_helendale_plant",
+        "type": "organization",
+        "name": "lockheedmartin helendale plant",
+        "properties": {}
+    },
+    {
+        "id": "glenn_l_martin_company",
+        "type": "organization",
+        "name": "glenn l martin company",
+        "properties": {}
+    },
+    {
+        "id": "lockheedvega",
+        "type": "organization",
+        "name": "lockheedvega",
+        "properties": {}
+    },
+    {
+        "id": "reynolds_electronics",
+        "type": "organization",
+        "name": "reynolds electronics",
+        "properties": {}
+    },
+    {
+        "id": "rocketdyne",
+        "type": "organization",
+        "name": "rocketdyne",
+        "properties": {}
+    },
+    {
+        "id": "northrop_norair",
+        "type": "organization",
+        "name": "northrop grumman",
+        "properties": {}
+    },
+    {
+        "id": "raytheon",
+        "type": "organization",
+        "name": "raytheon",
+        "properties": {}
+    },
+    {
+        "id": "boeing_phantom_works",
+        "type": "organization",
+        "name": "boeing phantom works",
+        "properties": {}
+    },
+    {
+        "id": "air_force",
+        "type": "organization",
+        "name": "us air force",
+        "properties": {}
+    },
+    {
+        "id": "air_force_institute_of_technology",
+        "type": "organization",
+        "name": "air force institute of technology",
+        "properties": {}
+    },
+    {
+        "id": "usaf",
+        "type": "organization",
+        "name": "usaf",
+        "properties": {}
+    },
+    {
+        "id": "air_technical_intelligence_center",
+        "type": "place",
+        "name": "air technical intelligence center",
+        "properties": {}
+    },
+    {
+        "id": "alleged_usaf_incidentcomplaint_form",
+        "type": "object",
+        "name": "alleged usaf incidentcomplaint form",
+        "properties": {}
+    },
+    {
+        "id": "air_force_regulation_2002",
+        "type": "concept",
+        "name": "air force regulation 2002",
+        "properties": {}
+    },
+    {
+        "id": "air_force_archives",
+        "type": "publication",
+        "name": "air force archives",
+        "properties": {}
+    },
+    {
+        "id": "air_force_intelligence",
+        "type": "group",
+        "name": "air force intelligence",
+        "properties": {}
+    },
+    {
+        "id": "intelligence_analyst",
+        "type": "person",
+        "name": "intelligence analyst",
+        "properties": {}
+    },
+    {
+        "id": "counterintelligence",
+        "type": "concept",
+        "name": "counterintelligence",
+        "properties": {}
+    },
+    {
+        "id": "intelligence_and_security_command",
+        "type": "organization",
+        "name": "intelligence and security command",
+        "properties": {}
+    },
+    {
+        "id": "intelligence_community",
+        "type": "group",
+        "name": "intelligence community",
+        "properties": {}
+    },
+    {
+        "id": "intelligence_agencies",
+        "type": "group",
+        "name": "intelligence agencies",
+        "properties": {}
+    },
+    {
+        "id": "gianluca_gemme",
+        "type": "person",
+        "name": "gianluca gemme",
+        "properties": {}
+    },
+    {
+        "id": "andrea_rossi",
+        "type": "person",
+        "name": "andrea rossi",
+        "properties": {}
+    },
+    {
+        "id": "salvatore_pais",
+        "type": "person",
+        "name": "salvatore pais",
+        "properties": {}
+    },
+    {
+        "id": "victor_martinez",
+        "type": "person",
+        "name": "victor martinez",
+        "properties": {}
+    },
+    {
+        "id": "jesse_marcel_sr",
+        "type": "person",
+        "name": "jesse marcel",
+        "properties": {}
+    },
+    {
+        "id": "joe_murgia",
+        "type": "person",
+        "name": "joe murgia",
+        "properties": {}
+    },
+    {
+        "id": "jack_sarfatti",
+        "type": "person",
+        "name": "jack sarfatti",
+        "properties": {}
+    },
+    {
+        "id": "anthony_o_mirarchi",
+        "type": "person",
+        "name": "anthony o mirarchi",
+        "properties": {}
+    },
+    {
+        "id": "marisa",
+        "type": "person",
+        "name": "marisa",
+        "properties": {}
+    },
+    {
+        "id": "marconi",
+        "type": "person",
+        "name": "marconi",
+        "properties": {}
+    },
+    {
+        "id": "victor_marchetti",
+        "type": "person",
+        "name": "victor marchetti",
+        "properties": {}
+    },
+    {
+        "id": "andrew_basiago",
+        "type": "person",
+        "name": "andrew basiago",
+        "properties": {}
+    },
+    {
+        "id": "jacques_valle",
+        "type": "person",
+        "name": "jacques valle",
+        "properties": {}
+    },
+    {
+        "id": "alexandre_martins",
+        "type": "person",
+        "name": "alexandre martins",
+        "properties": {}
+    },
+    {
+        "id": "ron_pandolfi",
+        "type": "person",
+        "name": "ron pandolfi",
+        "properties": {}
+    },
+    {
+        "id": "mario_pinheiro",
+        "type": "person",
+        "name": "mario pinheiro",
+        "properties": {}
+    },
+    {
+        "id": "cmdr",
+        "type": "position",
+        "name": "cmdr",
+        "properties": {}
+    },
+    {
+        "id": "signal_corps",
+        "type": "group",
+        "name": "signal corps",
+        "properties": {}
+    },
+    {
+        "id": "vadm",
+        "type": "position",
+        "name": "vadm",
+        "properties": {}
+    },
+    {
+        "id": "bdm_corp",
+        "type": "group",
+        "name": "bdm corp",
+        "properties": {}
+    },
+    {
+        "id": "uss_nimitz",
+        "type": "place",
+        "name": "uss nimitz",
+        "properties": {}
+    },
+    {
+        "id": "cyber_corp",
+        "type": "group",
+        "name": "cyber corp",
+        "properties": {}
+    },
+    {
+        "id": "lance_corporal",
+        "type": "position",
+        "name": "lance corporal",
+        "properties": {}
+    },
+    {
+        "id": "bdm",
+        "type": "organization",
+        "name": "bdm",
+        "properties": {}
+    },
+    {
+        "id": "radm",
+        "type": "position",
+        "name": "radm",
+        "properties": {}
+    },
+    {
+        "id": "marine_corps",
+        "type": "organization",
+        "name": "marine corps",
+        "properties": {}
+    },
+    {
+        "id": "coast_guard",
+        "type": "organization",
+        "name": "coast guard",
+        "properties": {}
+    },
+    {
+        "id": "petty_officer_first_class",
+        "type": "position",
+        "name": "petty officer first class",
+        "properties": {}
+    },
+    {
+        "id": "chilean_navy",
+        "type": "organization",
+        "name": "chilean navy",
+        "properties": {}
+    },
+    {
+        "id": "navy",
+        "type": "organization",
+        "name": "us navy",
+        "properties": {}
+    },
+    {
+        "id": "philadelphia_navy_yard",
+        "type": "place",
+        "name": "philadelphia navy yard",
+        "properties": {}
+    },
+    {
+        "id": "secretary_of_the_air_force",
+        "type": "position",
+        "name": "secretary of the air force",
+        "properties": {}
+    },
+    {
+        "id": "general_officer",
+        "type": "position",
+        "name": "general officer",
+        "properties": {}
+    },
+    {
+        "id": "assistant_secretary",
+        "type": "position",
+        "name": "assistant secretary",
+        "properties": {}
+    },
+    {
+        "id": "director_of_information_services",
+        "type": "position",
+        "name": "director of information services",
+        "properties": {}
+    },
+    {
+        "id": "under_secretary_of_defense_for_intelligence_and_security",
+        "type": "position",
+        "name": "under secretary of defense for intelligence and security",
+        "properties": {}
+    },
+    {
+        "id": "deputy_assistant_secretary_of_defense_for_intelligence",
+        "type": "position",
+        "name": "deputy assistant secretary of defense for intelligence",
+        "properties": {}
+    },
+    {
+        "id": "usaf_chief_of_staff",
+        "type": "position",
+        "name": "usaf chief of staff",
+        "properties": {}
+    },
+    {
+        "id": "under_secretary_of_the_navy",
+        "type": "position",
+        "name": "under secretary of the navy",
+        "properties": {}
+    },
+    {
+        "id": "under_secretary_for_intelligence_and_analysis",
+        "type": "position",
+        "name": "under secretary for intelligence and analysis",
+        "properties": {}
+    },
+    {
+        "id": "vice_chair_of_the_joint_chiefs_of_staff",
+        "type": "position",
+        "name": "vice chair of the joint chiefs of staff",
+        "properties": {}
+    },
+    {
+        "id": "chief_officer_of_policy_for_the_nsa",
+        "type": "position",
+        "name": "chief officer of policy for the nsa",
+        "properties": {}
+    },
+    {
+        "id": "cia_deputy_director",
+        "type": "position",
+        "name": "cia deputy director",
+        "properties": {}
+    },
+    {
+        "id": "nsa_director",
+        "type": "position",
+        "name": "nsa director",
+        "properties": {}
+    },
+    {
+        "id": "secretary_of_energy",
+        "type": "position",
+        "name": "secretary of energy",
+        "properties": {}
+    },
+    {
+        "id": "deputy_director_of_the_cia",
+        "type": "position",
+        "name": "deputy director of the cia",
+        "properties": {}
+    },
+    {
+        "id": "assistant_secretary_of_defense_for_intelligence",
+        "type": "position",
+        "name": "assistant secretary of defense for intelligence",
+        "properties": {}
+    },
+    {
+        "id": "secretary_of_the_navy",
+        "type": "position",
+        "name": "secretary of the navy",
+        "properties": {}
+    },
+    {
+        "id": "comptroller_general",
+        "type": "position",
+        "name": "comptroller general",
+        "properties": {}
+    },
+    {
+        "id": "mcdonnelldouglas",
+        "type": "organization",
+        "name": "mcdonnell douglas",
+        "properties": {}
+    },
+    {
+        "id": "douglas_torr",
+        "type": "organization",
+        "name": "douglas torr",
+        "properties": {}
+    },
+    {
+        "id": "douglas_aircraft",
+        "type": "organization",
+        "name": "douglas aircraft",
+        "properties": {}
+    },
+    {
+        "id": "donald_b_rice",
+        "type": "person",
+        "name": "donald b rice",
+        "properties": {}
+    },
+    {
+        "id": "uss_ronald_reagan",
+        "type": "place",
+        "name": "uss ronald reagan",
+        "properties": {}
+    },
+    {
+        "id": "george_bush_sr",
+        "type": "person",
+        "name": "george bush sr",
+        "properties": {}
+    },
+    {
+        "id": "ronald_reagan",
+        "type": "person",
+        "name": "ronald reagan",
+        "properties": {}
+    },
+    {
+        "id": "donald_flickinger",
+        "type": "person",
+        "name": "donald flickinger",
+        "properties": {}
+    },
+    {
+        "id": "harry_s_truman",
+        "type": "person",
+        "name": "harry s truman",
+        "properties": {}
+    },
+    {
+        "id": "ronald_moultrie",
+        "type": "person",
+        "name": "ronald moultrie",
+        "properties": {}
+    },
+    {
+        "id": "donald_rumsfeld",
+        "type": "person",
+        "name": "donald rumsfeld",
+        "properties": {}
+    },
+    {
+        "id": "uss_russell",
+        "type": "place",
+        "name": "uss russell",
+        "properties": {}
+    },
+    {
+        "id": "daniel_sheehan",
+        "type": "person",
+        "name": "daniel sheehan",
+        "properties": {}
+    },
+    {
+        "id": "richard_dolan",
+        "type": "person",
+        "name": "richard dolan",
+        "properties": {}
+    },
+    {
+        "id": "daniel_l_sherman",
+        "type": "person",
+        "name": "daniel l sherman",
+        "properties": {}
+    },
+    {
+        "id": "oke_shannon",
+        "type": "person",
+        "name": "oke shannon",
+        "properties": {}
+    },
+    {
+        "id": "sherman",
+        "type": "person",
+        "name": "sherman",
+        "properties": {}
+    },
+    {
+        "id": "ingo_swann",
+        "type": "person",
+        "name": "ingo swann",
+        "properties": {}
+    },
+    {
+        "id": "airline_pilots",
+        "type": "position",
+        "name": "airline pilots",
+        "properties": {}
+    },
+    {
+        "id": "airline_industry",
+        "type": "group",
+        "name": "airline industry",
+        "properties": {}
+    },
+    {
+        "id": "aerospace_engineer",
+        "type": "position",
+        "name": "aerospace engineer",
+        "properties": {}
+    },
+    {
+        "id": "aerospace_industry",
+        "type": "group",
+        "name": "aerospace industry",
+        "properties": {}
+    },
+    {
+        "id": "falcon_space",
+        "type": "organization",
+        "name": "falcon space",
+        "properties": {}
+    },
+    {
+        "id": "ford_aerospace",
+        "type": "organization",
+        "name": "ford aerospace",
+        "properties": {}
+    },
+    {
+        "id": "commission_on_the_future_of_the_us_aerospace_industry",
+        "type": "group",
+        "name": "commission on the future of the us aerospace industry",
+        "properties": {}
+    },
+    {
+        "id": "aerospace_companies",
+        "type": "group",
+        "name": "aerospace company",
+        "properties": {}
+    },
+    {
+        "id": "orbitec",
+        "type": "organization",
+        "name": "orbitec",
+        "properties": {}
+    },
+    {
+        "id": "aerospace_corp",
+        "type": "organization",
+        "name": "aerospace corp",
+        "properties": {}
+    },
+    {
+        "id": "orbital_technologies_corporation",
+        "type": "organization",
+        "name": "orbital technologies corporation",
+        "properties": {}
+    },
+    {
+        "id": "astronomer",
+        "type": "position",
+        "name": "astronomer",
+        "properties": {}
+    },
+    {
+        "id": "microbiologist",
+        "type": "position",
+        "name": "microbiologist",
+        "properties": {}
+    },
+    {
+        "id": "biologists",
+        "type": "position",
+        "name": "biologists",
+        "properties": {}
+    },
+    {
+        "id": "america_cosmic",
+        "type": "publication",
+        "name": "america cosmic",
+        "properties": {}
+    },
+    {
+        "id": "quantum_vacuum",
+        "type": "concept",
+        "name": "quantum vacuum",
+        "properties": {}
+    },
+    {
+        "id": "einstein",
+        "type": "person",
+        "name": "einstein",
+        "properties": {}
+    },
+    {
+        "id": "oppenheimer",
+        "type": "person",
+        "name": "oppenheimer",
+        "properties": {}
+    },
+    {
+        "id": "futurist",
+        "type": "position",
+        "name": "futurist",
+        "properties": {}
+    },
+    {
+        "id": "physicist",
+        "type": "position",
+        "name": "physicist",
+        "properties": {}
+    },
+    {
+        "id": "wernher_von_braun",
+        "type": "person",
+        "name": "wernher von braun",
+        "properties": {}
+    },
+    {
+        "id": "engineer",
+        "type": "position",
+        "name": "engineer",
+        "properties": {}
+    },
+    {
+        "id": "frc_west",
+        "type": "place",
+        "name": "frc west",
+        "properties": {}
+    },
+    {
+        "id": "jim_angleton",
+        "type": "person",
+        "name": "jim angleton",
+        "properties": {}
+    },
+    {
+        "id": "james_goodall",
+        "type": "person",
+        "name": "james goodall",
+        "properties": {}
+    },
+    {
+        "id": "jim_west",
+        "type": "person",
+        "name": "jim west",
+        "properties": {}
+    },
+    {
+        "id": "james_westwood",
+        "type": "person",
+        "name": "james westwood",
+        "properties": {}
+    },
+    {
+        "id": "james_woodward",
+        "type": "person",
+        "name": "james woodward",
+        "properties": {}
+    },
+    {
+        "id": "james_cox",
+        "type": "person",
+        "name": "james cox",
+        "properties": {}
+    },
+    {
+        "id": "scientific_coalition_for_uap_studies",
+        "type": "group",
+        "name": "scientific coalition for uap studies",
+        "properties": {}
+    },
+    {
+        "id": "crash_retrieval",
+        "type": "concept",
+        "name": "crash retrieval",
+        "properties": {}
+    },
+    {
+        "id": "uaprelated_cables",
+        "type": "concept",
+        "name": "uaprelated cables",
+        "properties": {}
+    },
+    {
+        "id": "uap_materials_analysis",
+        "type": "concept",
+        "name": "uap materials analysis",
+        "properties": {}
+    },
+    {
+        "id": "del_rio_tx_uap_crash",
+        "type": "event",
+        "name": "del rio tx uap crash",
+        "properties": {}
+    },
+    {
+        "id": "uap_crash",
+        "type": "concept",
+        "name": "uap crash",
+        "properties": {}
+    },
+    {
+        "id": "rendlesham_forest_incident",
+        "type": "event",
+        "name": "rendlesham forest incident",
+        "properties": {}
+    },
+    {
+        "id": "uap_sighting_incident_and_body_recovery",
+        "type": "concept",
+        "name": "uap sighting incident and body recovery",
+        "properties": {}
+    },
+    {
+        "id": "crash_of_a_ufo",
+        "type": "concept",
+        "name": "crash of a ufo",
+        "properties": {}
+    },
+    {
+        "id": "holloman_uap_landing",
+        "type": "event",
+        "name": "holloman uap landing",
+        "properties": {}
+    },
+    {
+        "id": "triangular_uap_sightings",
+        "type": "event",
+        "name": "triangular uap sightings",
+        "properties": {}
+    },
+    {
+        "id": "uap",
+        "type": "concept",
+        "name": "uap",
+        "properties": {}
+    },
+    {
+        "id": "flying_saucer",
+        "type": "concept",
+        "name": "flying saucer",
+        "properties": {}
+    },
+    {
+        "id": "ufo_encounters",
+        "type": "concept",
+        "name": "ufo encounters",
+        "properties": {}
+    },
+    {
+        "id": "abductions",
+        "type": "concept",
+        "name": "abductions",
+        "properties": {}
+    },
+    {
+        "id": "mutual_ufo_network",
+        "type": "group",
+        "name": "mutual ufo network",
+        "properties": {}
+    },
+    {
+        "id": "ultraterrestrial_hypothesis",
+        "type": "concept",
+        "name": "ultraterrestrial hypothesis",
+        "properties": {}
+    },
+    {
+        "id": "ufoheap",
+        "type": "concept",
+        "name": "ufoheap",
+        "properties": {}
+    },
+    {
+        "id": "ufologist",
+        "type": "position",
+        "name": "ufologist",
+        "properties": {}
+    },
+    {
+        "id": "ufo",
+        "type": "concept",
+        "name": "ufo",
+        "properties": {}
+    },
+    {
+        "id": "antigravity",
+        "type": "concept",
+        "name": "antigravity",
+        "properties": {}
+    },
+    {
+        "id": "ibm",
+        "type": "organization",
+        "name": "ibm",
+        "properties": {}
+    },
+    {
+        "id": "general_electric",
+        "type": "organization",
+        "name": "general electric",
+        "properties": {}
+    },
+    {
+        "id": "fluxliner",
+        "type": "concept",
+        "name": "fluxliner",
+        "properties": {}
+    },
+    {
+        "id": "mississippi_house_resolution_no_14",
+        "type": "event",
+        "name": "mississippi house resolution no 14",
+        "properties": {}
+    },
+    {
+        "id": "icbm",
+        "type": "technology",
+        "name": "icbm",
+        "properties": {}
+    },
+    {
+        "id": "white_house",
+        "type": "place",
+        "name": "white house",
+        "properties": {}
+    },
+    {
+        "id": "uk_ministry_of_defence",
+        "type": "organization",
+        "name": "uk ministry of defence",
+        "properties": {}
+    },
+    {
+        "id": "pentagon",
+        "type": "place",
+        "name": "pentagon",
+        "properties": {}
+    },
+    {
+        "id": "domestic_contact_service",
+        "type": "program",
+        "name": "domestic contact service",
+        "properties": {}
+    },
+    {
+        "id": "foia",
+        "type": "concept",
+        "name": "foia",
+        "properties": {}
+    },
+    {
+        "id": "state_department",
+        "type": "group",
+        "name": "state department",
+        "properties": {}
+    },
+    {
+        "id": "fbi",
+        "type": "organization",
+        "name": "fbi",
+        "properties": {}
+    },
+    {
+        "id": "department_of_energy",
+        "type": "organization",
+        "name": "department of energy",
+        "properties": {}
+    },
+    {
+        "id": "war_department",
+        "type": "group",
+        "name": "war department",
+        "properties": {}
+    },
+    {
+        "id": "vietnam_war",
+        "type": "event",
+        "name": "vietnam war",
+        "properties": {}
+    },
+    {
+        "id": "department_of_homeland_security",
+        "type": "organization",
+        "name": "department of homeland security",
+        "properties": {}
+    },
+    {
+        "id": "civilian_contractors",
+        "type": "organization",
+        "name": "civilian contractors",
+        "properties": {}
+    },
+    {
+        "id": "the_pentagon",
+        "type": "place",
+        "name": "the pentagon",
+        "properties": {}
+    },
+    {
+        "id": "defense_contractor",
+        "type": "group",
+        "name": "defense contractor",
+        "properties": {}
+    },
+    {
+        "id": "pentacle_memorandum",
+        "type": "publication",
+        "name": "pentacle memorandum",
+        "properties": {}
+    },
+    {
+        "id": "atomic_energy_commission",
+        "type": "organization",
+        "name": "atomic energy commission",
+        "properties": {}
+    },
+    {
+        "id": "department_of_defense",
+        "type": "organization",
+        "name": "department of defense",
+        "properties": {}
+    },
+    {
+        "id": "defense_industry",
+        "type": "organization",
+        "name": "defense industry",
+        "properties": {}
+    },
+    {
+        "id": "ministry_of_defence",
+        "type": "position",
+        "name": "ministry of defence",
+        "properties": {}
+    },
+    {
+        "id": "united_nations",
+        "type": "organization",
+        "name": "united nations",
+        "properties": {}
+    },
+    {
+        "id": "mercury_program",
+        "type": "program",
+        "name": "mercury program",
+        "properties": {}
+    },
+    {
+        "id": "sdi_program",
+        "type": "program",
+        "name": "sdi program",
+        "properties": {}
+    },
+    {
+        "id": "usg",
+        "type": "organization",
+        "name": "usg",
+        "properties": {}
+    },
+    {
+        "id": "operation_starfish_prime",
+        "type": "program",
+        "name": "operation starfish prime",
+        "properties": {}
+    },
+    {
+        "id": "spy_satellite",
+        "type": "technology",
+        "name": "spy satellite",
+        "properties": {}
+    },
+    {
+        "id": "med_program",
+        "type": "program",
+        "name": "med program",
+        "properties": {}
+    },
+    {
+        "id": "dci",
+        "type": "organization",
+        "name": "dci",
+        "properties": {}
+    },
+    {
+        "id": "remote_viewing_program",
+        "type": "program",
+        "name": "remote viewing program",
+        "properties": {}
+    },
+    {
+        "id": "ousdis",
+        "type": "organization",
+        "name": "ousdis",
+        "properties": {}
+    },
+    {
+        "id": "dodig",
+        "type": "organization",
+        "name": "dodig",
+        "properties": {}
+    },
+    {
+        "id": "egg_special_projects",
+        "type": "program",
+        "name": "egg special projects",
+        "properties": {}
+    },
+    {
+        "id": "uss_carl_vinson",
+        "type": "place",
+        "name": "uss carl vinson",
+        "properties": {}
+    },
+    {
+        "id": "north_atlantic_treaty_organization",
+        "type": "organization",
+        "name": "north atlantic treaty organization",
+        "properties": {}
+    },
+    {
+        "id": "operation_shocker",
+        "type": "event",
+        "name": "operation shocker",
+        "properties": {}
+    },
+    {
+        "id": "usdis",
+        "type": "organization",
+        "name": "usdis",
+        "properties": {}
+    },
+    {
+        "id": "usn",
+        "type": "organization",
+        "name": "usn",
+        "properties": {}
+    },
+    {
+        "id": "dsp_satellite",
+        "type": "technology",
+        "name": "dsp satellite",
+        "properties": {}
+    },
+    {
+        "id": "usg_contractor_space",
+        "type": "concept",
+        "name": "usg contractor space",
+        "properties": {}
+    },
+    {
+        "id": "dod",
+        "type": "organization",
+        "name": "dod",
+        "properties": {}
+    },
+    {
+        "id": "star_wars_program",
+        "type": "program",
+        "name": "star wars program",
+        "properties": {}
+    },
+    {
+        "id": "unacknowledged_special_access_program",
+        "type": "program",
+        "name": "unacknowledged special access program",
+        "properties": {}
+    },
+    {
+        "id": "doe",
+        "type": "organization",
+        "name": "doe",
+        "properties": {}
+    },
+    {
+        "id": "nato",
+        "type": "organization",
+        "name": "nato",
+        "properties": {}
+    },
+    {
+        "id": "psitech",
+        "type": "organization",
+        "name": "psitech",
+        "properties": {}
+    },
+    {
+        "id": "enginespropulsion",
+        "type": "concept",
+        "name": "enginespropulsion",
+        "properties": {}
+    },
+    {
+        "id": "project_marauder",
+        "type": "program",
+        "name": "project marauder",
+        "properties": {}
+    },
+    {
+        "id": "aircraft",
+        "type": "technology",
+        "name": "aircraft",
+        "properties": {}
+    },
+    {
+        "id": "ohare_international_airport",
+        "type": "place",
+        "name": "ohare international airport",
+        "properties": {}
+    },
+    {
+        "id": "hovercraft",
+        "type": "technology",
+        "name": "hovercraft",
+        "properties": {}
+    },
+    {
+        "id": "electroaerodynamics",
+        "type": "concept",
+        "name": "electroaerodynamics",
+        "properties": {}
+    },
+    {
+        "id": "hughes_aircraft",
+        "type": "organization",
+        "name": "hughes aircraft",
+        "properties": {}
+    },
+    {
+        "id": "project_skylite",
+        "type": "program",
+        "name": "project skylite",
+        "properties": {}
+    },
+    {
+        "id": "project_twinkle",
+        "type": "program",
+        "name": "project twinkle",
+        "properties": {}
+    },
+    {
+        "id": "project_blue_heaven",
+        "type": "program",
+        "name": "project blue heaven",
+        "properties": {}
+    },
+    {
+        "id": "electromagnetic_waves",
+        "type": "program",
+        "name": "electromagnetic waves",
+        "properties": {}
+    },
+    {
+        "id": "disclosure_project",
+        "type": "program",
+        "name": "disclosure project",
+        "properties": {}
+    },
+    {
+        "id": "project_moonstruck",
+        "type": "program",
+        "name": "project moonstruck",
+        "properties": {}
+    },
+    {
+        "id": "project_preserve_destiny",
+        "type": "program",
+        "name": "project preserve destiny",
+        "properties": {}
+    },
+    {
+        "id": "stealth_aircraft",
+        "type": "technology",
+        "name": "stealth aircraft",
+        "properties": {}
+    },
+    {
+        "id": "minuteman_iii",
+        "type": "technology",
+        "name": "minuteman iii",
+        "properties": {}
+    },
+    {
+        "id": "electromagnetic_air_vehicle",
+        "type": "technology",
+        "name": "electromagnetic air vehicle",
+        "properties": {}
+    },
+    {
+        "id": "electrodynamic_theory",
+        "type": "concept",
+        "name": "electrodynamic theory",
+        "properties": {}
+    },
+    {
+        "id": "stealth_fighter",
+        "type": "organization",
+        "name": "stealth fighter",
+        "properties": {}
+    },
+    {
+        "id": "wingless_electromagnetic_air_vehicle",
+        "type": "organization",
+        "name": "wingless electromagnetic air vehicle",
+        "properties": {}
+    },
+    {
+        "id": "magnetohydrodynamics",
+        "type": "organization",
+        "name": "magnetohydrodynamics",
+        "properties": {}
+    },
+    {
+        "id": "afosi",
+        "type": "position",
+        "name": "afosi",
+        "properties": {}
+    },
+    {
+        "id": "som101",
+        "type": "technology",
+        "name": "som101",
+        "properties": {}
+    },
+    {
+        "id": "aatip",
+        "type": "program",
+        "name": "aatip",
+        "properties": {}
+    },
+    {
+        "id": "a12_prototype",
+        "type": "technology",
+        "name": "a12 prototype",
+        "properties": {}
+    },
+    {
+        "id": "g2",
+        "type": "position",
+        "name": "g2",
+        "properties": {}
+    },
+    {
+        "id": "permindex",
+        "type": "place",
+        "name": "permindex",
+        "properties": {}
+    },
+    {
+        "id": "mj12",
+        "type": "group",
+        "name": "mj12",
+        "properties": {}
+    },
+    {
+        "id": "f4",
+        "type": "",
+        "name": "f4",
+        "properties": {}
+    },
+    {
+        "id": "b29",
+        "type": "",
+        "name": "b29",
+        "properties": {}
+    },
+    {
+        "id": "jason_group",
+        "type": "group",
+        "name": "jason group",
+        "properties": {}
+    },
+    {
+        "id": "f117a",
+        "type": "",
+        "name": "f117a",
+        "properties": {}
+    },
+    {
+        "id": "jet_propulsion_laboratory",
+        "type": "organization",
+        "name": "jet propulsion laboratory",
+        "properties": {}
+    },
+    {
+        "id": "bigelow_aerospace_advanced_space_studies",
+        "type": "organization",
+        "name": "bigelow aerospace advanced space studies",
+        "properties": {}
+    },
+    {
+        "id": "air_force_rocket_propulsion_library",
+        "type": "organization",
+        "name": "air force rocket propulsion library",
+        "properties": {}
+    },
+    {
+        "id": "advanced_deep_space_transport_technology_assessment_group",
+        "type": "group",
+        "name": "advanced deep space transport technology assessment group",
+        "properties": {}
+    },
+    {
+        "id": "air_force_astronautics_laboratory",
+        "type": "place",
+        "name": "air force astronautics laboratory",
+        "properties": {}
+    },
+    {
+        "id": "house_science_and_astronautics_committee",
+        "type": "group",
+        "name": "house science and astronautics committee",
+        "properties": {}
+    },
+    {
+        "id": "house_select_committee_on_astronautics_and_space_exploration",
+        "type": "group",
+        "name": "house select committee on astronautics and space exploration",
+        "properties": {}
+    },
+    {
+        "id": "to_the_stars_academy",
+        "type": "organization",
+        "name": "to the stars academy",
+        "properties": {}
+    },
+    {
+        "id": "subcommittee_on_atmospheric_phenomena",
+        "type": "group",
+        "name": "subcommittee on atmospheric phenomena",
+        "properties": {}
+    },
+    {
+        "id": "science_applications_international_corporation",
+        "type": "organization",
+        "name": "science applications international corporation",
+        "properties": {}
+    },
+    {
+        "id": "national_security_agency",
+        "type": "organization",
+        "name": "national security agency",
+        "properties": {}
+    },
+    {
+        "id": "nuclear_security_testing",
+        "type": "concept",
+        "name": "nuclear security testing",
+        "properties": {}
+    },
+    {
+        "id": "osd_public_affairs",
+        "type": "group",
+        "name": "osd public affairs",
+        "properties": {}
+    },
+    {
+        "id": "white_house_office_of_science_and_technology_policy",
+        "type": "group",
+        "name": "white house office of science and technology policy",
+        "properties": {}
+    },
+    {
+        "id": "opnav_n2n6_public_affairs",
+        "type": "group",
+        "name": "opnav n2n6 public affairs",
+        "properties": {}
+    },
+    {
+        "id": "nobel_prize",
+        "type": "concept",
+        "name": "nobel prize",
+        "properties": {}
+    },
+    {
+        "id": "office_of_scientific_intelligence",
+        "type": "organization",
+        "name": "office of scientific intelligence",
+        "properties": {}
+    },
+    {
+        "id": "office_of_naval_intelligence",
+        "type": "organization",
+        "name": "office of naval intelligence",
+        "properties": {}
+    },
+    {
+        "id": "national_photographic_interpretation_center",
+        "type": "organization",
+        "name": "national photographic interpretation center",
+        "properties": {}
+    },
+    {
+        "id": "national_reconnaissance_office",
+        "type": "organization",
+        "name": "national reconnaissance office",
+        "properties": {}
+    },
+    {
+        "id": "office_of_naval_research",
+        "type": "organization",
+        "name": "office of naval research",
+        "properties": {}
+    },
+    {
+        "id": "national_institute_of_standards_and_technology",
+        "type": "organization",
+        "name": "national institute of standards and technology",
+        "properties": {}
+    },
+    {
+        "id": "bureau_of_oceans_and_international_environmental_and_scientific_affairs",
+        "type": "organization",
+        "name": "bureau of oceans and international environmental and scientific affairs",
+        "properties": {}
+    },
+    {
+        "id": "national_press_club",
+        "type": "group",
+        "name": "national press club",
+        "properties": {}
+    },
+    {
+        "id": "national_science_foundation",
+        "type": "organization",
+        "name": "national science foundation",
+        "properties": {}
+    },
+    {
+        "id": "national_nuclear_security_administration",
+        "type": "organization",
+        "name": "national nuclear security administration",
+        "properties": {}
+    },
+    {
+        "id": "science_for_peace_and_security",
+        "type": "group",
+        "name": "science for peace and security",
+        "properties": {}
+    },
+    {
+        "id": "nsa",
+        "type": "organization",
+        "name": "nsa",
+        "properties": {}
+    },
+    {
+        "id": "national_security_and_international_affairs_division",
+        "type": "organization",
+        "name": "national security and international affairs division",
+        "properties": {}
+    },
+    {
+        "id": "office_of_special_investigations",
+        "type": "program",
+        "name": "office of special investigations",
+        "properties": {}
+    },
+    {
+        "id": "nasa_associate_administrator_for_space_sciences",
+        "type": "organization",
+        "name": "nasa associate administrator for space sciences",
+        "properties": {}
+    },
+    {
+        "id": "national_weather_service",
+        "type": "organization",
+        "name": "national weather service",
+        "properties": {}
+    },
+    {
+        "id": "national_academy_of_sciences",
+        "type": "organization",
+        "name": "national academy of sciences",
+        "properties": {}
+    },
+    {
+        "id": "mary_elizabeth_elliot",
+        "type": "person",
+        "name": "mary elizabeth elliot",
+        "properties": {}
+    },
+    {
+        "id": "gerald_k_haines",
+        "type": "person",
+        "name": "gerald k haines",
+        "properties": {}
+    },
+    {
+        "id": "walter_horten",
+        "type": "person",
+        "name": "walter horten",
+        "properties": {}
+    },
+    {
+        "id": "helen_littrell",
+        "type": "person",
+        "name": "helen littrell",
+        "properties": {}
+    },
+    {
+        "id": "h_r_hillenkoetter",
+        "type": "person",
+        "name": "h r hillenkoetter",
+        "properties": {}
+    },
+    {
+        "id": "richard_doty",
+        "type": "person",
+        "name": "richard doty",
+        "properties": {}
+    },
+    {
+        "id": "richard_helms",
+        "type": "person",
+        "name": "richard helms",
+        "properties": {}
+    },
+    {
+        "id": "wackenhut",
+        "type": "organization",
+        "name": "wackenhut",
+        "properties": {}
+    },
+    {
+        "id": "linda_moulton_howe",
+        "type": "person",
+        "name": "linda moulton howe",
+        "properties": {}
+    },
+    {
+        "id": "prince_hansadam_ii",
+        "type": "person",
+        "name": "prince hansadam ii",
+        "properties": {}
+    },
+    {
+        "id": "gabrielle_pettingell",
+        "type": "person",
+        "name": "gabrielle pettingell",
+        "properties": {}
+    },
+    {
+        "id": "art_lundahl",
+        "type": "person",
+        "name": "art lundahl",
+        "properties": {}
+    },
+    {
+        "id": "hannes_alfven",
+        "type": "person",
+        "name": "hannes alfven",
+        "properties": {}
+    },
+    {
+        "id": "walter_reed_hospital",
+        "type": "person",
+        "name": "walter reed hospital",
+        "properties": {}
+    },
+    {
+        "id": "urner_liddel",
+        "type": "person",
+        "name": "urner liddel",
+        "properties": {}
+    },
+    {
+        "id": "everett_hineman",
+        "type": "person",
+        "name": "everett hineman",
+        "properties": {}
+    },
+    {
+        "id": "bernard_haisch",
+        "type": "person",
+        "name": "bernard haisch",
+        "properties": {}
+    },
+    {
+        "id": "catherine_austin_fitts",
+        "type": "person",
+        "name": "catherine austin fitts",
+        "properties": {}
+    },
+    {
+        "id": "linda_woodford",
+        "type": "person",
+        "name": "linda woodford",
+        "properties": {}
+    },
+    {
+        "id": "richard_f_haines",
+        "type": "person",
+        "name": "richard f haines",
+        "properties": {}
+    },
+    {
+        "id": "horten_ho_299",
+        "type": "technology",
+        "name": "horten ho 299",
+        "properties": {}
+    },
+    {
+        "id": "dick_haines",
+        "type": "person",
+        "name": "dick haines",
+        "properties": {}
+    },
+    {
+        "id": "hal_puthoff",
+        "type": "person",
+        "name": "hal puthoff",
+        "properties": {}
+    },
+    {
+        "id": "noel_hinners",
+        "type": "person",
+        "name": "noel hinners",
+        "properties": {}
+    },
+    {
+        "id": "tx",
+        "type": "place",
+        "name": "texas",
+        "properties": {}
+    },
+    {
+        "id": "nm",
+        "type": "place",
+        "name": "nm",
+        "properties": {}
+    },
+    {
+        "id": "nv",
+        "type": "place",
+        "name": "nv",
+        "properties": {}
+    },
+    {
+        "id": "matrix",
+        "type": "publication",
+        "name": "matrix",
+        "properties": {}
+    },
+    {
+        "id": "rc",
+        "type": "",
+        "name": "rc",
+        "properties": {}
+    },
+    {
+        "id": "crypto_clearance",
+        "type": "concept",
+        "name": "crypto clearance",
+        "properties": {}
+    },
+    {
+        "id": "npic",
+        "type": "concept",
+        "name": "npic",
+        "properties": {}
+    },
+    {
+        "id": "treat_iv",
+        "type": "",
+        "name": "treat iv",
+        "properties": {}
+    },
+    {
+        "id": "ndi",
+        "type": "concept",
+        "name": "ndi",
+        "properties": {}
+    },
+    {
+        "id": "klastv",
+        "type": "",
+        "name": "klastv",
+        "properties": {}
+    },
+    {
+        "id": "nj",
+        "type": "place",
+        "name": "nj",
+        "properties": {}
+    },
+    {
+        "id": "nc",
+        "type": "place",
+        "name": "nc",
+        "properties": {}
+    },
+    {
+        "id": "drugs",
+        "type": "object",
+        "name": "drugs",
+        "properties": {}
+    },
+    {
+        "id": "nids",
+        "type": "",
+        "name": "nids",
+        "properties": {}
+    },
+    {
+        "id": "boscombe_down",
+        "type": "place",
+        "name": "boscombe down",
+        "properties": {}
+    },
+    {
+        "id": "robert_powell",
+        "type": "person",
+        "name": "robert powell",
+        "properties": {}
+    },
+    {
+        "id": "bob_bigelow",
+        "type": "person",
+        "name": "bob bigelow",
+        "properties": {}
+    },
+    {
+        "id": "bob_wood",
+        "type": "person",
+        "name": "bob wood",
+        "properties": {}
+    },
+    {
+        "id": "robert_emenegger",
+        "type": "person",
+        "name": "robert emenegger",
+        "properties": {}
+    },
+    {
+        "id": "ray_smith_buchanan",
+        "type": "person",
+        "name": "ray smith buchanan",
+        "properties": {}
+    },
+    {
+        "id": "bob_oechsler",
+        "type": "person",
+        "name": "bob oechsler",
+        "properties": {}
+    },
+    {
+        "id": "robert_c_byrd",
+        "type": "person",
+        "name": "robert c byrd",
+        "properties": {}
+    },
+    {
+        "id": "robertson_panel",
+        "type": "person",
+        "name": "robertson panel",
+        "properties": {}
+    },
+    {
+        "id": "ron_blackburn",
+        "type": "person",
+        "name": "ron blackburn",
+        "properties": {}
+    },
+    {
+        "id": "sen_robert_byrd",
+        "type": "person",
+        "name": "sen robert byrd",
+        "properties": {}
+    },
+    {
+        "id": "bobby_ray_inman",
+        "type": "person",
+        "name": "bobby ray inman",
+        "properties": {}
+    },
+    {
+        "id": "robert_m_wood",
+        "type": "person",
+        "name": "robert m wood",
+        "properties": {}
+    },
+    {
+        "id": "bob_lazar",
+        "type": "person",
+        "name": "bob lazar",
+        "properties": {}
+    },
+    {
+        "id": "robert_naka",
+        "type": "person",
+        "name": "robert naka",
+        "properties": {}
+    },
+    {
+        "id": "eric_davis",
+        "type": "person",
+        "name": "eric davis",
+        "properties": {}
+    },
+    {
+        "id": "eric_haseltine",
+        "type": "person",
+        "name": "eric haseltine",
+        "properties": {}
+    },
+    {
+        "id": "eric_a_walker",
+        "type": "person",
+        "name": "eric a walker",
+        "properties": {}
+    },
+    {
+        "id": "eric_weinstein",
+        "type": "person",
+        "name": "eric weinstein",
+        "properties": {}
+    },
+    {
+        "id": "nick_redfern",
+        "type": "person",
+        "name": "nick redfern",
+        "properties": {}
+    },
+    {
+        "id": "eric_walker",
+        "type": "person",
+        "name": "eric walker",
+        "properties": {}
+    },
+    {
+        "id": "eugene_f_yeates",
+        "type": "person",
+        "name": "eugene f yeates",
+        "properties": {}
+    },
+    {
+        "id": "amy_eskridge",
+        "type": "person",
+        "name": "amy eskridge",
+        "properties": {}
+    },
+    {
+        "id": "cia",
+        "type": "organization",
+        "name": "cia",
+        "properties": {}
+    },
+    {
+        "id": "la",
+        "type": "place",
+        "name": "la",
+        "properties": {}
+    },
+    {
+        "id": "co",
+        "type": "place",
+        "name": "co",
+        "properties": {}
+    },
+    {
+        "id": "ga",
+        "type": "place",
+        "name": "ga",
+        "properties": {}
+    },
+    {
+        "id": "kgfl",
+        "type": "organization",
+        "name": "kgfl",
+        "properties": {}
+    },
+    {
+        "id": "ca",
+        "type": "place",
+        "name": "ca",
+        "properties": {}
+    },
+    {
+        "id": "ekuk",
+        "type": "place",
+        "name": "ekuk",
+        "properties": {}
+    },
+    {
+        "id": "anonymous",
+        "type": "person",
+        "name": "anonymous",
+        "properties": {}
+    },
+    {
+        "id": "aec",
+        "type": "organization",
+        "name": "aec",
+        "properties": {}
+    },
+    {
+        "id": "sec",
+        "type": "organization",
+        "name": "sec",
+        "properties": {}
+    },
+    {
+        "id": "ames",
+        "type": "organization",
+        "name": "ames",
+        "properties": {}
+    },
+    {
+        "id": "arpa",
+        "type": "organization",
+        "name": "arpa",
+        "properties": {}
+    },
+    {
+        "id": "pres",
+        "type": "position",
+        "name": "pres",
+        "properties": {}
+    },
+    {
+        "id": "ak",
+        "type": "place",
+        "name": "ak",
+        "properties": {}
+    },
+    {
+        "id": "ks",
+        "type": "place",
+        "name": "ks",
+        "properties": {}
+    },
+    {
+        "id": "dist",
+        "type": "",
+        "name": "dist",
+        "properties": {}
+    },
+    {
+        "id": "classified",
+        "type": "concept",
+        "name": "classified",
+        "properties": {}
+    },
+    {
+        "id": "dia",
+        "type": "organization",
+        "name": "dia",
+        "properties": {}
+    },
+    {
+        "id": "thomas_mahood",
+        "type": "person",
+        "name": "thomas mahood",
+        "properties": {}
+    },
+    {
+        "id": "charles_modlin",
+        "type": "person",
+        "name": "charles modlin",
+        "properties": {}
+    },
+    {
+        "id": "john_podesta",
+        "type": "person",
+        "name": "john podesta",
+        "properties": {}
+    },
+    {
+        "id": "arthur_r_mcquiddy",
+        "type": "person",
+        "name": "arthur r mcquiddy",
+        "properties": {}
+    },
+    {
+        "id": "diana_pasulka",
+        "type": "person",
+        "name": "diana pasulka",
+        "properties": {}
+    },
+    {
+        "id": "steve_millard",
+        "type": "person",
+        "name": "steve millard",
+        "properties": {}
+    },
+    {
+        "id": "albert_collins",
+        "type": "person",
+        "name": "albert collins",
+        "properties": {}
+    },
+    {
+        "id": "william_hamilton",
+        "type": "person",
+        "name": "william hamilton",
+        "properties": {}
+    },
+    {
+        "id": "john_grace",
+        "type": "person",
+        "name": "john grace",
+        "properties": {}
+    },
+    {
+        "id": "jonathan_campbell",
+        "type": "person",
+        "name": "jonathan campbell",
+        "properties": {}
+    },
+    {
+        "id": "henry_deacon",
+        "type": "person",
+        "name": "henry deacon",
+        "properties": {}
+    },
+    {
+        "id": "mark_sokol",
+        "type": "person",
+        "name": "mark sokol",
+        "properties": {}
+    },
+    {
+        "id": "michael_lindemann",
+        "type": "person",
+        "name": "michael lindemann",
+        "properties": {}
+    },
+    {
+        "id": "selman_e_graves",
+        "type": "person",
+        "name": "selman e graves",
+        "properties": {}
+    },
+    {
+        "id": "regina_dugan",
+        "type": "person",
+        "name": "regina dugan",
+        "properties": {}
+    },
+    {
+        "id": "henry_dakin",
+        "type": "person",
+        "name": "henry dakin",
+        "properties": {}
+    },
+    {
+        "id": "chuck_wade",
+        "type": "person",
+        "name": "chuck wade",
+        "properties": {}
+    },
+    {
+        "id": "george_schulgen",
+        "type": "person",
+        "name": "george schulgen",
+        "properties": {}
+    },
+    {
+        "id": "john_greenwald",
+        "type": "person",
+        "name": "john greenwald",
+        "properties": {}
+    },
+    {
+        "id": "jeffrey_w_griffith",
+        "type": "person",
+        "name": "jeffrey w griffith",
+        "properties": {}
+    },
+    {
+        "id": "thomas_wilson",
+        "type": "person",
+        "name": "thomas wilson",
+        "properties": {}
+    },
+    {
+        "id": "dale_graff",
+        "type": "person",
+        "name": "dale graff",
+        "properties": {}
+    },
+    {
+        "id": "george_knapp",
+        "type": "person",
+        "name": "george knapp",
+        "properties": {}
+    },
+    {
+        "id": "john_s_herrington",
+        "type": "person",
+        "name": "john s herrington",
+        "properties": {}
+    },
+    {
+        "id": "john_burroughs",
+        "type": "person",
+        "name": "john burroughs",
+        "properties": {}
+    },
+    {
+        "id": "paul_f_bennewitz",
+        "type": "person",
+        "name": "paul f bennewitz",
+        "properties": {}
+    },
+    {
+        "id": "william_lear",
+        "type": "person",
+        "name": "william lear",
+        "properties": {}
+    },
+    {
+        "id": "john_w_mccormack",
+        "type": "person",
+        "name": "john w mccormack",
+        "properties": {}
+    },
+    {
+        "id": "william_tompkins",
+        "type": "person",
+        "name": "william tompkins",
+        "properties": {}
+    },
+    {
+        "id": "larry_lemke",
+        "type": "person",
+        "name": "larry lemke",
+        "properties": {}
+    },
+    {
+        "id": "bechtel_corp",
+        "type": "person",
+        "name": "bechtel corp",
+        "properties": {}
+    },
+    {
+        "id": "steven_bechtel",
+        "type": "person",
+        "name": "steven bechtel",
+        "properties": {}
+    },
+    {
+        "id": "john_e_brandenburg",
+        "type": "person",
+        "name": "john e brandenburg",
+        "properties": {}
+    },
+    {
+        "id": "cb_scott_jones",
+        "type": "person",
+        "name": "cb scott jones",
+        "properties": {}
+    },
+    {
+        "id": "joshua_n_goldberg",
+        "type": "person",
+        "name": "joshua n goldberg",
+        "properties": {}
+    },
+    {
+        "id": "john_warner_iv",
+        "type": "person",
+        "name": "john warner iv",
+        "properties": {}
+    },
+    {
+        "id": "jacob",
+        "type": "person",
+        "name": "jacob",
+        "properties": {}
+    },
+    {
+        "id": "janes_defense",
+        "type": "person",
+        "name": "janes defense",
+        "properties": {}
+    },
+    {
+        "id": "john_negroponte",
+        "type": "person",
+        "name": "john negroponte",
+        "properties": {}
+    },
+    {
+        "id": "john_lear",
+        "type": "person",
+        "name": "john lear",
+        "properties": {}
+    },
+    {
+        "id": "john_schuessler",
+        "type": "person",
+        "name": "john schuessler",
+        "properties": {}
+    },
+    {
+        "id": "stephen_lovekin",
+        "type": "person",
+        "name": "stephen lovekin",
+        "properties": {}
+    },
+    {
+        "id": "carl_spaatz",
+        "type": "person",
+        "name": "carl spaatz",
+        "properties": {}
+    },
+    {
+        "id": "jonathan_weygandt",
+        "type": "person",
+        "name": "jonathan weygandt",
+        "properties": {}
+    },
+    {
+        "id": "lear_siegler_corp",
+        "type": "person",
+        "name": "lear siegler corp",
+        "properties": {}
+    },
+    {
+        "id": "john_warner_iii",
+        "type": "person",
+        "name": "john warner iii",
+        "properties": {}
+    },
+    {
+        "id": "steven_greer",
+        "type": "person",
+        "name": "steven greer",
+        "properties": {}
+    },
+    {
+        "id": "johndale_solem",
+        "type": "person",
+        "name": "johndale solem",
+        "properties": {}
+    },
+    {
+        "id": "john_keel",
+        "type": "person",
+        "name": "john keel",
+        "properties": {}
+    },
+    {
+        "id": "john_h_gibbons",
+        "type": "person",
+        "name": "john h gibbons",
+        "properties": {}
+    },
+    {
+        "id": "benjamin_chidlaw",
+        "type": "person",
+        "name": "benjamin chidlaw",
+        "properties": {}
+    },
+    {
+        "id": "william_draeger",
+        "type": "person",
+        "name": "william draeger",
+        "properties": {}
+    },
+    {
+        "id": "christopher_k_mellon",
+        "type": "person",
+        "name": "christopher k mellon",
+        "properties": {}
+    },
+    {
+        "id": "colm_keller",
+        "type": "person",
+        "name": "colm keller",
+        "properties": {}
+    },
+    {
+        "id": "colm_kelleher",
+        "type": "person",
+        "name": "colm kelleher",
+        "properties": {}
+    },
+    {
+        "id": "christopher_mellon",
+        "type": "person",
+        "name": "christopher mellon",
+        "properties": {}
+    },
+    {
+        "id": "jb_michaels",
+        "type": "person",
+        "name": "jb michaels",
+        "properties": {}
+    },
+    {
+        "id": "bruce_maccabee",
+        "type": "person",
+        "name": "bruce maccabee",
+        "properties": {}
+    },
+    {
+        "id": "michael_mckubre",
+        "type": "person",
+        "name": "michael mckubre",
+        "properties": {}
+    }
+]

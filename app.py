@@ -1,65 +1,14 @@
-import streamlit as st
-from streamlit_agraph import agraph, Config
-from data_import_formatting import (
-    import_and_format_data,
-    make_wordcloud,
-    make_word_count_bar_chart,
-    read_in_source_data,
-    create_mapping_dict,
-    get_original
-)
-import yaml
-import networkx as nx
+from utilities.data_processing import read_in_data, filter_dataframes
+from utilities.app_utilities import make_graph, make_plot
 
-from collections import Counter
+import streamlit as st
+import yaml
+
+import streamlit.components.v1 as components
 
 with open("config.yaml", "r") as file:
-    config = yaml.safe_load(file)
-
-mapping_dict = create_mapping_dict('data/mapping_dict.json')
-source_data = read_in_source_data()
-node_color_map = config["node_color_map"]
-# data import and formatting
-nodes, edges = import_and_format_data()
-
-
-#### FUNCTIONS ####
-def find_related_nodes_efficient(node_id, edges_df, degree=2):
-    G = nx.from_pandas_edgelist(edges_df, "source", "target")
-    related = nx.single_source_shortest_path_length(G, node_id, cutoff=degree)
-    return list(related.keys())
-
-
-# Function to perform the graph rendering
-def render_graph(selected_node, nodes, edges):
-    if selected_node == "ALL(takes several second to load)":
-        filtered_nodes = nodes
-        filtered_edges = edges
-        physics = True
-    else:
-        related_nodes = find_related_nodes_efficient(selected_node, edges, degree=2)
-        filtered_nodes = nodes[nodes["id"].isin(related_nodes)]
-        filtered_edges = edges[
-            edges["source"].isin(related_nodes) & edges["target"].isin(related_nodes)
-        ]
-        physics = False
-
-    nodes_list = filtered_nodes["Node"].tolist()
-    edges_list = filtered_edges["Edge"].tolist()
-
-    config = Config(
-        width=3000,
-        height=700,
-        directed=True,
-        # nodeHighlightBehavior=True,
-        # highlightColor="#F7A7A6",
-        collapsible=True,
-        physics=physics,
-        hierarchical=False,
-        graphviz_layout=True,
-    )
-
-    return agraph(nodes=nodes_list, edges=edges_list, config=config)
+    config = yaml.safe_load(file) 
+gravis_plot_config = config["gravis_plot_config"]
 
 
 # APP DESIGN
@@ -74,63 +23,27 @@ It helps to view the app in full screen, if not sometimes the nodes can be found
     
     """
 )
+#create a dropdown where people slect eith "Phenomena Timeline Data" or "Project Amanita Data
+
+dataset_selection = st.selectbox('Select a dataset', ['Phenomena Timeline Data', 'Project Amanita Data'])
 
 
-# Create two columns
-col1, col2 = st.columns([9, 1])
-# Add a dropdown menu for node selection in the first column
-with col1:
-    # Adding 'ALL' to the list of node IDs
-    node_options = ["ALL(takes several second to load)"] + nodes["id"].tolist()
-    selected_node = st.selectbox("Select a node", node_options)
-
-# Add a legend in the second column
-with col2:
-    st.markdown("## Legend")
-    for node_type, color in node_color_map.items():
-        st.markdown(
-            f"<span style='color: {color};'>■</span> {node_type}",
-            unsafe_allow_html=True,
-        )
-
-# APP FUNCTIONALITY (in the first column)
-with col1:
-    render_graph(selected_node, nodes, edges)
-
-###adding in the source df
+df_nodes, df_edges = read_in_data(dataset_selection)
 
 
-def get_rows_with_name(df, name):
-    #replace name using mapping dict
-    name = get_original(mapping_dict, name)
-    df_with_name = df[(df["source"] == name) | (df["target"] == name)]
-    return df_with_name
-#when someone selects a node, show the source df 
-
-if selected_node != "ALL(takes several second to load)":
-    filtered_source_data = get_rows_with_name(source_data, selected_node)\
-        .sort_values(by='date', ascending=False)
-    st.dataframe(filtered_source_data)
-else:
-    st.markdown('### Select a node to see the source data reference')
+# Get a list of all nodes
+all_nodes = df_nodes['name'].unique().tolist()
+all_nodes.insert(0, "ALL")  # Add "ALL" option to the list
 
 
-st.markdown("------")
-
-left_co, last_co = st.columns(2)
-with left_co:
-    st.plotly_chart(make_word_count_bar_chart(edges), use_container_width=True)
 
 
-with last_co:
-    st.image(make_wordcloud(edges).to_array(), width=1200)
-    st.markdown(
-        "Wordcloud of the nodes in the timeline.",
-    )
+# Create a dropdown menu for node selection
+selected_node = st.selectbox('Select a node', all_nodes)
 
-st.markdown(
-    """
-Find the github repo [here](https://github.com/noahkarsky/anonymous_phenomena_timeline).
-Check out my other knowledge graph build off my own research here: [Project Amanita Knowledge Graph](https://noahkarsky.github.io/project-amanita/).
-"""
-)
+df_nodes_filtered, df_edges_filtered = filter_dataframes(selected_node, df_nodes, df_edges)
+G = make_graph(df_nodes_filtered, df_edges_filtered)
+graph_vis = make_plot(G,gravis_plot_config)
+
+
+components.html(graph_vis.to_html(), height=900) # << adjust if needed

@@ -13,3 +13,21 @@ node_color_map:
   postion: '#c49c94'
   date: '#e377c2'
   object: '#7f7f7f'
+
+
+gravis_plot_config:
+  graph_height: 690
+  use_node_size_normalization: True
+  node_hover_neighborhood: True
+  node_drag_fix: True
+  node_size_normalization_max: 12
+  node_label_size_factor: 0.55
+  use_edge_size_normalization: False
+  edge_label_size_factor: 0.5
+  node_label_data_source: label
+  edge_label_data_source: label
+  edge_curvature: 0.09
+  show_edge_label: True
+  use_collision_force: True
+  links_force_distance: 99
+
