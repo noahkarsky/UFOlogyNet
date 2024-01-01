@@ -16,7 +16,7 @@ node_color_map:
 
 
 gravis_plot_config:
-  graph_height: 690
+  graph_height: 900
   use_node_size_normalization: True
   node_hover_neighborhood: True
   node_drag_fix: True
@@ -29,5 +29,6 @@ gravis_plot_config:
   edge_curvature: 0.09
   show_edge_label: True
   use_collision_force: True
-  links_force_distance: 99
-
+  links_force_distance: 72
+  use_y_positioning_force: True
+  y_positioning_force_strength: 0.05

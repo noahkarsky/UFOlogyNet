@@ -37,7 +37,7 @@ def make_graph(df_nodes, df_edges):
     G = nx.DiGraph()
     for index, row in df_nodes.iterrows():
         G.add_node(
-            row["name"],
+            row["id"],
             label=row["name"],
             group=row["type"],
             color=assign_color(row["type"]),
