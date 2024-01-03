@@ -180,11 +180,6 @@
         "relationship_type": "employer"
     },
     {
-        "source": "1952",
-        "target": "1952",
-        "relationship_type": "point_in_time"
-    },
-    {
         "source": "aec",
         "target": "los_alamos_national_lab",
         "relationship_type": "subsidiary"
@@ -366,21 +361,21 @@
     },
     {
         "source": "martinmarietta",
-        "target": "lockheed",
+        "target": "lockheed_martin",
         "relationship_type": "followed_by"
     },
     {
-        "source": "lockheed",
+        "source": "lockheed_martin",
         "target": "martinmarietta",
         "relationship_type": "follows"
     },
     {
         "source": "douglas_aircraft",
-        "target": "lockheed",
+        "target": "lockheed_martin",
         "relationship_type": "parent_organization"
     },
     {
-        "source": "lockheed",
+        "source": "lockheed_martin",
         "target": "douglas_aircraft",
         "relationship_type": "subsidiary"
     },
@@ -2290,7 +2285,7 @@
         "relationship_type": "industry"
     },
     {
-        "source": "lockheed",
+        "source": "lockheed_martin",
         "target": "civilian_contractors",
         "relationship_type": "industry"
     },
@@ -2346,11 +2341,11 @@
     },
     {
         "source": "lockheed_skunkworks",
-        "target": "lockheed",
+        "target": "lockheed_martin",
         "relationship_type": "parent_organization"
     },
     {
-        "source": "lockheed",
+        "source": "lockheed_martin",
         "target": "lockheed_skunkworks",
         "relationship_type": "subsidiary"
     },
@@ -2741,7 +2736,7 @@
     },
     {
         "source": "bernard_haisch",
-        "target": "lockheed",
+        "target": "lockheed_martin",
         "relationship_type": "employer"
     },
     {
@@ -2915,7 +2910,7 @@
         "relationship_type": "applies_to_jurisdiction"
     },
     {
-        "source": "lockheed",
+        "source": "lockheed_martin",
         "target": "sunnyvale",
         "relationship_type": "headquarters_location"
     },
@@ -2950,9 +2945,14 @@
         "relationship_type": "subsidiary"
     },
     {
-        "source": "kit_green",
-        "target": "detroit",
-        "relationship_type": "place_of_birth"
+        "source": "bigelow_aerospace_advanced_space_studies",
+        "target": "larry_grossman",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "advanced_aerospace_weapon_systems_applications_program",
+        "target": "larry_grossman",
+        "relationship_type": "employer"
     },
     {
         "source": "department_of_homeland_security",
@@ -3235,7 +3235,7 @@
         "relationship_type": "parent_organization"
     },
     {
-        "source": "lockheed",
+        "source": "lockheed_martin",
         "target": "aircraft",
         "relationship_type": "product_or_material_produced"
     },
@@ -3275,7 +3275,7 @@
         "relationship_type": "instance_of"
     },
     {
-        "source": "lockheed",
+        "source": "lockheed_martin",
         "target": "aerospace_companies",
         "relationship_type": "instance_of"
     },
@@ -3401,7 +3401,7 @@
     },
     {
         "source": "richard_doty",
-        "target": "afosi",
+        "target": "air_force_office_of_special_investigations",
         "relationship_type": "employer"
     },
     {

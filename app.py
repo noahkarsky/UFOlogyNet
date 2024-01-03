@@ -1,4 +1,4 @@
-from utilities.data_processing import read_in_data, filter_dataframes
+from utilities.data_processing import read_in_data, filter_dataframes, get_neighborhood
 from utilities.app_utilities import make_graph, make_plot
 
 import streamlit as st
@@ -36,16 +36,31 @@ df_nodes, df_edges = read_in_data(dataset_selection)
 # Get a list of all nodes
 all_nodes = df_nodes["name"].unique().tolist()
 all_nodes.insert(0, "ALL")  # Add "ALL" option to the list
-
-
 # Create a dropdown menu for node selection
 selected_node = st.selectbox("Select a node", all_nodes)
 
-df_nodes_filtered, df_edges_filtered = filter_dataframes(
-    selected_node, df_nodes, df_edges
-)
-G = make_graph(df_nodes_filtered, df_edges_filtered)
+#get the id of the selected node
+
+
+G = make_graph(df_nodes, df_edges)
+
+
+# df_nodes_filtered, df_edges_filtered = filter_dataframes(
+#     selected_node, df_nodes, df_edges
+# )
+
+if selected_node != "ALL":
+    selected_node_id = df_nodes[df_nodes["name"] == selected_node]["id"].values[0]
+    # lets get the neighborhood of the selected node
+    filtered_nodes = get_neighborhood(G, selected_node_id, radius=2)
+    G = G.subgraph(filtered_nodes)
+
+
 graph_vis = make_plot(G, gravis_plot_config)
 
 
 components.html(graph_vis.to_html(), height=1200)  # << adjust if needed
+#lets print some statistics about the graph
+st.subheader("Graph Statistics")
+st.markdown(f"Number of nodes: {len(G.nodes())}")
+st.markdown(f"Number of edges: {len(G.edges())}")

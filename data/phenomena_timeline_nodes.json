@@ -1398,12 +1398,6 @@
         "properties": {}
     },
     {
-        "id": "1952",
-        "type": "date",
-        "name": "1952",
-        "properties": {}
-    },
-    {
         "id": "9_july_1991_entry",
         "type": "date",
         "name": "9 july 1991 entry",
@@ -1585,13 +1579,13 @@
     },
     {
         "id": "senate_appropriations_committee",
-        "type": "groip",
+        "type": "group",
         "name": "senate appropriations committee",
         "properties": {}
     },
     {
         "id": "congress",
-        "type": "groip",
+        "type": "group",
         "name": "congress",
         "properties": {}
     },
@@ -2073,6 +2067,12 @@
         "id": "southwest_center_for_advanced_studies",
         "type": "place",
         "name": "southwest center for advanced studies",
+        "properties": {}
+    },
+    {
+        "id": "advanced_aerospace_weapon_systems_applications_program",
+        "type": "program",
+        "name": "Advanced Aerospace Weapon Systems Applications Program",
         "properties": {}
     },
     {
@@ -3936,9 +3936,9 @@
         "properties": {}
     },
     {
-        "id": "afosi",
+        "id": "air_force_office_of_special_investigations",
         "type": "position",
-        "name": "afosi",
+        "name": "Air Force Office of Special Investigations",
         "properties": {}
     },
     {
@@ -4851,6 +4851,12 @@
         "id": "larry_lemke",
         "type": "person",
         "name": "larry lemke",
+        "properties": {}
+    },
+    {
+        "id": "larry_grossman",
+        "type": "person",
+        "name": "Larry Grossman",
         "properties": {}
     },
     {

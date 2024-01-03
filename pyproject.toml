@@ -18,6 +18,9 @@ gravis = "^0.1.0"
 matplotlib = "^3.8.2"
 
 
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.28.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"

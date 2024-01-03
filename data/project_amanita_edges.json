@@ -3606,5 +3606,112 @@
         "target": "us_army",
         "relationship_type": "subsidiary",
         "properties": {}
+    },
+    {
+        "source": "thornton_page",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "carl_sagan",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "william_k_hartmann",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "franklin_roach",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "dr._j_allen_hynek",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "james_e_mcdonald",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "donald_h_menzel",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "kenneth_r_hardy",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "robert_m._l._baker_jr.",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "robert_l_hall",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "douglass_r_price_williams",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "lester_grinspoon",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "alan_d_persky",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "frank_d_drake",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "walter_sullivan",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "philip_morrison",
+        "target": "ufos_a_scientific_debate",
+        "relationship_type": "author"
+    },
+    {
+        "source": "doug_wolfe",
+        "target": "office_of_global_access_oga",
+        "relationship_type": "employer"
+    },
+    {
+        "source": "office_of_global_access_oga",
+        "target": "cia",
+        "relationship_type": "subsidiary"
+    },
+    {
+        "source": "office_of_global_access_oga",
+        "target": "crash_retrieval_program",
+        "relationship_type":"has_part",
+        "properties":{
+            "notes":"OGA was the CIA's method of handling a crash retrieval program\nhttps://www.dailymail.co.uk/news/article-12796167/CIA-secret-office-UFO-retrieval-missions-whistleblowers.html"
+        }
+    },
+    {
+        "source": "office_of_global_access_oga",
+        "target": "nuclear_emergency_support_team",
+        "relationship_type":"collaborated_with",
+        "properties":{
+            "notes": ""
+        }
     }
+    
 ]

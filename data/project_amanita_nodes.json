@@ -1120,6 +1120,16 @@
         }
     },
     {
+        "id": "kenneth_r_hardy",
+        "type": "person",
+        "name": "Kenneth R Hardy",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Kenneth R Hardy"
+        }
+    },
+    {
         "id": "stargate_project",
         "type": "program",
         "name": "Stargate Project",
@@ -3592,11 +3602,11 @@
     {
         "id": "william_bill_church",
         "type": "person",
-        "name": "William Bill Church",
+        "name": "William Bill Church Jr",
         "properties": {
             "properties.start_date": null,
             "properties.end_date": null,
-            "properties.notes": "George William \"Bill\" Church \n https://www.findagrave.com/memorial/125248751/george-william-church\n\n"
+            "properties.notes": "George William \"Bill\" Church \n https://www.findagrave.com/memorial/125248751/george-william-church\n\n \n https://obits.nj.com/us/obituaries/hunterdoncountydemocrat/name/george-church-obituary?id=19604585"
         }
     },
     {
@@ -4347,6 +4357,176 @@
             "properties.start_date": null,
             "properties.end_date": null,
             "properties.notes": ""
+        }
+    },
+    {
+        "id": "ufos_a_scientific_debate",
+        "type": "publication",
+        "name": "UFO's: A Scientific Debate",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "UFO's: A Scientific Debate, published in 1972, is a collection of essays from fifteen scientists with various specializations and differing views on extraterrestrials. The book, edited by Carl Sagan and Thornton Page, aimed to analyze purported UFO evidence using scientific methods. It is a compilation of thoughts and discussions from these scientists, relying upon scientific methodology to examine the data regarding UFOs"
+        }
+    },
+    {
+        "id": "carl_sagan",
+        "type": "person",
+        "name": "Carl Sagan",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Carl Edward Sagan was an American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, poet, and science communicator. His best known scientific contribution is research on extraterrestrial life, including experimental demonstration of the production of amino acids from basic chemicals by radiation. Sagan assembled the first physical messages sent into space: the Pioneer plaque and the Voyager Golden Record, universal messages that could potentially be understood by any extraterrestrial intelligence that might find them"
+        }
+    },
+    {
+        "id": "thornton_page",
+        "type": "person",
+        "name": "Thornton Page",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Thornton Leigh Page was an American astronomer and astrophysicist. He was a professor of astronomy at the University of California, Berkeley, and a pioneer in the field of radio astronomy. He was the first to detect radio waves from the Andromeda Galaxy, and the first to measure the rotation of the Milky Way. He was also a pioneer in the search for extraterrestrial intelligence, and was the first to propose the use of microwave radio to search for extraterrestrial intelligence in 1959"
+        }
+    },
+    {
+        "id": "william_k_hartmann",
+        "type": "person",
+        "name": "William K Hartmann",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "William Kenneth Hartmann is an American planetary scientist, painter, and writer. He was among the first to propose the giant impact hypothesis of lunar origin, and the re-accretion hypothesis for the origin of Martian moons. He is a senior scientist at the Planetary Science Institute in Tucson, Arizona"
+        }
+    },
+    {
+        "id": "franklin_roach",
+        "type": "person",
+        "name": "Franklin Roach",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Franklin Roach was an American astronomer and astrophysicist. He was a professor of astronomy at the University of California, Berkeley, and a pioneer in the field of radio astronomy. He was the first to detect radio waves from the Andromeda Galaxy, and the first to measure the rotation of the Milky Way. He was also a pioneer in the search for extraterrestrial intelligence, and was the first to propose the use of microwave radio to search for extraterrestrial intelligence in 1959"
+        }
+    },
+    {
+        "id": "james_e_mcdonald",
+        "type": "person",
+        "name": "James E McDonald",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "James Edward McDonald was an American physicist. He is best known for his research regarding UFOs. McDonald was a senior physicist at the Institute for Atmospheric Physics and professor in the Department of Meteorology at the University of Arizona in Tucson. He was a member of the National Academy of Sciences, and from 1962 until his death, he was a member of the President's Science Advisory Committee"
+        }
+    },
+    {
+        "id": "donald_h_menzel",
+        "type": "person",
+        "name": "Donald H Menzel",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Donald Howard Menzel was one of the first theoretical astronomers and astrophysicists in the US. He discovered the physical properties of the solar chromosphere, the chemistry of stars, the atmosphere of Mars, and the nature of gaseous nebulae. He established the fundamental principles of the physical interpretation of stellar spectra, and the first reasonably complete picture of the outer layers of the Sun. He was also involved in the first radio experiments for the detection of meteors and the ionosphere, and in the discovery of the first radio signals from the Andromeda Galaxy"
+        }
+    },
+    {
+        "id": "robert_l_hall",
+        "type": "person",
+        "name": "Robert L. Hall",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": ""
+        }
+    },
+    {
+        "id": "douglass_r_price_williams",
+        "type": "person",
+        "name": "Douglass R. Price-Williams",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": ""
+        }
+    },
+    {
+        "id": "lester_grinspoon",
+        "type": "person",
+        "name": "Lester Grinspoon",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": ""
+        }
+    },
+    {
+        "id": "alan_d_persky",
+        "type": "person",
+        "name": "Alan D. Persky",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": ""
+        }
+    },
+    {
+        "id": "frank_d_drake",
+        "type": "person",
+        "name": "Frank D. Drake",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Frank D. Drake is an American astronomer and astrophysicist. He is most noted for his work in SETI, the Search for Extraterrestrial Intelligence, including the founding of SETI, mounting the first observational attempts at detecting extraterrestrial communications in 1960 in Project Ozma, and his development of the Drake Equation, a probabilistic formula to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy."
+        }
+    },
+    {
+        "id": "walter_sullivan",
+        "type": "person",
+        "name": "Walter Sullivan",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Walter Sullivan was an American science writer and journalist. He was the longtime science editor and columnist for The New York Times, and wrote extensively about the history of science. He won the Pulitzer Prize for General Non-Fiction in 1955 for his book, We Are Not Alone: The Search for Intelligent Life on Other Worlds"
+        }
+    },
+    {
+        "id": "philip_morrison",
+        "type": "person",
+        "name": "Philip Morrison",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": "Philip Morrison was an American physicist, who worked on the Manhattan Project and became a prominent popularizer of science. He worked on the first atomic bomb, helped discover the kaon, participated in the development of the first nuclear reactor, and later became a member of the JASON Defense Advisory Group. He wrote Scientific American's \"The Amateur Scientist\" column for more than three decades, and his book Powers of Ten was turned into an award-winning documentary film"
+        }
+    },
+    {
+        "id": "office_of_global_access_oga",
+        "type": "organization",
+        "name": "Office of Global Access OGA",
+        "properties": {
+            "properties.start_date": "2003",
+            "properties.end_date": "",
+            "properties.notes": "a wing of the Central Intelligence Agency's Science and Technology Directorate, has played a central role since 2003 in orchestrating the collection of what could be alien spacecraft. \nhttps://www.dailymail.co.uk/news/article-12796167/CIA-secret-office-UFO-retrieval-missions-whistleblowers.html"
+        }
+    },
+    {
+        "id": "doug_wolfe",
+        "type": "person",
+        "name": "Doug Wolfe",
+        "properties": {
+            "properties.start_date": "",
+            "properties.end_date": "",
+            "properties.notes": "OGA deputy director, helped start the OGA in 2003"
+        }
+    },
+    {
+        "id": "nuclear_emergency_support_team",
+        "type": "group",
+        "name": "Nuclear Emergency Support Team",
+        "properties": {
+            "properties.start_date": "",
+            "properties.end_date": "",
+            "properties.notes": ". Part of the Department of Energy's National Nuclear Security Administration (NNSA), NEST specializes in addressing and managing incidents involving nuclear weapons, improvised nuclear devices (INDs), radiological dispersal devices (RDDs), or lost or stolen nuclear materials"
         }
     }
 ]

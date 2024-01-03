@@ -26,9 +26,15 @@ gravis_plot_config:
   edge_label_size_factor: 0.5
   node_label_data_source: label
   edge_label_data_source: label
-  edge_curvature: 0.09
+  edge_curvature: 0.12
   show_edge_label: True
-  use_collision_force: True
+  use_collision_force: False
   links_force_distance: 72
-  use_y_positioning_force: True
+  use_y_positioning_force: False
   y_positioning_force_strength: 0.05
+  use_many_body_force_min_distance: True
+  many_body_force_min_distance: 100
+  use_many_body_force_max_distance: True
+  many_body_force_max_distance: 1200
+  node_hover_tooltip: True
+  

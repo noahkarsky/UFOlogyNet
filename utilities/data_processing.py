@@ -1,6 +1,6 @@
 # we need to make a way to read in the data
 import pandas as pd
-
+import networkx as nx
 
 def read_in_data(dataset_selection):
     """
@@ -24,6 +24,33 @@ def read_in_data(dataset_selection):
     return df_nodes, df_edges
 
 
+def get_neighborhood(G, node, radius=1):
+    """
+    Get the neighborhood of a node in a graph.
+
+    Args:
+        G (networkx.Graph): The graph object.
+        node (str): The node to get the neighborhood of.
+        radius (int, optional): The radius of the neighborhood. Defaults to 1.
+
+    Returns:
+        set: A set of nodes in the neighborhood.
+    """
+    # Create an undirected version of the graph
+    G_undirected = G.to_undirected()
+
+    neighborhood = {node}
+    for _ in range(radius):
+        neighborhood.update(
+            [
+                neighbor
+                for n in neighborhood.copy()  # We need to iterate over a copy of the set because we're modifying it in the loop
+                for neighbor in G_undirected.neighbors(n)
+                if neighbor not in neighborhood
+            ]
+        )
+    return neighborhood
+
 def filter_dataframes(node_name, df_nodes, df_edges):
     """
     Filters the given dataframes based on a specified node name.
@@ -45,26 +72,28 @@ def filter_dataframes(node_name, df_nodes, df_edges):
         return df_nodes, df_edges
 
     df_nodes_filtered = df_nodes[df_nodes["name"] == node_name]
+    # grab the node id
+    node_id = df_nodes_filtered["id"].values[0]
+    
     # filter edges
     df_edges_filtered = df_edges[
-        (df_edges["source"] == node_name) | (df_edges["target"] == node_name)
+        (df_edges["source"] == node_id) | (df_edges["target"] == node_id)
     ]
     # we need to add the nodes that are connected to the node we are filtering on
     for index, row in df_edges_filtered.iterrows():
-        if row["source"] == node_name:
+        if row["source"] == node_id:
             df_nodes_filtered = pd.concat(
                 [
                     df_nodes_filtered,
-                    df_nodes[df_nodes["name"] == row["target"]],
+                    df_nodes[df_nodes["id"] == row["target"]],
                 ]
             )
         else:
             df_nodes_filtered = pd.concat(
                 [
                     df_nodes_filtered,
-                    df_nodes[df_nodes["name"] == row["source"]],
+                    df_nodes[df_nodes["id"] == row["source"]],
                 ]
             )
 
     return df_nodes_filtered, df_edges_filtered
-
