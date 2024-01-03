@@ -1,4 +1,4 @@
-from utilities.data_processing import read_in_data, filter_dataframes, get_neighborhood
+from utilities.data_processing import read_in_data, get_neighborhood
 from utilities.app_utilities import make_graph, make_plot
 
 import streamlit as st
@@ -43,11 +43,6 @@ selected_node = st.selectbox("Select a node", all_nodes)
 
 
 G = make_graph(df_nodes, df_edges)
-
-
-# df_nodes_filtered, df_edges_filtered = filter_dataframes(
-#     selected_node, df_nodes, df_edges
-# )
 
 if selected_node != "ALL":
     selected_node_id = df_nodes[df_nodes["name"] == selected_node]["id"].values[0]
