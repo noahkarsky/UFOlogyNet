@@ -18,15 +18,20 @@ st.title("Anonymous Phenomena Timeline - Knowledge Graph")
 st.markdown(
     """
 
-This is a small project to turn [the author-unknown timeline of UAP historical events](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), released during the [July 26 Congressional hearings](https://time.com/6298287/congress-ufo-hearing/), into a knowledge graph. 
-It helps to view the app in full screen, if not sometimes the nodes can be found dragging around the graph.**It may take several seconds for ALL nodes to render**
-    
+This is a small project, where I was attempting to turn [the author-unknown timeline of UAP historical events](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), released during the [July 26 Congressional hearings](https://time.com/6298287/congress-ufo-hearing/), into a knowledge graph. 
+
+The data was compiled into a markdown file, I programatically pulled entities and relationships from the file, cleaned the data a bit, and made a graph.
+At this stage it is more of a fun thing to mess around with, but I hope to add more functionality to make it a viable research tool.
+
+I added my own data from [Project Amanita](https://github.com/noahkarsky/project-amanita?tab=readme-ov-file/), and added to it. I think I will keep expanding it as I sift through this timeline data mode, and eventually merge the two of them in a useful way.
+
+hit me up on twitter [@noahkarsky](https://twitter.com/noahkarsky) if you have any questions or comments.
     """
 )
 # create a dropdown where people slect eith "Phenomena Timeline Data" or "Project Amanita Data
 
 dataset_selection = st.selectbox(
-    "Select a dataset", ["Phenomena Timeline Data", "Project Amanita Data"]
+    "Select a dataset", [ "Project Amanita Data","Phenomena Timeline Data"]
 )
 
 
@@ -37,7 +42,7 @@ df_nodes, df_edges = read_in_data(dataset_selection)
 all_nodes = df_nodes["name"].unique().tolist()
 all_nodes.insert(0, "ALL")  # Add "ALL" option to the list
 # Create a dropdown menu for node selection
-selected_node = st.selectbox("Select a node", all_nodes)
+selected_node = st.selectbox("Select a node to explore a subset of the graph", all_nodes)
 
 #get the id of the selected node
 
@@ -56,6 +61,6 @@ graph_vis = make_plot(G, gravis_plot_config)
 
 components.html(graph_vis.to_html(), height=1200)  # << adjust if needed
 #lets print some statistics about the graph
-st.subheader("Graph Statistics")
+st.subheader("Graph Statistics (to be added to in the future))")
 st.markdown(f"Number of nodes: {len(G.nodes())}")
 st.markdown(f"Number of edges: {len(G.edges())}")
