@@ -295,8 +295,8 @@
         "name": "Project 8200",
         "properties": {
             "properties.start_date": "1982",
-            "properties.end_date": "19886",
-            "properties.notes": null
+            "properties.end_date": "1986",
+            "properties.notes": "Project 8200 was an effort within the US Army's remote viewing unit to verify claims of subterranean extraterrestrial bases made by CIA analyst Pat Price in the 1970s.  \n https://www.youtube.com/watch?v=H4AvcCAcs_k"
         }
     },
     {
@@ -4466,7 +4466,7 @@
         "properties": {
             "properties.start_date": null,
             "properties.end_date": null,
-            "properties.notes": ""
+            "properties.notes": "Alan D. Persky was an American astronomer and astrophysicist. He was a professor of astronomy at the University of California, Berkeley, and a pioneer in the field of radio astronomy. He was the first to detect radio waves from the Andromeda Galaxy, and the first to measure the rotation of the Milky Way. He was also a pioneer in the search for extraterrestrial intelligence, and was the first to propose the use of microwave radio to search for extraterrestrial intelligence in 1959"
         }
     },
     {
@@ -4528,5 +4528,36 @@
             "properties.end_date": "",
             "properties.notes": ". Part of the Department of Energy's National Nuclear Security Administration (NNSA), NEST specializes in addressing and managing incidents involving nuclear weapons, improvised nuclear devices (INDs), radiological dispersal devices (RDDs), or lost or stolen nuclear materials"
         }
-    }
+    },
+    {
+        "id": "gepan",
+        "type": "program",
+        "name": "GEPAN",
+        "properties": {
+            "properties.start_date": "1977",
+            "properties.end_date": "1988",
+            "properties.notes": "Groupe d'Études des Phénomènes Aérospatiaux Non-identifiés, established under CNES for UAP research in France"
+        }
+    },
+    {
+        "id": "sepra",
+        "type": "program",
+        "name": "SEPRA",
+        "properties": {
+            "properties.start_date": "1988",
+            "properties.end_date": "2004",
+            "properties.notes": "Service d'Expertise des Phénomènes de Rentrées Atmosphériques, focused on atmospheric re-entry phenomena and UAP studies"
+        }
+    },
+    {
+        "id": "france",
+        "type": "place",
+        "name": "France",
+        "properties": {
+            "properties.start_date": null,
+            "properties.end_date": null,
+            "properties.notes": ""
+        }
+    },
+    
 ]

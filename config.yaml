@@ -21,6 +21,7 @@ gravis_plot_config:
   node_hover_neighborhood: True
   node_drag_fix: True
   node_size_normalization_max: 12
+  node_size_factor: 1.8
   node_label_size_factor: 0.55
   use_edge_size_normalization: False
   edge_label_size_factor: 0.5

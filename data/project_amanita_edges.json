@@ -2071,7 +2071,7 @@
     {
         "source": "allen_welsh_dulles",
         "target": "national_security_act_of_1947",
-        "relationship_type": "followed",
+        "relationship_type": "studies",
         "properties": {}
     },
     {
@@ -3712,6 +3712,32 @@
         "properties":{
             "notes": ""
         }
+    },
+    {
+        "source": "sepra",
+        "target": "gepan",
+        "relationship_type":"follows",
+        "properties":{
+            "notes": ""
+        }
+    },
+    {
+        "source": "sepra",
+        "target": "france",
+        "relationship_type":"located_in",
+        "properties":{
+            "notes": ""
+        }
     }
+    {
+        "source": "gepan",
+        "target": "france",
+        "relationship_type":"located_in",
+        "properties":{
+            "notes": ""
+        }
+    }
+    
+
     
 ]
