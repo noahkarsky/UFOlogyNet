@@ -17,13 +17,15 @@ st.set_page_config(layout="wide")
 st.title("Anonymous Phenomena Timeline - Knowledge Graph")
 st.markdown(
     """
+On this app, one can explore two datasets.
 
-This is a small project, where I was attempting to turn [the author-unknown timeline of UAP historical events](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), released during the [July 26 Congressional hearings](https://time.com/6298287/congress-ufo-hearing/), into a knowledge graph. 
+1. Project Amanita Data - A curated, not always referenced collection of events, peoples, places, and things related to the UAP phenomenon that I have come across in my research. I have added to it, and will continue to do so. I hope to make it a useful tool for researchers and enthusiasts alike.
+2. Phenomena Timeline Data - A knowledge graph representation of [the author-unknown timeline of UAP historical events](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), released during the [July 26 Congressional hearings](https://time.com/6298287/congress-ufo-hearing/), into a knowledge graph. 
 
 The data was compiled into a markdown file, I programatically pulled entities and relationships from the file, cleaned the data a bit, and made a graph.
 At this stage it is more of a fun thing to mess around with, but I hope to add more functionality to make it a viable research tool.
 
-I added my own data from [Project Amanita](https://github.com/noahkarsky/project-amanita?tab=readme-ov-file/), and added to it. I think I will keep expanding it as I sift through this timeline data mode, and eventually merge the two of them in a useful way.
+The now deprecated [Project Amanita](https://github.com/noahkarsky/project-amanita?tab=readme-ov-file/), and added to it. I think I will keep expanding it as I sift through this timeline data mode, and eventually merge the two of them in a useful way.
 
 hit me up on twitter [@noahkarsky](https://twitter.com/noahkarsky) if you have any questions or comments.
     """

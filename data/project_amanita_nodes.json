@@ -86,7 +86,7 @@
         "properties": {
             "properties.start_date": null,
             "properties.end_date": null,
-            "properties.notes": ""
+            "properties.notes": "Promoted the exploration of psychic research within the military."
         }
     },
     {
@@ -386,7 +386,7 @@
         "properties": {
             "properties.start_date": null,
             "properties.end_date": null,
-            "properties.notes": "First Director of Central Intelligence"
+            "properties.notes": "First Director of Central Intelligence Agency, he called for congrssional investigation and was opposed by the Air force "
         }
     },
     {
@@ -2264,9 +2264,19 @@
         "type": "person",
         "name": "Karl T. Pflock",
         "properties": {
+            "start_date": "1943-02-22",
+            "end_date": "2006-06-05",
+            "notes": "Karl T. Pflock was a former CIA officer who became a significant figure in UFO research, known for his analytical approach to the study of unidentified flying objects (UFOs). He authored several critical works on UFOs, including 'Roswell: Inconvenient Facts and the Will to Believe,' where he presented a skeptical view of the extraterrestrial hypothesis, particularly regarding the Roswell incident. Pflock's contributions are marked by his application of intelligence and analytical rigor to UFO phenomena, advocating for empirical evidence and challenging unsubstantiated claims."
+        }
+    },
+    {
+        "id": "roswell_inconvenient_facts",
+        "type": "publication",
+        "name": "Roswell: Inconvenient Facts and the Will to Believe",
+        "properties": {
             "properties.start_date": null,
             "properties.end_date": null,
-            "properties.notes": ""
+            "properties.notes":  "A critical examination of the Roswell UFO incident by Karl T. Pflock, challenging the extraterrestrial hypothesis and advocating for a skeptical analysis of the evidence."
         }
     },
     {
@@ -3007,6 +3017,26 @@
             "properties.start_date": "",
             "properties.end_date": "1970",
             "properties.notes": ""
+        }
+    },
+    {
+        "id": "edward_james_ruppelt",
+        "type": "person",
+        "name": "Edward James Ruppelt",
+        "properties": {
+            "properties.start_date": "",
+            "properties.end_date": "",
+            "properties.notes": "known for his role in the United States Air Force's Project Blue Book. Ruppelt served as the first director of Project Blue Book, which was the Air Force's program dedicated to investigating UFO sightings and reports. His tenure, from 1951 to 1953, was marked by a relatively open and serious approach towards UFO investigations."
+        }
+    },
+    {
+        "id": "the_report_on_unidentified_flying_objects",
+        "type": "publication",
+        "name": "The Report on Unidentified Flying Objects",
+        "properties": {
+            "properties.start_date": "",
+            "properties.end_date": "",
+            "properties.notes": "The Report on Unidentified Flying Objects is a book by Edward J. Ruppelt which was published in 1956. Ruppelt is a ufologist who headed Project Blue Book from 1951 to 1953. In the book, he describes his experiences in Project Blue Book, and criticizes the Air Force for its mishandling of UFO sightings and for its general incompetence."
         }
     },
     {
@@ -4004,9 +4034,9 @@
         "type": "program",
         "name": "INSCOM CENTER LANE Project",
         "properties": {
-            "properties.start_date": "",
-            "properties.end_date": "",
-            "properties.notes": ""
+            "start_date": "Late 1970s",
+            "end_date": "Early 1980s",
+            "notes": "A U.S. Army initiative exploring the operational potential of psychic phenomena for intelligence gathering."
         }
     },
     {
@@ -4559,5 +4589,22 @@
             "properties.notes": ""
         }
     },
-    
+    {
+        "id": "house_committee_on_science_and_astronautics",
+        "type": "organization",
+        "name": "House Committee on Science and Astronautics",
+        "properties": {
+            "properties.notes": "The House Committee on Science and Astronautics was a committee of the United States House of Representatives"
+        }
+    },
+    {
+        "id": "symposium_on_unidentified_flying_objects",
+        "type": "event",
+        "name": "Symposium on Unidentified Flying Objects",
+        "properties": {
+            "properties.start_date": "1968",
+            "properties.end_date": "",
+            "properties.notes": "The Symposium on Unidentified Flying Objects was a meeting held in Boston, Massachusetts, on January 14–18, 1969, sponsored by the American Association for the Advancement of Science and the Smithsonian Institution. The purpose of the symposium was to bring together scientists in various fields to discuss UFOs in a scientific context"
+        }
+    }
 ]

@@ -35,6 +35,7 @@ gravis_plot_config:
   y_positioning_force_strength: 0.05
   use_many_body_force_min_distance: True
   many_body_force_min_distance: 100
+  many_body_force_strength: -372
   use_many_body_force_max_distance: True
   many_body_force_max_distance: 1200
   node_hover_tooltip: True

@@ -494,6 +494,14 @@
         "properties": {}
     },
     {
+        "source": "roscoe_h._hillenkoetter",
+        "target": "congres",
+        "relationship_type": "employer",
+        "properties": {
+            "notes": "He was head of the CIA from 1947 to Oct 1950"
+        }
+    },
+    {
         "source": "vannevar_bush",
         "target": "crash_retrieval_and_uap_acknowledgement",
         "relationship_type": "facet_of",
@@ -3700,44 +3708,73 @@
     {
         "source": "office_of_global_access_oga",
         "target": "crash_retrieval_program",
-        "relationship_type":"has_part",
-        "properties":{
-            "notes":"OGA was the CIA's method of handling a crash retrieval program\nhttps://www.dailymail.co.uk/news/article-12796167/CIA-secret-office-UFO-retrieval-missions-whistleblowers.html"
+        "relationship_type": "has_part",
+        "properties": {
+            "notes": "OGA was the CIA's method of handling a crash retrieval program\nhttps://www.dailymail.co.uk/news/article-12796167/CIA-secret-office-UFO-retrieval-missions-whistleblowers.html"
         }
     },
     {
         "source": "office_of_global_access_oga",
         "target": "nuclear_emergency_support_team",
-        "relationship_type":"collaborated_with",
-        "properties":{
+        "relationship_type": "collaborated_with",
+        "properties": {
             "notes": ""
         }
     },
     {
         "source": "sepra",
         "target": "gepan",
-        "relationship_type":"follows",
-        "properties":{
+        "relationship_type": "follows",
+        "properties": {
             "notes": ""
         }
     },
     {
         "source": "sepra",
         "target": "france",
-        "relationship_type":"located_in",
-        "properties":{
+        "relationship_type": "located_in",
+        "properties": {
             "notes": ""
         }
-    }
+    },
     {
         "source": "gepan",
         "target": "france",
-        "relationship_type":"located_in",
-        "properties":{
+        "relationship_type": "located_in",
+        "properties": {
+            "notes": ""
+        }
+    },
+    {
+        "source": "house_committee_on_science_and_astronautics",
+        "target": "france",
+        "relationship_type": "located_in",
+        "properties": {
+            "notes": ""
+        }
+    },
+    {
+        "source": "edward_james_ruppelt",
+        "target": "project_blue_book",
+        "relationship_type": "member_of",
+        "properties": {
+            "notes": "Edward James Ruppelt was the head of Project Blue Book from 1951 to 1953"
+        }
+    },
+    {
+        "source": "edward_james_ruppelt",
+        "target": "air_force",
+        "relationship_type": "employer",
+        "properties": {
+            "notes": ""
+        }
+    },
+    {
+        "source": "edward_james_ruppelt",
+        "target": "the_report_on_unidentified_flying_objects",
+        "relationship_type": "author",
+        "properties": {
             "notes": ""
         }
     }
-    
-
-    
 ]
