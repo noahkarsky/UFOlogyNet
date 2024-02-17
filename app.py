@@ -14,7 +14,7 @@ gravis_plot_config = config["gravis_plot_config"]
 # APP DESIGN
 # make st wide
 st.set_page_config(layout="wide")
-st.title("Anonymous Phenomena Timeline - Knowledge Graph")
+st.title("The UFOlogyNet")
 st.markdown(
     """
 On this app, one can explore two datasets.
